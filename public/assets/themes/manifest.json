@@ -1,0 +1,41 @@
+{
+  "generatedWith": "built-in image_gen",
+  "date": "2026-10-03",
+  "sourceDirectory": "docs/art-source",
+  "artDirection": "Rounded plush 3D storybook; distinctive room, garden, sky and night palettes",
+  "backgrounds": [
+    "body/workshop",
+    "body/music",
+    "body/stage",
+    "family/living",
+    "family/garden",
+    "family/studio"
+  ],
+  "sprites": [
+    "body/rabbit-idle.png",
+    "body/rabbit-nose.png",
+    "body/rabbit-clap.png",
+    "body/rabbit-march.png",
+    "body/rabbit-blow.png",
+    "body/rabbit-sleep.png",
+    "family/mommy.png",
+    "family/daddy.png",
+    "family/grandma.png",
+    "family/grandpa.png",
+    "family/baby.png",
+    "family/frame.png",
+    "themes/gift.png",
+    "themes/storybook.png",
+    "themes/balloon.png",
+    "themes/camera.png",
+    "themes/bell.png",
+    "themes/butterfly.png"
+  ],
+  "prompts": "docs/theme-art-prompts.json",
+  "referenceSources": [
+    "public/assets/snow/buddy-idle.png",
+    "public/assets/snow/troll.png"
+  ],
+  "normalization": "scripts/normalize-theme-assets.py",
+  "checks": "asset-checks.json"
+}

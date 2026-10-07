@@ -1,0 +1,237 @@
+{
+  "generatedWith": "built-in image_gen",
+  "date": "2026-10-04",
+  "sourceDirectory": "docs/art-source",
+  "prompts": "docs/toy-art-prompts.json",
+  "normalization": "scripts/normalize-toy-assets.py",
+  "artDirection": "Soft rounded 3D storybook toys; coral playroom, aqua clockwork station, sunny rainbow parade street. Native 1280x720 game frame; 1600x900 WebP backgrounds, 512x512 RGBA sprites with feet anchor [256,500].",
+  "files": [
+    {
+      "path": "playroom.webp",
+      "size": [
+        1600,
+        900
+      ],
+      "role": "background",
+      "source": "docs/art-source/toys-playroom.png"
+    },
+    {
+      "path": "station.webp",
+      "size": [
+        1600,
+        900
+      ],
+      "role": "background",
+      "source": "docs/art-source/toys-station.png"
+    },
+    {
+      "path": "parade.webp",
+      "size": [
+        1600,
+        900
+      ],
+      "role": "background",
+      "source": "docs/art-source/toys-parade.png"
+    },
+    {
+      "path": "ball.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        32,
+        31,
+        481,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-sprites.png",
+      "sourceCrop": [
+        0,
+        0,
+        510,
+        550
+      ]
+    },
+    {
+      "path": "teddy.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        52,
+        30,
+        460,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-sprites.png",
+      "sourceCrop": [
+        510,
+        0,
+        1040,
+        550
+      ]
+    },
+    {
+      "path": "doll.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        71,
+        30,
+        441,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-sprites.png",
+      "sourceCrop": [
+        1040,
+        0,
+        1536,
+        560
+      ]
+    },
+    {
+      "path": "car.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        190,
+        490,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-sprites.png",
+      "sourceCrop": [
+        0,
+        560,
+        567,
+        1024
+      ]
+    },
+    {
+      "path": "train.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "bounds": [
+        22,
+        123,
+        490,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-sprites.png",
+      "sourceCrop": [
+        567,
+        560,
+        1055,
+        1024
+      ]
+    },
+    {
+      "path": "blocks.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        94,
+        490,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-sprites.png",
+      "sourceCrop": [
+        1055,
+        560,
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "wagon.png",
+      "role": "toy sprite",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        267,
+        490,
+        500
+      ],
+      "pivot": [
+        256,
+        500
+      ],
+      "source": "docs/art-source/toys-wagon.png",
+      "sourceCrop": null
+    }
+  ],
+  "approval": "Approved after full in-game voice-flow preview and crop/size/alpha checks",
+  "previewChecks": "docs/previews/toy-preview-checks.json"
+}

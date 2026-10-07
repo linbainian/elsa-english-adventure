@@ -1,0 +1,210 @@
+{
+  "assetFiles": 15,
+  "checks": [
+    {
+      "file": "public/assets/elsa-looks/spring.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        322,
+        20,
+        600,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/spring-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        34,
+        14,
+        210,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/garden.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        399,
+        20,
+        664,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/garden-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        27,
+        24,
+        224,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/winter.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        310,
+        20,
+        648,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/winter-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        41,
+        24,
+        216,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/starlight.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        198,
+        20,
+        685,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/starlight-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        35,
+        25,
+        223,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/spirit.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        305,
+        20,
+        629,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/spirit-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        42,
+        18,
+        210,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/ice-wave.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        401,
+        20,
+        813,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/ice-wave-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        37,
+        25,
+        193,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/ice-cheer.png",
+      "size": [
+        1024,
+        512
+      ],
+      "bounds": [
+        349,
+        20,
+        808,
+        500
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/ice-cheer-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        35,
+        18,
+        220,
+        256
+      ]
+    },
+    {
+      "file": "public/assets/elsa-looks/ice-portrait.png",
+      "size": [
+        256,
+        256
+      ],
+      "bounds": [
+        44,
+        43,
+        186,
+        256
+      ]
+    }
+  ],
+  "sourceHashesVerified": 7,
+  "actorCanvas": [
+    1024,
+    512
+  ],
+  "portraitCanvas": [
+    256,
+    256
+  ],
+  "note": "Original blue actor frames and wardrobe texture sources are not modified."
+}

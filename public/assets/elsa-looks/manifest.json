@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-05",
+  "processing": "Alpha crop, premultiplied resize, torso/floor alignment and head crop only.",
+  "assets": [
+    {
+      "id": "spring",
+      "title": "春日花裙",
+      "file": "spring-freeicons-curl.png",
+      "torso": 222,
+      "head": [
+        190,
+        0,
+        291,
+        132
+      ],
+      "page": "https://www.freeiconspng.com/img/42239",
+      "image": "https://www.freeiconspng.com/uploads/green-dresses-elsa-frozen-fever-render-png-31.png",
+      "credit": "Ahkâm / FreeIconsPNG",
+      "note": "Source lists Personal Use Only and requests website attribution.",
+      "original": "docs/elsa-source-candidates/spring-freeicons-curl.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "6b95f5ef9c1ca5db73ac3247fdba052495321eb40e7d8932ba91be31d75d1ea3",
+      "sourceSize": [
+        323,
+        538
+      ],
+      "sourceAlphaBounds": [
+        11,
+        2,
+        320,
+        535
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        322,
+        20,
+        600,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    },
+    {
+      "id": "garden",
+      "title": "花园短裙",
+      "file": "spring-wpb-original.png",
+      "torso": 416,
+      "head": [
+        350,
+        6,
+        541,
+        223
+      ],
+      "page": "https://pngpix.com/png/elsa-frozen-fever-look-png-wpb-6uanpf3tyrz69n3d.html",
+      "image": "https://pngpix.com/images/file/elsa-frozen-fever-look-png-wpb-6uanpf3tyrz69n3d.png",
+      "credit": "PNGpix",
+      "note": "CG-style gallery illustration; do not label as the original Frozen Fever film costume.",
+      "original": "docs/elsa-source-candidates/spring-wpb-original.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "813458a7839c81fed555b8282c02639e5bf1cbe3c153166a7e2233a7cd2f1285",
+      "sourceSize": [
+        896,
+        896
+      ],
+      "sourceAlphaBounds": [
+        214,
+        18,
+        687,
+        876
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        399,
+        20,
+        664,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    },
+    {
+      "id": "winter",
+      "title": "冬日长靴",
+      "file": "holiday-t1-original.png",
+      "torso": 455,
+      "head": [
+        350,
+        8,
+        542,
+        231
+      ],
+      "page": "https://pngpix.com/png/elsa-holiday-celebration-png-05212024-t1mtd8cfhbrcvzp2.html",
+      "image": "https://pngpix.com/images/file/elsa-holiday-celebration-png-05212024-t1mtd8cfhbrcvzp2.png",
+      "credit": "PNGpix",
+      "note": "CG-style winter illustration with complete boots and cape.",
+      "original": "docs/elsa-source-candidates/holiday-t1-original.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "653943980edacbba4b0e9bdda9d93f4c4203cdb688f9405026f702f2342fbddf",
+      "sourceSize": [
+        896,
+        896
+      ],
+      "sourceAlphaBounds": [
+        94,
+        19,
+        696,
+        875
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        310,
+        20,
+        648,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    },
+    {
+      "id": "starlight",
+      "title": "星光蓬裙",
+      "file": "coronation-ovh-original.png",
+      "torso": 565,
+      "head": [
+        445,
+        10,
+        665,
+        292
+      ],
+      "page": "https://pngpix.com/png/elsa-coronation-dress-png-ovh-gzb4tmgu52c9wag8.html",
+      "image": "https://pngpix.com/images/file/elsa-coronation-dress-png-ovh-gzb4tmgu52c9wag8.png",
+      "credit": "PNGpix",
+      "note": "Page title says coronation; actual image is a turquoise party dress, so the game calls it 星光蓬裙.",
+      "original": "docs/elsa-source-candidates/coronation-ovh-original.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "b20977ba40a0e9cf802e60560fea50d69bd759379f2ab54e730f10c8802f97bb",
+      "sourceSize": [
+        896,
+        896
+      ],
+      "sourceAlphaBounds": [
+        20,
+        27,
+        866,
+        860
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        198,
+        20,
+        685,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    },
+    {
+      "id": "spirit",
+      "title": "精灵白裙",
+      "file": "pngall-Elsa-PNG-Picture.png",
+      "torso": 395,
+      "head": [
+        329,
+        39,
+        492,
+        270
+      ],
+      "page": "https://www.pngall.com/elsa-png/download/48385/",
+      "image": "https://www.pngall.com/wp-content/uploads/5/Elsa-PNG-Picture.png",
+      "credit": "PNG All",
+      "note": "Transparent white gown, loose hair, complete head/hands/feet. The source already ends the cape at its left edge; normalization retains every supplied pixel.",
+      "original": "docs/elsa-source-candidates/pngall-Elsa-PNG-Picture.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "9513d1b1bc17dfceab1d2ff273efba9943b27d35be4e25588cdc784feb4d5ed0",
+      "sourceSize": [
+        671,
+        1029
+      ],
+      "sourceAlphaBounds": [
+        0,
+        47,
+        618,
+        962
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        305,
+        20,
+        629,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    },
+    {
+      "id": "ice-wave",
+      "title": "蓝裙 · 捧雪花",
+      "file": "pngall-Disney-Princess-Elsa-Transparent.png",
+      "torso": 255,
+      "head": [
+        190,
+        30,
+        327,
+        215
+      ],
+      "page": "https://www.pngall.com/elsa-png/download/48261/",
+      "image": "https://www.pngall.com/wp-content/uploads/5/Disney-Princess-Elsa-Transparent.png",
+      "credit": "PNG All",
+      "note": "Additional full-body pose in the existing blue costume.",
+      "original": "docs/elsa-source-candidates/pngall-Disney-Princess-Elsa-Transparent.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "915553ed1aaaccce7f936e6fca00aa4b6ca04699a291c3479774b40478ebf81f",
+      "sourceSize": [
+        820,
+        870
+      ],
+      "sourceAlphaBounds": [
+        72,
+        40,
+        749,
+        828
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        401,
+        20,
+        813,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    },
+    {
+      "id": "ice-cheer",
+      "title": "蓝裙 · 张臂欢呼",
+      "file": "pngall-Elsa-PNG-HD-Image.png",
+      "torso": 293,
+      "head": [
+        230,
+        8,
+        349,
+        165
+      ],
+      "page": "https://www.pngall.com/elsa-png/download/48326/",
+      "image": "https://www.pngall.com/wp-content/uploads/5/Elsa-PNG-HD-Image.png",
+      "credit": "PNG All",
+      "note": "Additional full-body cheering pose; the source is scaled down rather than enlarged.",
+      "original": "docs/elsa-source-candidates/pngall-Elsa-PNG-HD-Image.png",
+      "rights": "Disney character. Public gallery source for the authorized personal, non-commercial prototype; not CC0 and not claimed to be an official film render.",
+      "sha256": "358f897f08cd35bdf2116fc9cad7aa24c6ec427365266ae00250590cbae65d4a",
+      "sourceSize": [
+        728,
+        688
+      ],
+      "sourceAlphaBounds": [
+        69,
+        13,
+        699,
+        672
+      ],
+      "actorSize": [
+        1024,
+        512
+      ],
+      "actorAlphaBounds": [
+        349,
+        20,
+        808,
+        500
+      ],
+      "groundY": 500,
+      "torsoX": 512
+    }
+  ]
+}

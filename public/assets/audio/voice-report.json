@@ -1,0 +1,3395 @@
+[
+  {
+    "file": "my-nose-is-tickly-1a40hss.mp3",
+    "text": "My nose is tickly!",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ci83xx.mp3",
+    "text": "团团的鼻子痒痒的。摸摸自己的鼻子，跟艾莎说鼻子的英语吧。",
+    "language": "Chinese",
+    "durationMs": 5328,
+    "bytes": 86964,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "where-are-my-eyes-15v2cf4.mp3",
+    "text": "Where are my eyes?",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1yvr72a.mp3",
+    "text": "团团把眼睛闭起来啦。说一声眼睛的英语，叫它看看你。",
+    "language": "Chinese",
+    "durationMs": 4248,
+    "bytes": 69684,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "my-mouth-makes-bubbles-10vfkp2.mp3",
+    "text": "My mouth makes bubbles!",
+    "language": "English",
+    "durationMs": 1944,
+    "bytes": 32820,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-10nr4fg.mp3",
+    "text": "团团想吹泡泡。指指小嘴巴，跟着说，就能看到彩虹泡泡。",
+    "language": "Chinese",
+    "durationMs": 5472,
+    "bytes": 89268,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "touch-your-nose-1yqn0ue.mp3",
+    "text": "Touch your nose.",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-17rw7o.mp3",
+    "text": "看看团团，再摸摸自己的鼻子。跟着说一句，镜子会收到你的爱心。",
+    "language": "Chinese",
+    "durationMs": 6156,
+    "bytes": 100212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "listen-with-your-ears-d30e1m.mp3",
+    "text": "Listen with your ears.",
+    "language": "English",
+    "durationMs": 1728,
+    "bytes": 29364,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1v5wo68.mp3",
+    "text": "听，铃铛在叫你。摸摸小耳朵，跟着艾莎说。",
+    "language": "Chinese",
+    "durationMs": 4896,
+    "bytes": 80052,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "clap-your-hands-pikby2.mp3",
+    "text": "Clap your hands!",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1pdhhne.mp3",
+    "text": "音乐泡泡还没亮。举起两只小手，说一声，让团团帮你拍拍手。",
+    "language": "Chinese",
+    "durationMs": 5868,
+    "bytes": 95604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "stomp-your-feet-1f4oa0j.mp3",
+    "text": "Stomp your feet!",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-147x9hn.mp3",
+    "text": "团团想画画。指指自己的小脚，说一声，小脚印就会排成队。",
+    "language": "Chinese",
+    "durationMs": 5364,
+    "bytes": 87540,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "feet-yiwczb.mp3",
+    "text": "Feet!",
+    "language": "English",
+    "durationMs": 936,
+    "bytes": 16692,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "feet-yiwczb-slow.mp3",
+    "text": "Feet!",
+    "language": "English",
+    "durationMs": 1224,
+    "bytes": 21300,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "show-me-two-hands-1c3t2oi.mp3",
+    "text": "Show me two hands.",
+    "language": "English",
+    "durationMs": 1728,
+    "bytes": 29364,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-15ltwz2.mp3",
+    "text": "你有两只小手。伸出来，跟着说一句，帮团团放飞彩带。",
+    "language": "Chinese",
+    "durationMs": 4968,
+    "bytes": 81204,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "show-me-two-feet-1ct094g.mp3",
+    "text": "Show me two feet.",
+    "language": "English",
+    "durationMs": 1764,
+    "bytes": 29940,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1gk7cl0.mp3",
+    "text": "我们到云朵上啦。看看自己的两只小脚，跟着说，让舞台亮起来。",
+    "language": "Chinese",
+    "durationMs": 5760,
+    "bytes": 93876,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "eyes-open-wide-1l1q21w.mp3",
+    "text": "Eyes, open wide!",
+    "language": "English",
+    "durationMs": 2124,
+    "bytes": 35700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-8b4s44.mp3",
+    "text": "星星在睡觉。还记得眼睛的英语吗？跟着说，叫星星睁开眼睛。",
+    "language": "Chinese",
+    "durationMs": 5976,
+    "bytes": 97332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "mouth-make-a-wish-1rxrs3s.mp3",
+    "text": "Mouth, make a wish!",
+    "language": "English",
+    "durationMs": 1836,
+    "bytes": 31092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1iysckd.mp3",
+    "text": "泡泡还想再来玩。说说嘴巴的英语，这次泡泡会变成星星。",
+    "language": "Chinese",
+    "durationMs": 5292,
+    "bytes": 86388,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "hands-clap-together-1k0kph5.mp3",
+    "text": "Hands, clap together!",
+    "language": "English",
+    "durationMs": 1764,
+    "bytes": 29940,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1108egk.mp3",
+    "text": "雪宝躲在彩带后面。说说小手的英语，再拍一拍，请它上台。",
+    "language": "Chinese",
+    "durationMs": 5364,
+    "bytes": 87540,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "feet-lets-dance-157acac.mp3",
+    "text": "Feet, let's dance!",
+    "language": "English",
+    "durationMs": 2124,
+    "bytes": 35700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1bd5uu8.mp3",
+    "text": "最后一支云朵舞！说说小脚的英语，跟团团和雪宝一起轻轻动一动。",
+    "language": "Chinese",
+    "durationMs": 6048,
+    "bytes": 98484,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-17orfze.mp3",
+    "text": "团团想请家人参加派对。先说说妈妈的英语，请妈妈来抱抱。",
+    "language": "Chinese",
+    "durationMs": 5220,
+    "bytes": 85236,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-comes-daddy-14eioms.mp3",
+    "text": "Here comes Daddy!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-lpsule.mp3",
+    "text": "爸爸抱着礼物来啦。说说爸爸的英语，看看礼物里藏了什么。",
+    "language": "Chinese",
+    "durationMs": 5004,
+    "bytes": 81780,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "meet-my-mommy-1af7aj7.mp3",
+    "text": "Meet my mommy.",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-e0wdep.mp3",
+    "text": "艾莎想认识妈妈。跟团团说一句，把妈妈介绍给她吧。",
+    "language": "Chinese",
+    "durationMs": 4788,
+    "bytes": 78324,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "shh-a-little-baby-otf7gj.mp3",
+    "text": "Shh! A little baby.",
+    "language": "English",
+    "durationMs": 2016,
+    "bytes": 33972,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-7jxvyq.mp3",
+    "text": "小宝宝在打瞌睡。轻轻说说宝宝的英语，让它知道派对开始啦。",
+    "language": "Chinese",
+    "durationMs": 5724,
+    "bytes": 93300,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "grandma-has-a-story-1wm2jgv.mp3",
+    "text": "Grandma has a story.",
+    "language": "English",
+    "durationMs": 1800,
+    "bytes": 30516,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-13u0qfm.mp3",
+    "text": "花园里有一本大故事书。说说奶奶的英语，请她翻开看看。",
+    "language": "Chinese",
+    "durationMs": 5292,
+    "bytes": 86388,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "grandpa-has-a-surprise-176trw8.mp3",
+    "text": "Grandpa has a surprise.",
+    "language": "English",
+    "durationMs": 1836,
+    "bytes": 31092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-weffsa.mp3",
+    "text": "爷爷藏了一串气球。说说爷爷的英语，请他把气球放飞吧。",
+    "language": "Chinese",
+    "durationMs": 4968,
+    "bytes": 81204,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "baby-loves-bubbles-y8td03.mp3",
+    "text": "Baby loves bubbles.",
+    "language": "English",
+    "durationMs": 1764,
+    "bytes": 29940,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-rvsju8.mp3",
+    "text": "宝宝看见花园，想玩泡泡。再说说宝宝的英语，这次陪它追泡泡。",
+    "language": "Chinese",
+    "durationMs": 6120,
+    "bytes": 99636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "daddy-join-our-picnic-wm294d.mp3",
+    "text": "Daddy, join our picnic.",
+    "language": "English",
+    "durationMs": 2340,
+    "bytes": 39156,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-18mxvdc.mp3",
+    "text": "野餐篮还没打开。说说爸爸的英语，请爸爸帮大家准备野餐。",
+    "language": "Chinese",
+    "durationMs": 5292,
+    "bytes": 86388,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "we-are-a-family-1k42xva.mp3",
+    "text": "We are a family.",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-7girkz.mp3",
+    "text": "妈妈、爸爸、爷爷、奶奶和宝宝都来啦。说说一家人的英语，请大家站在一起。",
+    "language": "Chinese",
+    "durationMs": 6912,
+    "bytes": 112308,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "family-m9tjqr.mp3",
+    "text": "Family!",
+    "language": "English",
+    "durationMs": 1116,
+    "bytes": 19572,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "family-m9tjqr-slow.mp3",
+    "text": "Family!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "mommy-photo-time-na0akn.mp3",
+    "text": "Mommy, photo time!",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1dld7gs.mp3",
+    "text": "星光照相馆准备好了。还记得妈妈的英语吗？请妈妈站到团团身边。",
+    "language": "Chinese",
+    "durationMs": 6336,
+    "bytes": 103092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "grandpa-photo-time-6sghlf.mp3",
+    "text": "Grandpa, photo time!",
+    "language": "English",
+    "durationMs": 2232,
+    "bytes": 37428,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-5oczs3.mp3",
+    "text": "爷爷还在看星星。说说爷爷的英语，叫他来一起拍照。",
+    "language": "Chinese",
+    "durationMs": 4716,
+    "bytes": 77172,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "family-smile-together-jpgan3.mp3",
+    "text": "Family, smile together!",
+    "language": "English",
+    "durationMs": 2376,
+    "bytes": 39732,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-xz6m15.mp3",
+    "text": "大家站好啦。说说一家人的英语，用声音按下星星相机。",
+    "language": "Chinese",
+    "durationMs": 4968,
+    "bytes": 81204,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-uc5fa4.mp3",
+    "text": "全家福收好啦。跟团团说一句，把大大的爱送给家人。",
+    "language": "Chinese",
+    "durationMs": 4356,
+    "bytes": 71412,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1a1ekas.mp3",
+    "text": "团团揉揉鼻子，笑得耳朵都晃起来啦。",
+    "language": "Chinese",
+    "durationMs": 3276,
+    "bytes": 54132,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1lj1ija.mp3",
+    "text": "躲猫猫！团团睁开眼睛，发现了你。",
+    "language": "Chinese",
+    "durationMs": 3276,
+    "bytes": 54132,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-12lm56x.mp3",
+    "text": "噗噗噗！小嘴巴吹出好多彩虹泡泡。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-uc4j8m.mp3",
+    "text": "镜子里的小鼻子亮了，你和团团一起变出爱心。",
+    "language": "Chinese",
+    "durationMs": 3852,
+    "bytes": 63348,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1uf7zbs.mp3",
+    "text": "叮叮当！团团竖起耳朵，找到了唱歌的铃铛。",
+    "language": "Chinese",
+    "durationMs": 4536,
+    "bytes": 74292,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-zx7v.mp3",
+    "text": "啪、啪、啪！每拍一下，都亮起一个音乐泡泡。",
+    "language": "Chinese",
+    "durationMs": 4248,
+    "bytes": 69684,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-scfvc2.mp3",
+    "text": "咚咚咚！小脚走过的地方，长出了彩色脚印。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1gz7by7.mp3",
+    "text": "两只小手举起来！音乐房飘起彩带。",
+    "language": "Chinese",
+    "durationMs": 3240,
+    "bytes": 53556,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1k5zmuz.mp3",
+    "text": "一只、两只！云朵上的脚印亮起来啦。",
+    "language": "Chinese",
+    "durationMs": 3672,
+    "bytes": 60468,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-16vvfgn.mp3",
+    "text": "小星星醒啦！它眨眨眼睛，为你照亮舞台。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-2lo9u8.mp3",
+    "text": "泡泡变成小星星！云朵舞台闪闪发光。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-m19un0.mp3",
+    "text": "彩带打开，雪宝出来啦！朋友们都准备好了。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1kw5xsa.mp3",
+    "text": "小脚跳舞、小手挥挥！身体魔法派对开始啦。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-rbkpmd.mp3",
+    "text": "妈妈走过来，送给团团一个大大的拥抱。",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-cvur02.mp3",
+    "text": "爸爸的礼物打开啦！一颗爱心气球飞出来。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ks4f56.mp3",
+    "text": "妈妈和艾莎挥挥手，相册里的第一张照片亮了。",
+    "language": "Chinese",
+    "durationMs": 3924,
+    "bytes": 64500,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ajsw5u.mp3",
+    "text": "宝宝伸伸小手，摇摇晃晃地笑起来。",
+    "language": "Chinese",
+    "durationMs": 3240,
+    "bytes": 53556,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-jnpm5u.mp3",
+    "text": "奶奶翻开故事书，花丛里飞出小小的蝴蝶。",
+    "language": "Chinese",
+    "durationMs": 3672,
+    "bytes": 60468,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1nim7yo.mp3",
+    "text": "爷爷笑了，花园里升起好多爱心气球。",
+    "language": "Chinese",
+    "durationMs": 3996,
+    "bytes": 65652,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1pvdrfi.mp3",
+    "text": "宝宝伸手追泡泡，家人都开心地笑啦。",
+    "language": "Chinese",
+    "durationMs": 3204,
+    "bytes": 52980,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1lfev1f.mp3",
+    "text": "爸爸打开野餐篮，小点心飞到家人身边。",
+    "language": "Chinese",
+    "durationMs": 3636,
+    "bytes": 59892,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1v8ochb.mp3",
+    "text": "一家人围到团团身边，爱心花朵开了。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1xh9whf.mp3",
+    "text": "妈妈站好啦，相框里点亮一颗温暖的小爱心。",
+    "language": "Chinese",
+    "durationMs": 3924,
+    "bytes": 64500,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-j3a3bh.mp3",
+    "text": "爷爷赶来讲了个笑话，大家笑得耳朵都晃啦。",
+    "language": "Chinese",
+    "durationMs": 4104,
+    "bytes": 67380,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-uqmvsp.mp3",
+    "text": "咔嚓！你拍下了一张亮晶晶的全家福。",
+    "language": "Chinese",
+    "durationMs": 3312,
+    "bytes": 54708,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1verh6x.mp3",
+    "text": "一颗大爱心抱住全家。谢谢你带来这么温暖的派对！",
+    "language": "Chinese",
+    "durationMs": 4428,
+    "bytes": 72564,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "look-a-ball-dpkg0w.mp3",
+    "text": "Look! A ball!",
+    "language": "English",
+    "durationMs": 1872,
+    "bytes": 31668,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1bejymr.mp3",
+    "text": "团团的玩具要去游行。小球还没醒呢，跟艾莎叫一声小球的英语吧。",
+    "language": "Chinese",
+    "durationMs": 5760,
+    "bytes": 93876,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-ahppnr.mp3",
+    "text": "咚、咚、咚！小球醒过来，开心地跳了三下。",
+    "language": "Chinese",
+    "durationMs": 3852,
+    "bytes": 63348,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "ball-yizcqu.mp3",
+    "text": "Ball!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "ball-yizcqu-slow.mp3",
+    "text": "Ball!",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-teddy-bear-nof16g.mp3",
+    "text": "A teddy bear!",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1tgxg36.mp3",
+    "text": "软软的小熊也想参加。跟着叫它的名字，它会给团团一个温暖的抱抱。",
+    "language": "Chinese",
+    "durationMs": 5868,
+    "bytes": 95604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1on6ulx.mp3",
+    "text": "小熊靠过来抱抱团团，头顶冒出小爱心。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "teddy-bear-1a0edeh.mp3",
+    "text": "Teddy bear!",
+    "language": "English",
+    "durationMs": 1260,
+    "bytes": 21876,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "teddy-bear-1a0edeh-slow.mp3",
+    "text": "Teddy bear!",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-is-a-doll-2utwb3.mp3",
+    "text": "Here is a doll.",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-2wa2mu.mp3",
+    "text": "玩偶穿好了小裙子。叫一声玩偶的英语，邀请它跳一支小小的舞。",
+    "language": "Chinese",
+    "durationMs": 5832,
+    "bytes": 95028,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1nw28sh.mp3",
+    "text": "玩偶轻轻转圈，裙子旁边飞出亮晶晶的星星。",
+    "language": "Chinese",
+    "durationMs": 4356,
+    "bytes": 71412,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "doll-yirytq.mp3",
+    "text": "Doll!",
+    "language": "English",
+    "durationMs": 1260,
+    "bytes": 21876,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "doll-yirytq-slow.mp3",
+    "text": "Doll!",
+    "language": "English",
+    "durationMs": 1116,
+    "bytes": 19572,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "is-it-your-ball-17o5v74.mp3",
+    "text": "Is it your ball?",
+    "language": "English",
+    "durationMs": 1260,
+    "bytes": 21876,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-iksmbe.mp3",
+    "text": "小球想和你一起玩。跟艾莎说这是我的球，它就会滚来找团团。",
+    "language": "Chinese",
+    "durationMs": 5832,
+    "bytes": 95028,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1nizkz5.mp3",
+    "text": "小球滚过来，又滚回去。你和团团一起玩传球啦！",
+    "language": "Chinese",
+    "durationMs": 4536,
+    "bytes": 74292,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "its-my-ball-17bk9a4.mp3",
+    "text": "It's my ball.",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "its-my-ball-17bk9a4-slow.mp3",
+    "text": "It's my ball.",
+    "language": "English",
+    "durationMs": 1692,
+    "bytes": 28788,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "we-need-blocks-1kgtg5j.mp3",
+    "text": "We need blocks.",
+    "language": "English",
+    "durationMs": 1512,
+    "bytes": 25908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1tembsk.mp3",
+    "text": "火车轨道缺了一小段。叫一声积木的英语，帮玩具搭好出发的小桥。",
+    "language": "Chinese",
+    "durationMs": 6048,
+    "bytes": 98484,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-19wzx4u.mp3",
+    "text": "积木一块一块搭起来，小桥和轨道接好啦。",
+    "language": "Chinese",
+    "durationMs": 4248,
+    "bytes": 69684,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "blocks-owrl0f.mp3",
+    "text": "Blocks!",
+    "language": "English",
+    "durationMs": 1044,
+    "bytes": 18420,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "blocks-owrl0f-slow.mp3",
+    "text": "Blocks!",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-comes-a-car-14cca61.mp3",
+    "text": "Here comes a car!",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-wost2k.mp3",
+    "text": "小汽车想试试新路。跟着说小汽车的英语，让它开过去看看。",
+    "language": "Chinese",
+    "durationMs": 5436,
+    "bytes": 88692,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-zbdbzu.mp3",
+    "text": "嘟嘟！小汽车开了一个来回，给你带回一串小星星。",
+    "language": "Chinese",
+    "durationMs": 4932,
+    "bytes": 80628,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "car-375ktx.mp3",
+    "text": "Car!",
+    "language": "English",
+    "durationMs": 900,
+    "bytes": 16116,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "car-375ktx-slow.mp3",
+    "text": "Car!",
+    "language": "English",
+    "durationMs": 1116,
+    "bytes": 19572,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "look-at-the-train-1am2wb2.mp3",
+    "text": "Look at the train.",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1lvnnfv.mp3",
+    "text": "轨道准备好了。叫一声火车的英语，让小火车吐出软软的云朵。",
+    "language": "Chinese",
+    "durationMs": 4968,
+    "bytes": 81204,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1vtn992.mp3",
+    "text": "呜呜！烟囱冒出云朵，小火车准备来接玩具们。",
+    "language": "Chinese",
+    "durationMs": 5004,
+    "bytes": 81780,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "train-30ir1h.mp3",
+    "text": "Train!",
+    "language": "English",
+    "durationMs": 936,
+    "bytes": 16692,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "train-30ir1h-slow.mp3",
+    "text": "Train!",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "is-it-your-train-kf5mfn.mp3",
+    "text": "Is it your train?",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-r9tbi.mp3",
+    "text": "大家在等你的小火车。跟艾莎说这是我的火车，就能带玩具去彩虹街。",
+    "language": "Chinese",
+    "durationMs": 6588,
+    "bytes": 107124,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-7p7xfw.mp3",
+    "text": "小球、小熊和玩偶坐上车厢，一起去彩虹街啦！",
+    "language": "Chinese",
+    "durationMs": 4608,
+    "bytes": 75444,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "its-my-train-8k8j33.mp3",
+    "text": "It's my train.",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "its-my-train-8k8j33-slow.mp3",
+    "text": "It's my train.",
+    "language": "English",
+    "durationMs": 1836,
+    "bytes": 31092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-doll-is-ready-zfagva.mp3",
+    "text": "The doll is ready.",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1v2n64g.mp3",
+    "text": "彩虹街的游行要开始了。再叫一声玩偶的名字，请它挥起彩带。",
+    "language": "Chinese",
+    "durationMs": 5580,
+    "bytes": 90996,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1rdnuc0.mp3",
+    "text": "玩偶挥起彩带，彩虹街亮起了小星星。",
+    "language": "Chinese",
+    "durationMs": 3564,
+    "bytes": 58740,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-teddy-bear-is-happy-1q8ez62.mp3",
+    "text": "The teddy bear is happy.",
+    "language": "English",
+    "durationMs": 1836,
+    "bytes": 31092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-qa1ivh.mp3",
+    "text": "小熊想给大家加油。再叫一声它的名字，看看它会怎么庆祝。",
+    "language": "Chinese",
+    "durationMs": 5148,
+    "bytes": 84084,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-cisosn.mp3",
+    "text": "小熊摇摇小耳朵，给游行送来一大串爱心。",
+    "language": "Chinese",
+    "durationMs": 3708,
+    "bytes": 61044,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-ball-can-bounce-bi70cj.mp3",
+    "text": "The ball can bounce!",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ud3pk7.mp3",
+    "text": "小球也想加入庆祝。跟着说球的英语，它这次会跳出彩色纸片。",
+    "language": "Chinese",
+    "durationMs": 5724,
+    "bytes": 93300,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1p70ytc.mp3",
+    "text": "小球高高跳起来，彩色纸片像小雨一样落下来。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-car-is-ready-1qggkd9.mp3",
+    "text": "The car is ready.",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1cxa40h.mp3",
+    "text": "小熊想坐汽车游行。再叫一声小汽车的英语，请它载着小熊出发。",
+    "language": "Chinese",
+    "durationMs": 5940,
+    "bytes": 96756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1lxz2ku.mp3",
+    "text": "小熊坐上小汽车，摇摇晃晃地向大家招手。",
+    "language": "Chinese",
+    "durationMs": 4140,
+    "bytes": 67956,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "do-you-like-your-toys-je34au.mp3",
+    "text": "Do you like your toys?",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-121jm3m.mp3",
+    "text": "六个玩具都来啦。跟艾莎说我喜欢我的玩具，让大家一起走过彩虹街。",
+    "language": "Chinese",
+    "durationMs": 6012,
+    "bytes": 97908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1te4lel.mp3",
+    "text": "球、玩偶、小熊、汽车、火车和积木，一起参加你的玩具大游行！",
+    "language": "Chinese",
+    "durationMs": 6840,
+    "bytes": 111156,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-like-my-toys-15tlqf6.mp3",
+    "text": "I like my toys.",
+    "language": "English",
+    "durationMs": 1944,
+    "bytes": 32820,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-like-my-toys-15tlqf6-slow.mp3",
+    "text": "I like my toys.",
+    "language": "English",
+    "durationMs": 2052,
+    "bytes": 34548,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "look-a-dress-qge2ds.mp3",
+    "text": "Look! A dress!",
+    "language": "English",
+    "durationMs": 1980,
+    "bytes": 33396,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-q78qg2.mp3",
+    "text": "艾莎要去参加舞会啦。先叫一声连衣裙的英语，帮她换上粉粉的花花裙。",
+    "language": "Chinese",
+    "durationMs": 6444,
+    "bytes": 104820,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-6u3m9x.mp3",
+    "text": "花花连衣裙飞过来，艾莎换上了粉色的新裙子！",
+    "language": "Chinese",
+    "durationMs": 4104,
+    "bytes": 67380,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "dress-2pwrzq.mp3",
+    "text": "Dress!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "dress-2pwrzq-slow.mp3",
+    "text": "Dress!",
+    "language": "English",
+    "durationMs": 1512,
+    "bytes": 25908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-are-my-shoes-1dqeifz.mp3",
+    "text": "Here are my shoes.",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-63fed7.mp3",
+    "text": "裙子穿好啦，还需要一双鞋。跟艾莎说鞋子的英语，让粉色小鞋飞到她的脚上。",
+    "language": "Chinese",
+    "durationMs": 7380,
+    "bytes": 119796,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-40yi4z.mp3",
+    "text": "两只小鞋飞到艾莎的脚上，她开心地踮了踮脚。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "shoes-38pc2v.mp3",
+    "text": "Shoes!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "shoes-38pc2v-slow.mp3",
+    "text": "Shoes!",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-pretty-hat-10rb6nb.mp3",
+    "text": "A pretty hat!",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1h4fo6g.mp3",
+    "text": "花朵小帽子想跟艾莎出去玩。叫一声帽子的英语，看看它会飞到哪里。",
+    "language": "Chinese",
+    "durationMs": 6336,
+    "bytes": 103092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ud8pui.mp3",
+    "text": "小帽子转了一圈，轻轻落在艾莎的头上。",
+    "language": "Chinese",
+    "durationMs": 3672,
+    "bytes": 60468,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "hat-375lvc.mp3",
+    "text": "Hat!",
+    "language": "English",
+    "durationMs": 936,
+    "bytes": 16692,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "hat-375lvc-slow.mp3",
+    "text": "Hat!",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "do-you-like-your-dress-xits4.mp3",
+    "text": "Do you like your dress?",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1yis6ng.mp3",
+    "text": "衣服、鞋子和帽子都穿好啦。跟艾莎说我的连衣裙，请魔法镜子照一照新的搭配。",
+    "language": "Chinese",
+    "durationMs": 7020,
+    "bytes": 114036,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1tl0ki9.mp3",
+    "text": "镜子里的艾莎也穿着你的搭配，向你轻轻点头。第一颗装扮星星亮啦！",
+    "language": "Chinese",
+    "durationMs": 7308,
+    "bytes": 118644,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "my-dress-dciaf6.mp3",
+    "text": "My dress.",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "my-dress-dciaf6-slow.mp3",
+    "text": "My dress.",
+    "language": "English",
+    "durationMs": 1872,
+    "bytes": 31668,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-is-a-shirt-nppjzk.mp3",
+    "text": "Here is a shirt.",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-677gxy.mp3",
+    "text": "舞会还没开始，艾莎想先在花园玩。跟着说衬衫的英语，换上轻松的黄色小衬衫。",
+    "language": "Chinese",
+    "durationMs": 7560,
+    "bytes": 122676,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-v0s7ki.mp3",
+    "text": "黄色小衬衫穿好啦，艾莎可以轻轻松松地逛花园。",
+    "language": "Chinese",
+    "durationMs": 4428,
+    "bytes": 72564,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "shirt-38pjpt.mp3",
+    "text": "Shirt!",
+    "language": "English",
+    "durationMs": 1044,
+    "bytes": 18420,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "shirt-38pjpt-slow.mp3",
+    "text": "Shirt!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "look-at-the-skirt-1apohjt.mp3",
+    "text": "Look at the skirt.",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1spqez.mp3",
+    "text": "衬衫下面配什么呢？跟着叫一声半身裙的英语，让紫色小裙子来搭配。",
+    "language": "Chinese",
+    "durationMs": 6228,
+    "bytes": 101364,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-dg9dhd.mp3",
+    "text": "半身裙变成紫色的，艾莎轻轻转身，花瓣也跟着飞起来。",
+    "language": "Chinese",
+    "durationMs": 5436,
+    "bytes": 88692,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "skirt-38q4z6.mp3",
+    "text": "Skirt!",
+    "language": "English",
+    "durationMs": 1260,
+    "bytes": 21876,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "skirt-38q4z6-slow.mp3",
+    "text": "Skirt!",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "we-need-a-coat-1iogxk5.mp3",
+    "text": "We need a coat.",
+    "language": "English",
+    "durationMs": 1512,
+    "bytes": 25908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ps0rml.mp3",
+    "text": "花园飘来几滴小雨。别着急，叫一声外套的英语，帮艾莎穿上薄荷绿外套。",
+    "language": "Chinese",
+    "durationMs": 6588,
+    "bytes": 107124,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-dg3q1j.mp3",
+    "text": "薄荷绿外套穿上啦，小雨点在衣服上跳来跳去。",
+    "language": "Chinese",
+    "durationMs": 4140,
+    "bytes": 67956,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "coat-yj05y4.mp3",
+    "text": "Coat!",
+    "language": "English",
+    "durationMs": 900,
+    "bytes": 16116,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "coat-yj05y4-slow.mp3",
+    "text": "Coat!",
+    "language": "English",
+    "durationMs": 1224,
+    "bytes": 21300,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "is-it-your-coat-17o6yga.mp3",
+    "text": "Is it your coat?",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-14blr1l.mp3",
+    "text": "外套暖暖的。跟艾莎说我的外套，请小雨停下来，看看花园会出现什么。",
+    "language": "Chinese",
+    "durationMs": 6372,
+    "bytes": 103668,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-15xl6st.mp3",
+    "text": "小雨停了，花园出现一道彩虹。第二颗装扮星星亮起来！",
+    "language": "Chinese",
+    "durationMs": 5436,
+    "bytes": 88692,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "my-coat-o2ua5k.mp3",
+    "text": "My coat.",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "my-coat-o2ua5k-slow.mp3",
+    "text": "My coat.",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-dress-for-the-party-yv152z.mp3",
+    "text": "A dress for the party!",
+    "language": "English",
+    "durationMs": 1764,
+    "bytes": 29940,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-wanrd3.mp3",
+    "text": "舞会要开始啦！再叫一声连衣裙的英语，这次会变出一条亮晶晶的冰雪礼服。",
+    "language": "Chinese",
+    "durationMs": 6768,
+    "bytes": 110004,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1vgtbka.mp3",
+    "text": "冰雪礼服闪闪发光，艾莎准备好去跳舞啦！",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "my-dancing-shoes-oq082j.mp3",
+    "text": "My dancing shoes!",
+    "language": "English",
+    "durationMs": 1836,
+    "bytes": 31092,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-v3e82r.mp3",
+    "text": "小鞋子也想跳舞。再说一次鞋子的英语，换上闪闪的舞鞋，让地上的小星星带路。",
+    "language": "Chinese",
+    "durationMs": 6768,
+    "bytes": 110004,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-sftzsn.mp3",
+    "text": "舞鞋闪起来，艾莎跟着星星脚印轻轻走了三步。",
+    "language": "Chinese",
+    "durationMs": 4356,
+    "bytes": 71412,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "thank-you-little-hat-1aizjn3.mp3",
+    "text": "Thank you, little hat!",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1bincsi.mp3",
+    "text": "跳舞的时候，小帽子想去衣架上休息。再叫一次帽子的英语，送它飞回小衣架。",
+    "language": "Chinese",
+    "durationMs": 6660,
+    "bytes": 108276,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-138s0vx.mp3",
+    "text": "帽子飞回小衣架，轻轻摇了摇，好像在为艾莎加油。",
+    "language": "Chinese",
+    "durationMs": 4716,
+    "bytes": 77172,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "show-me-your-dress-1scj1jg.mp3",
+    "text": "Show me your dress.",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-s8fbqw.mp3",
+    "text": "你给艾莎打扮得真漂亮。跟她说我的连衣裙，让魔法相框留下这一套舞会搭配。",
+    "language": "Chinese",
+    "durationMs": 6408,
+    "bytes": 104244,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-mlmsyt.mp3",
+    "text": "相框里留下了艾莎的新裙子和舞鞋。这是你帮她完成的装扮！",
+    "language": "Chinese",
+    "durationMs": 4932,
+    "bytes": 80628,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-13xme1t.mp3",
+    "text": "艾莎邀请你和团团一起跳舞。跟着说我喜欢我的连衣裙，让魔法舞会开始吧。",
+    "language": "Chinese",
+    "durationMs": 6228,
+    "bytes": 101364,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1m3cili.mp3",
+    "text": "艾莎和团团一起跳舞，六件衣服都亮起星光。谢谢你，小小魔法造型师！",
+    "language": "Chinese",
+    "durationMs": 6228,
+    "bytes": 101364,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-like-my-dress-uumj40.mp3",
+    "text": "I like my dress.",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-like-my-dress-uumj40-slow.mp3",
+    "text": "I like my dress.",
+    "language": "English",
+    "durationMs": 2304,
+    "bytes": 38580,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-sleepy-cat-grtguc.mp3",
+    "text": "A sleepy cat!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-14nn5km.mp3",
+    "text": "小猫在软软的窝里睡着啦。跟艾莎轻轻说小猫的英语，叫它起来伸个懒腰。",
+    "language": "Chinese",
+    "durationMs": 6588,
+    "bytes": 107124,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-bulitn.mp3",
+    "text": "小猫睁开眼睛，伸了个大大的懒腰，和你打招呼啦！",
+    "language": "Chinese",
+    "durationMs": 4176,
+    "bytes": 68532,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "cat-375ktv.mp3",
+    "text": "Cat!",
+    "language": "English",
+    "durationMs": 1044,
+    "bytes": 18420,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "cat-375ktv-slow.mp3",
+    "text": "Cat!",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-dog-wants-to-play-1ltkbio.mp3",
+    "text": "The dog wants to play.",
+    "language": "English",
+    "durationMs": 1728,
+    "bytes": 29364,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-iy7hkb.mp3",
+    "text": "小狗找到了一颗软软的球。跟着说小狗的英语，请它把球送给团团。",
+    "language": "Chinese",
+    "durationMs": 5580,
+    "bytes": 90996,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-114x8xb.mp3",
+    "text": "小狗叼着球跑过来，团团接到了小狗送来的礼物！",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "dog-375c15.mp3",
+    "text": "Dog!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "dog-375c15-slow.mp3",
+    "text": "Dog!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-comes-a-rabbit-1wehsx3.mp3",
+    "text": "Here comes a rabbit!",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-b67adu.mp3",
+    "text": "棕色小兔子想认识你。跟艾莎叫一声兔子的英语，看看它会怎样过来。",
+    "language": "Chinese",
+    "durationMs": 5796,
+    "bytes": 94452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1yu1v73.mp3",
+    "text": "小兔子一跳、两跳，跳到软垫上，长耳朵也跟着晃起来。",
+    "language": "Chinese",
+    "durationMs": 5580,
+    "bytes": 90996,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "rabbit-z7gycr.mp3",
+    "text": "Rabbit!",
+    "language": "English",
+    "durationMs": 1116,
+    "bytes": 19572,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "rabbit-z7gycr-slow.mp3",
+    "text": "Rabbit!",
+    "language": "English",
+    "durationMs": 1512,
+    "bytes": 25908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "where-is-the-cat-ukn1ml.mp3",
+    "text": "Where is the cat?",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-7iz74.mp3",
+    "text": "咦，小猫躲到小帐篷后面了。跟艾莎说我看见一只小猫，请它探出小脑袋。",
+    "language": "Chinese",
+    "durationMs": 7020,
+    "bytes": 114036,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-yp6yyz.mp3",
+    "text": "躲猫猫！小猫从帐篷旁边探出来，送给你第一颗动物星光。",
+    "language": "Chinese",
+    "durationMs": 4968,
+    "bytes": 81204,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-cat-1d7iuh4.mp3",
+    "text": "I see a cat.",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-cat-1d7iuh4-slow.mp3",
+    "text": "I see a cat.",
+    "language": "English",
+    "durationMs": 1872,
+    "bytes": 31668,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "look-a-little-bird-1nqr9iq.mp3",
+    "text": "Look! A little bird!",
+    "language": "English",
+    "durationMs": 2304,
+    "bytes": 38580,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-c02j5b.mp3",
+    "text": "蓝色小鸟站在水塘边。说一声小鸟的英语，请它张开翅膀，飞给你看。",
+    "language": "Chinese",
+    "durationMs": 6120,
+    "bytes": 99636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-eo7cqi.mp3",
+    "text": "小鸟张开蓝蓝的翅膀，飞过水塘，又轻轻落在树枝上。",
+    "language": "Chinese",
+    "durationMs": 5112,
+    "bytes": 83508,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "bird-yizjmg.mp3",
+    "text": "Bird!",
+    "language": "English",
+    "durationMs": 864,
+    "bytes": 15540,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "bird-yizjmg-slow.mp3",
+    "text": "Bird!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-duck-in-the-pond-1yuq5iu.mp3",
+    "text": "A duck in the pond!",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1h68ot1.mp3",
+    "text": "小鸭子准备带叶子小船去兜风。跟着说鸭子的英语，请它轻轻划水。",
+    "language": "Chinese",
+    "durationMs": 6012,
+    "bytes": 97908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-ms3t14.mp3",
+    "text": "小鸭子游起来啦！叶子小船跟在后面，水面出现一圈圈小波纹。",
+    "language": "Chinese",
+    "durationMs": 6048,
+    "bytes": 98484,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "duck-yis7jw.mp3",
+    "text": "Duck!",
+    "language": "English",
+    "durationMs": 864,
+    "bytes": 15540,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "duck-yis7jw-slow.mp3",
+    "text": "Duck!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-fish-is-swimming-pcns7b.mp3",
+    "text": "A fish is swimming.",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1lg98r1.mp3",
+    "text": "水里有一条橙色小鱼。说一声鱼的英语，邀请它穿过亮亮的泡泡圈。",
+    "language": "Chinese",
+    "durationMs": 5976,
+    "bytes": 97332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-cp7rjq.mp3",
+    "text": "小鱼摆摆尾巴，从泡泡圈里游过去，吐出了好多小泡泡！",
+    "language": "Chinese",
+    "durationMs": 5040,
+    "bytes": 82356,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "fish-yiwgvl.mp3",
+    "text": "Fish!",
+    "language": "English",
+    "durationMs": 1080,
+    "bytes": 18996,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "fish-yiwgvl-slow.mp3",
+    "text": "Fish!",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "can-you-see-the-fish-7tkv5g.mp3",
+    "text": "Can you see the fish?",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1itma8t.mp3",
+    "text": "小鱼游到水下面啦。跟艾莎说我看见一条鱼，打开泡泡窗口，看看它的小尾巴。",
+    "language": "Chinese",
+    "durationMs": 7380,
+    "bytes": 119796,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-smvoo0.mp3",
+    "text": "泡泡窗口亮起来，小鱼在清清的水里转了一圈。第二颗动物星光亮啦！",
+    "language": "Chinese",
+    "durationMs": 6192,
+    "bytes": 100788,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-fish-1p7q562.mp3",
+    "text": "I see a fish.",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-fish-1p7q562-slow.mp3",
+    "text": "I see a fish.",
+    "language": "English",
+    "durationMs": 2052,
+    "bytes": 34548,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-cat-likes-a-gentle-brush-1pkekjg.mp3",
+    "text": "The cat likes a gentle brush.",
+    "language": "English",
+    "durationMs": 2196,
+    "bytes": 36852,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1f3tduz.mp3",
+    "text": "大家来到月光营地啦。再叫一声小猫的英语，用软软的小刷子帮它梳梳毛。",
+    "language": "Chinese",
+    "durationMs": 6120,
+    "bytes": 99636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ilneh9.mp3",
+    "text": "小刷子轻轻划过，小猫舒服地眯起眼睛，身边冒出了小爱心。",
+    "language": "Chinese",
+    "durationMs": 5796,
+    "bytes": 94452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-splashy-little-dog-1bkb3vs.mp3",
+    "text": "A splashy little dog!",
+    "language": "English",
+    "durationMs": 1872,
+    "bytes": 31668,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-zezxuw.mp3",
+    "text": "小狗刚刚玩过水，毛上有小水珠。再说一次小狗的英语，请它轻轻甩一甩。",
+    "language": "Chinese",
+    "durationMs": 6156,
+    "bytes": 100212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-177ngmd.mp3",
+    "text": "小狗摇摇身体，小水珠变成了闪闪的星星。现在干爽啦！",
+    "language": "Chinese",
+    "durationMs": 5292,
+    "bytes": 86388,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-cozy-bed-for-the-rabbit-18yzrno.mp3",
+    "text": "A cozy bed for the rabbit.",
+    "language": "English",
+    "durationMs": 2304,
+    "bytes": 38580,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1mwueg4.mp3",
+    "text": "小兔子玩得有点累啦。再叫一次兔子的英语，送它到软软的小窝里休息。",
+    "language": "Chinese",
+    "durationMs": 6012,
+    "bytes": 97908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-jkmpuc.mp3",
+    "text": "小兔子跳进小窝，缩成一个暖暖的小毛球，长耳朵也放松啦。",
+    "language": "Chinese",
+    "durationMs": 5292,
+    "bytes": 86388,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "the-duck-wants-to-dance-1cd8rnw.mp3",
+    "text": "The duck wants to dance!",
+    "language": "English",
+    "durationMs": 1872,
+    "bytes": 31668,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-etqclb.mp3",
+    "text": "小鸭子想给大家表演。再说一次鸭子的英语，请它摇摇摆摆，和小鸟一起跳舞。",
+    "language": "Chinese",
+    "durationMs": 6624,
+    "bytes": 107700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-bgu77h.mp3",
+    "text": "小鸭子摆摆脚，小鸟绕着它飞，两个小伙伴跳起了有趣的双人舞。",
+    "language": "Chinese",
+    "durationMs": 5472,
+    "bytes": 89268,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "do-you-like-animals-g0jq7n.mp3",
+    "text": "Do you like animals?",
+    "language": "English",
+    "durationMs": 1656,
+    "bytes": 28212,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1kxbs67.mp3",
+    "text": "六个小动物都成为你的朋友啦。跟艾莎说我喜欢动物，让月光派对亮起来！",
+    "language": "Chinese",
+    "durationMs": 6012,
+    "bytes": 97908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1slbruh.mp3",
+    "text": "小猫、小狗、兔子、小鸟、鸭子和水里的小鱼一起为你庆祝。谢谢你，小小动物好朋友！",
+    "language": "Chinese",
+    "durationMs": 9396,
+    "bytes": 152052,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-like-animals-mnihv6.mp3",
+    "text": "I like animals.",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-like-animals-mnihv6-slow.mp3",
+    "text": "I like animals.",
+    "language": "English",
+    "durationMs": 2124,
+    "bytes": 35700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-cbe4ze.mp3",
+    "text": "雪宝向你挥手啦。跟艾莎说一声你好吧。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-ngxhbi.mp3",
+    "text": "雪宝摇摇小手，雪花也跳起舞啦！",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "leo-1bekk2j.mp3",
+    "text": "跟艾莎说自己的名字，Leo 可以换成你的名字。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1rtry37.mp3",
+    "text": "欢迎圈亮起来！雪宝很开心认识新朋友。",
+    "language": "Chinese",
+    "durationMs": 3672,
+    "bytes": 60468,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1uicfrn.mp3",
+    "text": "邀请雪宝一起走，看看小雪球会滚向哪里。",
+    "language": "Chinese",
+    "durationMs": 3636,
+    "bytes": 59892,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-z8l0cq.mp3",
+    "text": "小雪球排成一条路，雪宝跟着你出发啦！",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "this-is-for-you-1tb988x.mp3",
+    "text": "This is for you!",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1hgjn79.mp3",
+    "text": "雪宝送来小礼物。跟艾莎说一句谢谢吧。",
+    "language": "Chinese",
+    "durationMs": 3348,
+    "bytes": 55284,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-fqvura.mp3",
+    "text": "礼物里飞出爱心气球，第一颗友情星光亮啦！",
+    "language": "Chinese",
+    "durationMs": 3996,
+    "bytes": 65652,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1fq36sk.mp3",
+    "text": "城堡门还关着。说声你好，让门知道你来啦。",
+    "language": "Chinese",
+    "durationMs": 4248,
+    "bytes": 69684,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-11rmoqu.mp3",
+    "text": "门上的小星星亮了，好像在和你打招呼。",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "say-please-1ct5zgg.mp3",
+    "text": "Say please.",
+    "language": "English",
+    "durationMs": 1440,
+    "bytes": 24756,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-3h5spp.mp3",
+    "text": "跟艾莎说一句请，看看大门会不会打开。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1dlcf9k.mp3",
+    "text": "大门轻轻打开啦，礼貌的话也是小魔法！",
+    "language": "Chinese",
+    "durationMs": 3636,
+    "bytes": 59892,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "please-vgsvpn.mp3",
+    "text": "Please!",
+    "language": "English",
+    "durationMs": 1044,
+    "bytes": 18420,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "please-vgsvpn-slow.mp3",
+    "text": "Please!",
+    "language": "English",
+    "durationMs": 1404,
+    "bytes": 24180,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "here-is-a-little-light-1axzx86.mp3",
+    "text": "Here is a little light.",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1e0bu3a.mp3",
+    "text": "城堡送来一盏小灯。说声谢谢，点亮它吧。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1286j5k.mp3",
+    "text": "小灯暖暖地亮起，雪宝的影子摇了摇。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-lrf8ip.mp3",
+    "text": "雪宝在谢谢你。跟艾莎回答一句不客气。",
+    "language": "Chinese",
+    "durationMs": 3960,
+    "bytes": 65076,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-13mp39x.mp3",
+    "text": "雪宝鞠了个躬，第二颗友情星光亮啦！",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-10j4gtb.mp3",
+    "text": "小猫头鹰藏起来啦。说声你好，请它探出头。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1sioa5e.mp3",
+    "text": "躲猫猫！小猫头鹰从小球后面探出来啦。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-x3bjxm.mp3",
+    "text": "说一句请，邀请小猫头鹰飞来参加派对。",
+    "language": "Chinese",
+    "durationMs": 3924,
+    "bytes": 64500,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-z5w1u8.mp3",
+    "text": "小猫头鹰绕了一圈，落到雪宝身边啦！",
+    "language": "Chinese",
+    "durationMs": 3492,
+    "bytes": 57588,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "a-snowflake-for-you-1v8b7x8.mp3",
+    "text": "A snowflake for you!",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-ckyjsx.mp3",
+    "text": "小猫头鹰送你雪花。跟艾莎说一句谢谢。",
+    "language": "Chinese",
+    "durationMs": 4284,
+    "bytes": 70260,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1rdfzru.mp3",
+    "text": "雪花变成亮亮的小星星，绕着朋友们飞！",
+    "language": "Chinese",
+    "durationMs": 3492,
+    "bytes": 57588,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-qy5nup.mp3",
+    "text": "朋友们在谢谢你。说声不客气，送出暖暖的抱抱。",
+    "language": "Chinese",
+    "durationMs": 4716,
+    "bytes": 77172,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-o5laom.mp3",
+    "text": "雪宝和猫头鹰靠在一起，大家都是好朋友啦！",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "goodbye-1g3ou6w.mp3",
+    "text": "Goodbye!",
+    "language": "English",
+    "durationMs": 1080,
+    "bytes": 18996,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-r7ys4z.mp3",
+    "text": "派对结束啦。跟艾莎说再见，留下朋友合影吧。",
+    "language": "Chinese",
+    "durationMs": 4248,
+    "bytes": 69684,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1w5z9tv.mp3",
+    "text": "朋友们挥挥手，合影亮起来。我们下次再一起玩！",
+    "language": "Chinese",
+    "durationMs": 4356,
+    "bytes": 71412,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "goodbye-1g3ou6w-slow.mp3",
+    "text": "Goodbye!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-ud42u8.mp3",
+    "text": "说说一家人的英语，请家人们站在一起。",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-18n64oj.mp3",
+    "text": "叫一声妈妈的英语，请她站到团团身边。",
+    "language": "Chinese",
+    "durationMs": 3312,
+    "bytes": 54708,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "who-is-this-1i160i1.mp3",
+    "text": "Who is this?",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1bf89ep.mp3",
+    "text": "跟艾莎说这是我的爷爷，请爷爷挥挥手。",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-y6ckps.mp3",
+    "text": "爷爷摇摇小手，大家准备好拍照啦。",
+    "language": "Chinese",
+    "durationMs": 3024,
+    "bytes": 50100,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "this-is-my-grandpa-3w3r8i.mp3",
+    "text": "This is my grandpa.",
+    "language": "English",
+    "durationMs": 1512,
+    "bytes": 25908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "this-is-my-grandpa-3w3r8i-slow.mp3",
+    "text": "This is my grandpa.",
+    "language": "English",
+    "durationMs": 2124,
+    "bytes": 35700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-12dc6nh.mp3",
+    "text": "叫一声连衣裙的英语，帮艾莎换上花花裙。",
+    "language": "Chinese",
+    "durationMs": 3672,
+    "bytes": 60468,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1cer4yt.mp3",
+    "text": "说说鞋子的英语，让小鞋飞到艾莎脚上。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ahiopu.mp3",
+    "text": "叫一声帽子的英语，请小帽子飞过来。",
+    "language": "Chinese",
+    "durationMs": 3348,
+    "bytes": 55284,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1p1boqi.mp3",
+    "text": "跟艾莎说我的连衣裙，让镜子照照新搭配。",
+    "language": "Chinese",
+    "durationMs": 4140,
+    "bytes": 67956,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1hm317v.mp3",
+    "text": "镜子里的艾莎点点头，第一颗装扮星光亮啦！",
+    "language": "Chinese",
+    "durationMs": 4176,
+    "bytes": 68532,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-fzyziv.mp3",
+    "text": "叫一声衬衫的英语，换上黄色小衬衫。",
+    "language": "Chinese",
+    "durationMs": 3276,
+    "bytes": 54132,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-vciwpi.mp3",
+    "text": "说说半身裙的英语，让紫色小裙子来搭配。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-14u3v2i.mp3",
+    "text": "下小雨啦。说说外套的英语，帮艾莎穿好。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "show-me-your-coat-1wobgpy.mp3",
+    "text": "Show me your coat.",
+    "language": "English",
+    "durationMs": 1512,
+    "bytes": 25908,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1c1ges5.mp3",
+    "text": "跟艾莎说我的外套，邀请彩虹出来吧。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-jiwa1o.mp3",
+    "text": "舞会开始啦。再叫一次连衣裙，变出礼服。",
+    "language": "Chinese",
+    "durationMs": 3852,
+    "bytes": 63348,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ker4gn.mp3",
+    "text": "再说一次鞋子的英语，请舞鞋走星星舞步。",
+    "language": "Chinese",
+    "durationMs": 3636,
+    "bytes": 59892,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1gj3czz.mp3",
+    "text": "再叫一次帽子的英语，送它飞回小衣架。",
+    "language": "Chinese",
+    "durationMs": 3240,
+    "bytes": 53556,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1nkffuf.mp3",
+    "text": "说说我的连衣裙，给新搭配拍张照片吧。",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-6yxiu5.mp3",
+    "text": "跟艾莎说我喜欢我的连衣裙，一起跳舞吧。",
+    "language": "Chinese",
+    "durationMs": 3708,
+    "bytes": 61044,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1udckf5.mp3",
+    "text": "艾莎和团团跳起舞，谢谢你，小小魔法造型师！",
+    "language": "Chinese",
+    "durationMs": 4428,
+    "bytes": 72564,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-fkgt9j.mp3",
+    "text": "轻轻说小猫的英语，叫它起来伸个懒腰。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1g8gtts.mp3",
+    "text": "说说小狗的英语，请它把球送给团团。",
+    "language": "Chinese",
+    "durationMs": 3348,
+    "bytes": 55284,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-nbhfqr.mp3",
+    "text": "叫一声兔子的英语，请它跳过来打招呼。",
+    "language": "Chinese",
+    "durationMs": 3384,
+    "bytes": 55860,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1veqawj.mp3",
+    "text": "跟艾莎说我看见一只小猫，请它探出头。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-4u335j.mp3",
+    "text": "叫一声小鸟的英语，请它飞过水塘。",
+    "language": "Chinese",
+    "durationMs": 3096,
+    "bytes": 51252,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-vs8bqj.mp3",
+    "text": "说说鸭子的英语，请它带叶子小船去兜风。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-4lv905.mp3",
+    "text": "说说鱼的英语，请小鱼穿过泡泡圈。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-193ez3z.mp3",
+    "text": "跟艾莎说我看见一条鱼，打开泡泡窗口。",
+    "language": "Chinese",
+    "durationMs": 4176,
+    "bytes": 68532,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-jlvcyg.mp3",
+    "text": "再叫一次小猫，请软刷子给它梳梳毛。",
+    "language": "Chinese",
+    "durationMs": 3384,
+    "bytes": 55860,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-p9chxc.mp3",
+    "text": "再叫一次小狗，请它甩掉毛上的小水珠。",
+    "language": "Chinese",
+    "durationMs": 3276,
+    "bytes": 54132,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1p4tb9b.mp3",
+    "text": "再叫一次兔子，送它去软窝里休息。",
+    "language": "Chinese",
+    "durationMs": 3024,
+    "bytes": 50100,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-dqivpp.mp3",
+    "text": "再叫一次鸭子，请它和小鸟一起跳舞。",
+    "language": "Chinese",
+    "durationMs": 3240,
+    "bytes": 53556,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1tvv4le.mp3",
+    "text": "跟艾莎说我喜欢动物，邀请朋友参加派对。",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1hs61ik.mp3",
+    "text": "六个动物一起为你欢呼！谢谢你，小小动物好朋友！",
+    "language": "Chinese",
+    "durationMs": 4788,
+    "bytes": 78324,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "bus-driver-15ha9j3.mp3",
+    "text": "Bus driver!",
+    "language": "English",
+    "durationMs": 1368,
+    "bytes": 23604,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-4zaors.mp3",
+    "text": "叫一声巴士司机的英语，请他打开小车门。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-7mpf5f.mp3",
+    "text": "小车门滑开了，团团可以上车啦！",
+    "language": "Chinese",
+    "durationMs": 2916,
+    "bytes": 48372,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "bus-driver-15ha9j3-slow.mp3",
+    "text": "Bus driver!",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "firefighter-z05vdq.mp3",
+    "text": "Firefighter!",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-18serjp.mp3",
+    "text": "叫一声消防员的英语，请他用水转动风车。",
+    "language": "Chinese",
+    "durationMs": 3996,
+    "bytes": 65652,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-j1d7ni.mp3",
+    "text": "水花推着风车转起来，转呀转！",
+    "language": "Chinese",
+    "durationMs": 3060,
+    "bytes": 50676,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "firefighter-z05vdq-slow.mp3",
+    "text": "Firefighter!",
+    "language": "English",
+    "durationMs": 1692,
+    "bytes": 28788,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "police-officer-16kme5n.mp3",
+    "text": "Police officer!",
+    "language": "English",
+    "durationMs": 1620,
+    "bytes": 27636,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1cfk6cp.mp3",
+    "text": "小鸭子想过街。跟艾莎说警察的英语吧。",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-3gj1kj.mp3",
+    "text": "警察陪着小鸭子，沿斑马线慢慢走过去啦。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "police-officer-16kme5n-slow.mp3",
+    "text": "Police officer!",
+    "language": "English",
+    "durationMs": 1944,
+    "bytes": 32820,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-cvrsp4.mp3",
+    "text": "再叫一次司机，请小巴士带团团去兜风。",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-19jvnip.mp3",
+    "text": "小巴士载着团团出发，第一颗帮忙星光亮啦！",
+    "language": "Chinese",
+    "durationMs": 4140,
+    "bytes": 67956,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "doctor-inpdz8.mp3",
+    "text": "Doctor!",
+    "language": "English",
+    "durationMs": 1152,
+    "bytes": 20148,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-xq2jjs.mp3",
+    "text": "来到玩偶诊所啦。叫一声医生，请他听听小熊。",
+    "language": "Chinese",
+    "durationMs": 4356,
+    "bytes": 71412,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1i3cg6g.mp3",
+    "text": "咚咚，咚咚！小熊的心跳变成了爱心。",
+    "language": "Chinese",
+    "durationMs": 4284,
+    "bytes": 70260,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "doctor-inpdz8-slow.mp3",
+    "text": "Doctor!",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "nurse-2zual6.mp3",
+    "text": "Nurse!",
+    "language": "English",
+    "durationMs": 1224,
+    "bytes": 21300,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-lg1pkp.mp3",
+    "text": "叫一声护士的英语，给小熊盖上软毯子。",
+    "language": "Chinese",
+    "durationMs": 3348,
+    "bytes": 55284,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-bzcitw.mp3",
+    "text": "软毯子轻轻盖好，小熊暖暖地眯起眼睛。",
+    "language": "Chinese",
+    "durationMs": 3924,
+    "bytes": 64500,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "nurse-2zual6-slow.mp3",
+    "text": "Nurse!",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "dentist-17pb6mo.mp3",
+    "text": "Dentist!",
+    "language": "English",
+    "durationMs": 1224,
+    "bytes": 21300,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1cqpamr.mp3",
+    "text": "叫一声牙医的英语，请他刷刷这颗玩具牙齿。",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1rf7rre.mp3",
+    "text": "小刷子轻轻刷，玩具牙齿笑得亮晶晶！",
+    "language": "Chinese",
+    "durationMs": 3384,
+    "bytes": 55860,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "dentist-17pb6mo-slow.mp3",
+    "text": "Dentist!",
+    "language": "English",
+    "durationMs": 1584,
+    "bytes": 27060,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "what-do-you-see-1ynq6z8.mp3",
+    "text": "What do you see?",
+    "language": "English",
+    "durationMs": 1296,
+    "bytes": 22452,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1j10jkx.mp3",
+    "text": "你看见谁啦？跟艾莎说，我看见一位医生。",
+    "language": "Chinese",
+    "durationMs": 3888,
+    "bytes": 63924,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-15d3tac.mp3",
+    "text": "医生挥挥手，送给你第二颗帮忙星光！",
+    "language": "Chinese",
+    "durationMs": 3384,
+    "bytes": 55860,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-doctor-ymz1nj.mp3",
+    "text": "I see a doctor.",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-doctor-ymz1nj-slow.mp3",
+    "text": "I see a doctor.",
+    "language": "English",
+    "durationMs": 2124,
+    "bytes": 35700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-19vk7cj.mp3",
+    "text": "护士也来派对啦。跟艾莎说，我看见一位护士。",
+    "language": "Chinese",
+    "durationMs": 4428,
+    "bytes": 72564,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-pgf097.mp3",
+    "text": "护士送来暖暖的小灯，大家围过来啦！",
+    "language": "Chinese",
+    "durationMs": 3024,
+    "bytes": 50100,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-nurse-v23hb5.mp3",
+    "text": "I see a nurse.",
+    "language": "English",
+    "durationMs": 1476,
+    "bytes": 25332,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "i-see-a-nurse-v23hb5-slow.mp3",
+    "text": "I see a nurse.",
+    "language": "English",
+    "durationMs": 2124,
+    "bytes": 35700,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-a2o1z9.mp3",
+    "text": "再叫一次牙医，请他把笑脸变成小泡泡。",
+    "language": "Chinese",
+    "durationMs": 3780,
+    "bytes": 62196,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-j69mm1.mp3",
+    "text": "圆圆的笑脸泡泡飘起来，大家都笑啦！",
+    "language": "Chinese",
+    "durationMs": 3384,
+    "bytes": 55860,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1qt00fg.mp3",
+    "text": "再叫一次警察，请他带团团走星星小路。",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1xml1yc.mp3",
+    "text": "星星一颗颗亮起，团团走到了派对中间。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-13tmxum.mp3",
+    "text": "再叫一次消防员，请他给派对的大花浇水。",
+    "language": "Chinese",
+    "durationMs": 3564,
+    "bytes": 58740,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-ucihsz.mp3",
+    "text": "大花喝到水，开出一朵橙色的笑脸！",
+    "language": "Chinese",
+    "durationMs": 3276,
+    "bytes": 54132,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-fuz665.mp3",
+    "text": "六位伙伴都帮了忙。跟艾莎说一句谢谢吧。",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-xbdep5.mp3",
+    "text": "六位伙伴一起挥手。谢谢你，小小帮帮员！",
+    "language": "Chinese",
+    "durationMs": 3744,
+    "bytes": 61620,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-qk5cdn.mp3",
+    "text": "和小镇伙伴打个招呼，请司机挥挥手吧。",
+    "language": "Chinese",
+    "durationMs": 3492,
+    "bytes": 57588,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-11q937n.mp3",
+    "text": "司机挥挥小手，欢迎你来魔法小镇！",
+    "language": "Chinese",
+    "durationMs": 3204,
+    "bytes": 52980,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1u4x8zq.mp3",
+    "text": "想坐小巴士吗？说一句请，拿到星星车票。",
+    "language": "Chinese",
+    "durationMs": 4067,
+    "bytes": 66804,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-u5h22t.mp3",
+    "text": "星星车票飞到团团手里，可以出发啦！",
+    "language": "Chinese",
+    "durationMs": 3276,
+    "bytes": 54132,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1fwojkp.mp3",
+    "text": "软毯子轻轻盖好，小熊暖暖地抱着它。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-hnb217.mp3",
+    "text": "小熊暖暖的啦。跟艾莎说谢谢，感谢护士。",
+    "language": "Chinese",
+    "durationMs": 3960,
+    "bytes": 65076,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-d4uohu.mp3",
+    "text": "护士送来一个小爱心，团团也开心地笑啦！",
+    "language": "Chinese",
+    "durationMs": 3240,
+    "bytes": 53556,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-5ot4xo.mp3",
+    "text": "跟艾莎说我有一个鼻子，请镜子照一照。",
+    "language": "Chinese",
+    "durationMs": 3708,
+    "bytes": 61044,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1ey3cuh.mp3",
+    "text": "说说小脚的英语，和团团、雪宝一起跳舞。",
+    "language": "Chinese",
+    "durationMs": 3564,
+    "bytes": 58740,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1bef77i.mp3",
+    "text": "再叫一次宝宝的英语，陪它追彩虹泡泡。",
+    "language": "Chinese",
+    "durationMs": 3456,
+    "bytes": 57012,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-igpcmc.mp3",
+    "text": "跟艾莎说这是我的爷爷，请他来一起拍照。",
+    "language": "Chinese",
+    "durationMs": 3528,
+    "bytes": 58164,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-1g6o3.mp3",
+    "text": "爷爷来到团团身边，大家准备好拍照啦。",
+    "language": "Chinese",
+    "durationMs": 3240,
+    "bytes": 53556,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  },
+  {
+    "file": "guide-w6nya0.mp3",
+    "text": "说说这是我的火车，带玩具去彩虹街吧。",
+    "language": "Chinese",
+    "durationMs": 4104,
+    "bytes": 67380,
+    "voice": "female-shaonv",
+    "model": "speech-02-hd"
+  }
+]

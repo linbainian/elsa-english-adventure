@@ -1,0 +1,39 @@
+{
+  "errors": [],
+  "missing": [],
+  "states": [
+    {
+      "name": "community-boarding",
+      "phase": "celebrating",
+      "theme": "community",
+      "world": "community-street",
+      "moment": "community-bus-door",
+      "travel": "false",
+      "turn": "success",
+      "communityCount": "1",
+      "communityTextures": "{\"bus-driver\":\"theme-community/bus-driver-wave\",\"firefighter\":\"theme-community/firefighter\",\"police-officer\":\"theme-community/police-officer\"}",
+      "communityFrameWidths": "[512,512,512]",
+      "busDoorOpen": "true",
+      "busPassenger": "true",
+      "toothClean": "false",
+      "teddyBlanket": "false"
+    },
+    {
+      "name": "community-ride",
+      "phase": "celebrating",
+      "theme": "community",
+      "world": "community-street",
+      "moment": "community-bus-ride",
+      "travel": "false",
+      "turn": "success",
+      "communityCount": "3",
+      "communityTextures": "{\"bus-driver\":\"theme-community/bus-driver-wave\",\"firefighter\":\"theme-community/firefighter\",\"police-officer\":\"theme-community/police-officer\"}",
+      "communityFrameWidths": "[512,512,512]",
+      "busDoorOpen": "false",
+      "busPassenger": "true",
+      "toothClean": "false",
+      "teddyBlanket": "false"
+    }
+  ],
+  "note": "Final bus-only visual follow-up: one driver beside the boarding bus, one driver inside the moving bus. Actual Phaser rendering; voice activity simulated."
+}

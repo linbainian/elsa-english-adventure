@@ -1,0 +1,48 @@
+{
+  "generatedWith": "built-in image_gen",
+  "artDirection": "Existing Elsa portrait with six modular generated fabric outfits. Pearl-blue wardrobe, peach rose garden, sapphire star ballroom. Original portrait retained after full character atlas generation was blocked twice.",
+  "records": [
+    {
+      "role": "background",
+      "name": "closet",
+      "prompt": "Create one charming 16:9 game background for a preschool magical dress-up adventure: an airy pearl-and-ice-blue royal dressing room, polished soft 3D animated storybook art, plush rounded architecture, generous daylight. Huge open enchanted ivory wardrobe at far RIGHT filled with tiny colorful clothing on hangers; scalloped gold framed oval mirror at far LEFT upper area; ribbons like flowing fabric up near ceiling; a pink velvet dressing stool at right edge. A wide ivory circular platform in the center-right foreground with EMPTY open floor, reserved for a full body character at 60 percent width, feet at 80 percent height. Keep lower LEFT third very quiet and low detail for an interface overlay. The whole perspective is child eye level, shallow spacious stage, lively magical charming details around perimeter. Warm peach flowers, mint fabric rolls and frosted turquoise window light. Distinct dressing room interior, NO snowy forest, NO mushrooms, NO stage curtains, NO people, NO characters, NO text, NO logos, NO HUD. Background only with solid fully opaque coverage. Landscape 16:9.",
+      "source": "docs/art-source/wardrobe-closet.png",
+      "generatedPath": "C:/Users/l/.codex/generated_images/01a0fbdf-6f70-78a2-ab0a-74773329a413/exec-0326922e-4ed0-4879-9c17-10dc69e82661.png"
+    },
+    {
+      "role": "outfit atlas",
+      "name": "garments",
+      "prompt": "Generate a transparent RGBA game asset sheet of SIX magical CLOTHING OUTFITS ONLY, no people, no heads, no faces, no mannequins, no hands, no skin. Polished rounded 3D fairy tale illustration. A 3 columns by 2 rows atlas with equal cells, large isolated front view costumes, exactly one fully coordinated outfit per cell, same shoulder width, same shoulder/neckline height and same lower hem alignment. These are wearable dress-up sprites for a fairy-tale queen game. Top left: lilac long sleeve blouse with mint knee-length skirt, full cream leggings under skirt and pale flats, sleeves relaxed down at sides. Top middle: coral pink floral knee-length long sleeve dress, cream leggings and pale flats. Top right: butter yellow long sleeve SHIRT, same mint skirt, cream leggings and pale flats. Bottom left: same yellow shirt with lavender pleated SKIRT, cream leggings and pale flats. Bottom middle: mint rain COAT with yellow shirt visible at neckline and lavender skirt beneath, cream leggings and pale flats. Bottom right: shimmering ice blue and lavender ankle-length ball dress with translucent cape and both pale flats visible below hem, long sleeves at sides. Fabric only at neckline, no neck. Sleeves closed with decorative cuff, no hands. All six outfits facing forward in the SAME stance, aligned neckline and shoes baseline. Clothes float against transparent background. Large clean silhouettes, bright distinguishable fabric colors, generous clear gutters, no captions, no labels, no text, no borders, no scenery, no floor shadows.",
+      "source": "docs/art-source/wardrobe-garments.png",
+      "generatedPath": "C:/Users/l/.codex/generated_images/01a0fbdf-6f70-78a2-ab0a-74773329a413/exec-d3cff9d9-5dbd-4d18-9993-39dd694a8bc8.png"
+    },
+    {
+      "name": "garden",
+      "role": "background",
+      "prompt": "Create a 16:9 background ONLY for a preschool magical fashion adventure. A bright whimsical garden fitting pavilion in polished soft rounded 3D animated storybook style. STRONGLY DIFFERENT from a royal indoor dressing room: outdoors, vast open sunny peach sky, lavender flowering arches and giant coral rose petals form a curved canopy at upper right, striped lavender and cream fabric awning, mint topiary shrubs shaped like clouds, terracotta tiled garden path, a dainty golden clothing rail at far right with a few pastel jackets on hangers, pink fabric cushions and watering can at outer edges. Wide open central foreground platform/floor reserved for a full-body character around 60 percent width, baseline at 80 percent height. Lower left third is quiet empty path for game dialogue. A tiny whimsical cloud and butterflies near the top. Rich rose/coral/lavender palette with spring greens, inviting cozy atmosphere, child eye level perspective, no forest, no snow, no mushrooms, no palace interior, no people, no characters, no words, no text, no interface, no logos. Fully opaque landscape game environment, 16:9.",
+      "source": "docs/art-source/wardrobe-garden.png",
+      "generatedPath": "C:/Users/l/.codex/generated_images/01a0fbdf-6f70-78a2-ab0a-74773329a413/exec-a8289b8e-6884-42a9-af1d-b441b5314e58.png"
+    },
+    {
+      "name": "ball",
+      "role": "background",
+      "prompt": "One 16:9 preschool fantasy game BACKGROUND, a spectacular magical ballroom at early night, polished rounded 3D animated storybook style. Strong contrast to the daylight white wardrobe and peach flower garden: deep royal sapphire blue and violet ceiling with sparkling constellations, an enormous spiral crystal chandelier emitting warm gold above the dance floor, sweeping curved golden staircases on BOTH far edges, tall indigo windows showing a starry night, ice crystal columns, tiny floating luminous stars, midnight-blue and white-gold architecture. A wide oval pearl lavender illuminated dance floor in center-right foreground. Keep central floor at 60 percent width completely EMPTY for a full-body character, feet at 80 percent height; lower-left third relatively quiet for dialogue UI. Festive welcoming magic, not scary, warm glowing star lanterns, gentle depth, grand open room. NO people, NO characters, NO clothing models, NO camera studio, NO moon-shaped backdrop, NO forest or snow piles, NO text, NO labels, NO HUD or logos. Landscape, 16:9, fully opaque background only.",
+      "source": "docs/art-source/wardrobe-ball.png",
+      "generatedPath": "C:/Users/l/.codex/generated_images/01a0fbdf-6f70-78a2-ab0a-74773329a413/exec-30f5e8d3-8ad4-43f7-935e-24fbf797e839.png"
+    },
+    {
+      "name": "accessories",
+      "role": "accessory atlas",
+      "prompt": "A TRANSPARENT RGBA sprite sheet of four fairy-tale dress-up accessories ONLY for a preschool game, polished soft rounded 3D storybook illustration, consistent front-facing camera, clean isolated shapes. 2 columns by 2 rows with four equal square cells and large transparent gutters. Top left: one coral pink broad brim straw HAT with mint ribbon and a little white flower, seen from the front slightly above so brim is horizontal, wearable proportion. Top right: one PAIR of coral pink ballet flat SHOES, both toes facing straight toward camera, side by side with a small clear gap, no feet or legs. Bottom left: one PAIR of shimmering ice-blue and lavender ballet flat SHOES with tiny silver snowflake decorations, both toes facing straight toward camera in exactly the same scale/spacing as top right, no feet or legs. Bottom right: one ornate rounded gold oval mirror/frame with small silver stars, the ENTIRE INSIDE of the oval is TRANSPARENT, an empty hollow frame, not reflective. Frame wide enough for full body dressing portrait. No people, no bodies, no mannequin, no text, no numbers, no labels, no borders, no room or background, no shadows. Exactly four separated accessory assets on transparency.",
+      "source": "docs/art-source/wardrobe-accessories.png",
+      "generatedPath": "C:/Users/l/.codex/generated_images/01a0fbdf-6f70-78a2-ab0a-74773329a413/exec-6efa26bf-d6c7-4901-a50b-0629e8a87bfb.png"
+    },
+    {
+      "name": "props",
+      "role": "garment props",
+      "prompt": "Create a TRANSPARENT RGBA game sprite sheet of four SINGLE GARMENTS, matching the fabric and colors of the attached clothing reference. Exactly 2 columns by 2 rows, equal cells, plenty of transparent gutters. Soft polished 3D storybook illustration, front view, clean silhouettes, no people, no skin, no body or legs, no mannequin, no background, no floor shadows, no text. TOP LEFT: coral pink long sleeve floral DRESS alone, from collar to knee-length hem, no leggings or shoes. TOP RIGHT: butter yellow long sleeve button SHIRT alone, from collar to shirt hem, NO skirt or other garment underneath. BOTTOM LEFT: lavender pleated SKIRT alone with narrow purple waistband and little floral buckle, from waistband to hem, NO shirt, sleeves or legs anywhere. BOTTOM RIGHT: mint green hooded rain COAT alone, partly closed button front, from hood to knee length hem, NO shirt, skirt, legs or shoes. Each cell should contain only its named garment, clearly distinct and unclipped. Four asset cutouts on genuine transparency, consistent soft fairy tale textile detail.",
+      "source": "docs/art-source/wardrobe-props.png",
+      "generatedPath": "C:/Users/l/.codex/generated_images/01a0fbdf-6f70-78a2-ab0a-74773329a413/exec-48b2a011-cf60-47fc-94b6-96f65cf6e267.png"
+    }
+  ]
+}

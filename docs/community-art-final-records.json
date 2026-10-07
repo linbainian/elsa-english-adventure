@@ -1,0 +1,69 @@
+{
+  "artDirection": "Soft plush rabbit helpers; sunny street, peach toy clinic and blue-hour lakeside plaza; shared feet anchors and child-friendly props.",
+  "records": [
+    {
+      "name": "street",
+      "role": "background",
+      "prompt": "Use case: illustration-story. Production background for a preschool 2D voice adventure, 16:9 landscape, ideally 1600x900. A cheerful magical small-town bus stop in soft golden morning light. Rounded pastel turquoise and butter-yellow townhouses, a cozy bus-stop shelter at the far left, low flower beds, gently curving sidewalk and a broad clear road in the lower foreground. A small zebra crossing is visible on the right, but no vehicles or people. Painterly storybook illustration with soft plush-like 3D shapes, rich but gentle colors, warm realistic light, rounded silhouettes, suitable for a three-year-old. Camera straight-on at a slightly raised stage view, no extreme perspective. Clear unobstructed foreground floor at about 78% canvas height; leave most of center/right foreground and left foreground empty for runtime characters and a moving bus. Concentrate decorative architecture in the upper third and far edges. This is an outdoor urban street, distinctly different from forests or palace rooms. No letters, signage text, labels, UI, watermark, borders, characters, bus, giant foreground props, weapons or danger. Draw one finished landscape, not a collage.",
+      "reference": [],
+      "source": "docs/art-source/community-street.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-834d125f-53f2-49b5-8170-94a9b3d45bbe.png"
+    },
+    {
+      "name": "clinic",
+      "role": "background",
+      "prompt": "Use case: illustration-story. Create one 16:9 landscape production background, ideally 1600x900, for a three-year-old's magical town voice adventure. A friendly toy clinic interior, distinct from any street or forest: curved peach walls, tall arched windows with soft daylight, mint-green trim, a small rounded reception nook far left, low wall shelves with plush blankets and heart-shaped cushions, a lavender sofa far back right. A gentle childlike medical setting, no hospital machinery. Warm pastel peach, rose and mint palette, polished painterly storybook/soft 3D illustration, detailed but calm materials. Straight-on slightly raised theatrical view. Large EMPTY floor occupying the lower half, floor at 78% image height for runtime rabbit helpers and Elsa. Right-center foreground is open for a large toy tooth and teddy. Decorations concentrated at rear/edges. No people, animals, text, UI, needles, syringes, wounds, blood, drills, scary teeth, logos or red cross symbols. Do not draw the main teddy, tooth or helpers into the scenery. Rounded, welcoming, cozy, no collage or frame.",
+      "reference": [],
+      "source": "docs/art-source/community-clinic.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-6fc66c90-d437-4e90-b728-22c5ca5ba449.png"
+    },
+    {
+      "name": "plaza",
+      "role": "background",
+      "prompt": "Use case: illustration-story. One 16:9 landscape production game background, ideally 1600x900. A magical little town's spacious lakeside community plaza at blue hour, a gentle celebratory evening for preschoolers. Warm amber paper lanterns strung between rounded pastel shopfronts at far left and far right, distant small-town rooftops, a lake glimmering far back center, deep violet and indigo sky, softly glowing windows, low planters at far edges. A wide EMPTY warm stone plaza across the entire lower foreground for runtime rabbit helpers, Elsa, a moving little bus and a big flower. Soft polished painterly storybook/3D cartoon feel, rounded welcoming architecture, gentle rich color and no harsh flashing. Straight-on slightly raised stage view, characters' floor near 78% image height. This is an open urban evening plaza, not a forest campsite, bedroom or street. No characters, vehicles, giant foreground props, text, signs, UI, borders, watermark, fireworks or danger. One cohesive completed landscape.",
+      "reference": [],
+      "source": "docs/art-source/community-plaza.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-d1805e14-b556-4b2e-a31c-b303f738be95.png"
+    },
+    {
+      "name": "helpers",
+      "role": "atlas",
+      "prompt": "Use case: illustration-story. Asset type: transparent 2D game sprite atlas, 3 columns by 2 rows, landscape 1536x1024. The reference image establishes the plush baby-rabbit illustration style and friendly facial proportions, NOT its outfit. Create six DIFFERENT friendly rabbit community helpers as full-body isolated sprites, one sprite per cell, same camera straight-on mild three-quarter facing viewer, standing idle with arms relaxed. Big soft ears, warm smiles, large readable eyes, short round bodies, no sharp details. Row 1 left: cream rabbit BUS DRIVER, teal driver cap and navy jacket. Row 1 center: ginger rabbit FIREFIGHTER, rounded orange helmet and navy suit with yellow reflective stripes. Row 1 right: gray rabbit POLICE OFFICER, sky-blue peaked cap and light-blue uniform with small gold STAR badge. Row 2 left: white rabbit DOCTOR, white coat, mint tunic, soft lilac stethoscope hanging around neck. Row 2 center: cream rabbit NURSE, rosy pink tunic and white heart headband. Row 2 right: beige rabbit DENTIST, mint tunic, small round examination mirror on headband, friendly open mouth smile. Preserve each helper's identity and distinct uniform. Each sprite fits inside its 512x512 cell, feet approximately 490 pixels down the cell, ears and hats safely inside with 25px margins. All sprites same perceived scale and shared feet baseline. Real fully transparent background, no cell lines, no scenery, no writing, no labels, no watermark, no detached accessories, no handheld props, no floor shadows. No weapons, handcuffs, needles, syringes, sharp dental tools, masks obscuring smiles. One atlas with exactly six separate complete silhouettes, large clean gaps.\n\nRevision: Use case: illustration-story. Fix this transparent 3x2 community-helper sprite atlas. Preserve all SIX exact rabbit identities, uniforms, faces, poses and cell order from the reference. Draw each full figure 20% smaller in its own cell, with a visibly EMPTY TRANSPARENT 40-pixel margin above ears/hats and below shoes and at every edge. Current ears touch the top canvas; restore complete rounded ears, do not crop them. 1536x1024 landscape, six 512x512 cells. Exactly one isolated full figure per cell, large transparent gaps between both rows. Real alpha transparency everywhere outside the six figures. No colored glow, no background wash, no shadows, no text, no borders, no new accessories. Keep the relaxed standing poses. Top row bus driver / firefighter / police officer; bottom doctor / nurse / dentist.",
+      "reference": [
+        "D:\\English game\\public\\assets\\body\\rabbit-idle.png"
+      ],
+      "source": "docs/art-source/community-helpers.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-8583ffd9-ece2-47d3-b005-2ad464114ce0.png",
+      "revisionReference": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-97553807-9d89-430b-8c80-f9a29b7ba9e4.png",
+      "initialSource": "docs/art-source/community-helpers-initial.png"
+    },
+    {
+      "name": "waves",
+      "role": "atlas",
+      "prompt": "Use case: illustration-story. Edit/derive a matching expressive pose atlas from the reference: exactly the same SIX rabbit community helpers, same identities, fur colors, eye colors, hats, uniforms, face proportions, camera and 3-by-2 cell order. Transparent landscape 1536x1024 sprite atlas. Change only pose: each helper raises one paw in a friendly wave, the other paw rests near their waist. Bus driver (top left), firefighter (top center), police officer (top right), doctor (bottom left), nurse (bottom center), dentist (bottom right). Happy welcome smiles. All six FULL figures must be entirely inside their respective 512x512 slots, with 20-25px safe edge margins and feet baseline at 490px in each row. Hat and ears remain intact. Exactly one detached complete silhouette per cell with clear gaps, genuinely transparent outside the characters, no colored background wash, no scene, no shadows, no cell borders, no text, no props. No weapons, sharp tools, needle, or mask. Preserve outfits exactly, not six new designs.\n\nRevision: Use case: illustration-story. Fix this transparent 3x2 community-helper sprite atlas. Preserve all SIX exact rabbit identities, uniforms, faces, poses and cell order from the reference. Draw each full figure 20% smaller in its own cell, with a visibly EMPTY TRANSPARENT 40-pixel margin above ears/hats and below shoes and at every edge. Current ears touch the top canvas; restore complete rounded ears, do not crop them. 1536x1024 landscape, six 512x512 cells. Exactly one isolated full figure per cell, large transparent gaps between both rows. Real alpha transparency everywhere outside the six figures. No colored glow, no background wash, no shadows, no text, no borders, no new accessories. Keep the one-paw waving poses. Top row bus driver / firefighter / police officer; bottom doctor / nurse / dentist.",
+      "reference": [
+        "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-97553807-9d89-430b-8c80-f9a29b7ba9e4.png"
+      ],
+      "source": "docs/art-source/community-waves.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-d938a429-ff8e-4e02-a6bc-82460c4b899b.png",
+      "revisionReference": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-0f864292-cd48-4ed8-928c-927895dba596.png",
+      "initialSource": "docs/art-source/community-waves-initial.png"
+    },
+    {
+      "name": "props",
+      "role": "atlas",
+      "prompt": "Use case: illustration-story. Asset type: preschool magical-town game props sprite atlas, 3 columns by 2 rows, landscape 1536x1024, exactly six isolated objects on genuinely fully transparent background. Same soft polished storybook 3D/plush materials and pastel colors as friendly cartoon bunny helpers. Row1 left: cute round TURQUOISE mini BUS viewed from side, driving toward the right, empty windows, one clearly open tall doorway near the front/right, no characters or lettering. Row1 center: friendly white TOY TOOTH with rounded roots, a little smile, NOT human mouth, no decay. Row1 right: large pink SOFT TOOTHBRUSH with rounded bristles, diagonally upward, no toothpaste packaging. Row2 left: lilac rounded toy STETHOSCOPE with soft circular listening head, one complete connected object. Row2 center: colorful four-petal PINWHEEL ROTOR ONLY, no stick, big simple yellow/pink/mint/lilac blades around a round central hub, balanced symmetric clear outline. Row2 right: a big cheerful orange FLOWER in a small mint pot, full leaves and petals, one complete plant. All objects fully inside 512x512 cells with 35px margins, ample transparent gaps, no shadows, no lines, no text, no labels, no backdrop, no repeated objects, no medical needles or sharp tools. Render the bus wide and short, without distorting its proportions. The output is one atlas of six independent complete usable transparent sprites.",
+      "reference": [],
+      "source": "docs/art-source/community-props.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-8f53ba33-f785-4fe4-be9e-ed7b10ed9351.png"
+    },
+    {
+      "name": "blanket",
+      "role": "prop",
+      "prompt": "Use case: illustration-story. Create ONE isolated production 2D game prop: a small soft rosy-pink patchwork quilt blanket, shown from front, draped over a low rounded shape as if covering the lap of a seated plush teddy bear. The bear is NOT in the image. Rounded scalloped cloth edges, believable gentle fabric folds and fluffy thickness, tiny cream stitched stars, a slightly rolled cozy top edge, broad front panel and two softly hanging side corners. Polished storybook soft 3D pastel material, matching a cozy peach-and-mint toy clinic for three-year-olds. Straight-on camera, rectangular cloth wider than tall, complete silhouette safely within image with at least 60px transparent margins. Genuine transparent background. No square canvas wash, no characters, bed, shadow, text, labels, border, medical tools or writing. Exactly one connected complete blanket shape. Square image, ideally 1024x1024, clean antialias edges.",
+      "reference": [],
+      "source": "docs/art-source/community-blanket.png",
+      "generatedPath": "C:\\Users\\l\\.codex\\generated_images\\01a0fbdf-6f70-78a2-ab0a-74773329a413\\exec-0ed767ea-628a-4845-a042-6e516586c0c4.png"
+    }
+  ]
+}

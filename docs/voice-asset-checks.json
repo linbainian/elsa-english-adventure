@@ -1,0 +1,3019 @@
+{
+  "clips": 502,
+  "missing": [],
+  "decodeErrors": [],
+  "results": [
+    {
+      "file": "guide-cbe4ze.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3778,
+      "channels": 1
+    },
+    {
+      "file": "hello-2y0dev.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.2431,
+      "channels": 1
+    },
+    {
+      "file": "hello-2y0dev-slow.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.3099,
+      "channels": 1
+    },
+    {
+      "file": "good-yix9l2.mp3",
+      "durationSeconds": 1.068,
+      "peak": 0.3085,
+      "channels": 1
+    },
+    {
+      "file": "guide-ngxhbi.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.3133,
+      "channels": 1
+    },
+    {
+      "file": "leo-1bekk2j.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.379,
+      "channels": 1
+    },
+    {
+      "file": "whats-your-name-7mw13e.mp3",
+      "durationSeconds": 1.254,
+      "peak": 0.335,
+      "channels": 1
+    },
+    {
+      "file": "my-name-is-leo-spvzhm.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3852,
+      "channels": 1
+    },
+    {
+      "file": "my-name-is-leo-spvzhm-slow.mp3",
+      "durationSeconds": 1.892,
+      "peak": 0.302,
+      "channels": 1
+    },
+    {
+      "file": "great-job-13zk7pj.mp3",
+      "durationSeconds": 1.161,
+      "peak": 0.3643,
+      "channels": 1
+    },
+    {
+      "file": "guide-1rtry37.mp3",
+      "durationSeconds": 3.611,
+      "peak": 0.4231,
+      "channels": 1
+    },
+    {
+      "file": "guide-1uicfrn.mp3",
+      "durationSeconds": 3.565,
+      "peak": 0.4924,
+      "channels": 1
+    },
+    {
+      "file": "lets-go-1hxvkz.mp3",
+      "durationSeconds": 0.987,
+      "peak": 0.2753,
+      "channels": 1
+    },
+    {
+      "file": "lets-go-1hxvkz-slow.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.2749,
+      "channels": 1
+    },
+    {
+      "file": "well-done-49o2pj.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.3614,
+      "channels": 1
+    },
+    {
+      "file": "guide-z8l0cq.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.4717,
+      "channels": 1
+    },
+    {
+      "file": "guide-1hgjn79.mp3",
+      "durationSeconds": 3.309,
+      "peak": 0.3085,
+      "channels": 1
+    },
+    {
+      "file": "this-is-for-you-1tb988x.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3413,
+      "channels": 1
+    },
+    {
+      "file": "thank-you-1gkw5tq.mp3",
+      "durationSeconds": 1.161,
+      "peak": 0.3009,
+      "channels": 1
+    },
+    {
+      "file": "thank-you-1gkw5tq-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3612,
+      "channels": 1
+    },
+    {
+      "file": "amazing-5s3gz6.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3697,
+      "channels": 1
+    },
+    {
+      "file": "guide-fqvura.mp3",
+      "durationSeconds": 3.959,
+      "peak": 0.3254,
+      "channels": 1
+    },
+    {
+      "file": "guide-1fq36sk.mp3",
+      "durationSeconds": 4.18,
+      "peak": 0.3645,
+      "channels": 1
+    },
+    {
+      "file": "guide-11rmoqu.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.4262,
+      "channels": 1
+    },
+    {
+      "file": "guide-3h5spp.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3377,
+      "channels": 1
+    },
+    {
+      "file": "say-please-1ct5zgg.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3488,
+      "channels": 1
+    },
+    {
+      "file": "please-vgsvpn.mp3",
+      "durationSeconds": 0.987,
+      "peak": 0.3185,
+      "channels": 1
+    },
+    {
+      "file": "please-vgsvpn-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.3691,
+      "channels": 1
+    },
+    {
+      "file": "you-did-it-39gk4y.mp3",
+      "durationSeconds": 1.161,
+      "peak": 0.3179,
+      "channels": 1
+    },
+    {
+      "file": "guide-1dlcf9k.mp3",
+      "durationSeconds": 3.565,
+      "peak": 0.4123,
+      "channels": 1
+    },
+    {
+      "file": "guide-1e0bu3a.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.4342,
+      "channels": 1
+    },
+    {
+      "file": "here-is-a-little-light-1axzx86.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.2666,
+      "channels": 1
+    },
+    {
+      "file": "guide-1286j5k.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3759,
+      "channels": 1
+    },
+    {
+      "file": "guide-lrf8ip.mp3",
+      "durationSeconds": 3.913,
+      "peak": 0.452,
+      "channels": 1
+    },
+    {
+      "file": "youre-welcome-36uvyj.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.2684,
+      "channels": 1
+    },
+    {
+      "file": "youre-welcome-36uvyj-slow.mp3",
+      "durationSeconds": 1.95,
+      "peak": 0.3115,
+      "channels": 1
+    },
+    {
+      "file": "guide-13mp39x.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.4372,
+      "channels": 1
+    },
+    {
+      "file": "guide-10j4gtb.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.4381,
+      "channels": 1
+    },
+    {
+      "file": "guide-1sioa5e.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.359,
+      "channels": 1
+    },
+    {
+      "file": "guide-x3bjxm.mp3",
+      "durationSeconds": 3.866,
+      "peak": 0.352,
+      "channels": 1
+    },
+    {
+      "file": "cool-yj05ze.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.3122,
+      "channels": 1
+    },
+    {
+      "file": "guide-z5w1u8.mp3",
+      "durationSeconds": 3.437,
+      "peak": 0.3872,
+      "channels": 1
+    },
+    {
+      "file": "guide-ckyjsx.mp3",
+      "durationSeconds": 4.214,
+      "peak": 0.4632,
+      "channels": 1
+    },
+    {
+      "file": "a-snowflake-for-you-1v8b7x8.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3586,
+      "channels": 1
+    },
+    {
+      "file": "guide-1rdfzru.mp3",
+      "durationSeconds": 3.437,
+      "peak": 0.3416,
+      "channels": 1
+    },
+    {
+      "file": "guide-qy5nup.mp3",
+      "durationSeconds": 4.656,
+      "peak": 0.3409,
+      "channels": 1
+    },
+    {
+      "file": "thank-you-my-friend-r7fxtk.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3534,
+      "channels": 1
+    },
+    {
+      "file": "guide-o5laom.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3949,
+      "channels": 1
+    },
+    {
+      "file": "guide-r7ys4z.mp3",
+      "durationSeconds": 4.18,
+      "peak": 0.3648,
+      "channels": 1
+    },
+    {
+      "file": "goodbye-1g3ou6w.mp3",
+      "durationSeconds": 1.022,
+      "peak": 0.2706,
+      "channels": 1
+    },
+    {
+      "file": "goodbye-1g3ou6w-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3562,
+      "channels": 1
+    },
+    {
+      "file": "guide-1w5z9tv.mp3",
+      "durationSeconds": 4.307,
+      "peak": 0.3487,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ci83xx.mp3",
+      "durationSeconds": 5.259,
+      "peak": 0.3556,
+      "channels": 1
+    },
+    {
+      "file": "my-nose-is-tickly-1a40hss.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3825,
+      "channels": 1
+    },
+    {
+      "file": "nose-yj27si.mp3",
+      "durationSeconds": 1.207,
+      "peak": 0.3254,
+      "channels": 1
+    },
+    {
+      "file": "nose-yj27si-slow.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3908,
+      "channels": 1
+    },
+    {
+      "file": "guide-1a1ekas.mp3",
+      "durationSeconds": 3.216,
+      "peak": 0.3515,
+      "channels": 1
+    },
+    {
+      "file": "guide-1yvr72a.mp3",
+      "durationSeconds": 4.18,
+      "peak": 0.3665,
+      "channels": 1
+    },
+    {
+      "file": "where-are-my-eyes-15v2cf4.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3885,
+      "channels": 1
+    },
+    {
+      "file": "eyes-yiszf3.mp3",
+      "durationSeconds": 1.022,
+      "peak": 0.3263,
+      "channels": 1
+    },
+    {
+      "file": "eyes-yiszf3-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.287,
+      "channels": 1
+    },
+    {
+      "file": "guide-1lj1ija.mp3",
+      "durationSeconds": 3.216,
+      "peak": 0.3531,
+      "channels": 1
+    },
+    {
+      "file": "guide-10nr4fg.mp3",
+      "durationSeconds": 5.434,
+      "peak": 0.4397,
+      "channels": 1
+    },
+    {
+      "file": "my-mouth-makes-bubbles-10vfkp2.mp3",
+      "durationSeconds": 1.881,
+      "peak": 0.3111,
+      "channels": 1
+    },
+    {
+      "file": "mouth-2vy35a.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.321,
+      "channels": 1
+    },
+    {
+      "file": "mouth-2vy35a-slow.mp3",
+      "durationSeconds": 1.242,
+      "peak": 0.3338,
+      "channels": 1
+    },
+    {
+      "file": "guide-12lm56x.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.3081,
+      "channels": 1
+    },
+    {
+      "file": "guide-5ot4xo.mp3",
+      "durationSeconds": 3.657,
+      "peak": 0.3776,
+      "channels": 1
+    },
+    {
+      "file": "touch-your-nose-1yqn0ue.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3479,
+      "channels": 1
+    },
+    {
+      "file": "i-have-a-nose-12ylhkw.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3565,
+      "channels": 1
+    },
+    {
+      "file": "i-have-a-nose-12ylhkw-slow.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.339,
+      "channels": 1
+    },
+    {
+      "file": "guide-uc4j8m.mp3",
+      "durationSeconds": 3.785,
+      "peak": 0.3776,
+      "channels": 1
+    },
+    {
+      "file": "guide-1v5wo68.mp3",
+      "durationSeconds": 4.83,
+      "peak": 0.4211,
+      "channels": 1
+    },
+    {
+      "file": "listen-with-your-ears-d30e1m.mp3",
+      "durationSeconds": 1.66,
+      "peak": 0.3392,
+      "channels": 1
+    },
+    {
+      "file": "ears-yisfog.mp3",
+      "durationSeconds": 1.022,
+      "peak": 0.3017,
+      "channels": 1
+    },
+    {
+      "file": "ears-yisfog-slow.mp3",
+      "durationSeconds": 1.533,
+      "peak": 0.3213,
+      "channels": 1
+    },
+    {
+      "file": "guide-1uf7zbs.mp3",
+      "durationSeconds": 4.481,
+      "peak": 0.5206,
+      "channels": 1
+    },
+    {
+      "file": "guide-1pdhhne.mp3",
+      "durationSeconds": 5.828,
+      "peak": 0.3072,
+      "channels": 1
+    },
+    {
+      "file": "clap-your-hands-pikby2.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.4129,
+      "channels": 1
+    },
+    {
+      "file": "hands-2y3ek5.mp3",
+      "durationSeconds": 0.848,
+      "peak": 0.3377,
+      "channels": 1
+    },
+    {
+      "file": "hands-2y3ek5-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.3897,
+      "channels": 1
+    },
+    {
+      "file": "guide-zx7v.mp3",
+      "durationSeconds": 4.18,
+      "peak": 0.3718,
+      "channels": 1
+    },
+    {
+      "file": "guide-147x9hn.mp3",
+      "durationSeconds": 5.306,
+      "peak": 0.3452,
+      "channels": 1
+    },
+    {
+      "file": "stomp-your-feet-1f4oa0j.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3216,
+      "channels": 1
+    },
+    {
+      "file": "feet-yiwczb.mp3",
+      "durationSeconds": 0.894,
+      "peak": 0.2317,
+      "channels": 1
+    },
+    {
+      "file": "feet-yiwczb-slow.mp3",
+      "durationSeconds": 1.184,
+      "peak": 0.3593,
+      "channels": 1
+    },
+    {
+      "file": "guide-scfvc2.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.4178,
+      "channels": 1
+    },
+    {
+      "file": "guide-15ltwz2.mp3",
+      "durationSeconds": 4.911,
+      "peak": 0.4784,
+      "channels": 1
+    },
+    {
+      "file": "show-me-two-hands-1c3t2oi.mp3",
+      "durationSeconds": 1.66,
+      "peak": 0.3848,
+      "channels": 1
+    },
+    {
+      "file": "i-have-two-hands-1fcrvu.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3325,
+      "channels": 1
+    },
+    {
+      "file": "i-have-two-hands-1fcrvu-slow.mp3",
+      "durationSeconds": 2.125,
+      "peak": 0.342,
+      "channels": 1
+    },
+    {
+      "file": "guide-1gz7by7.mp3",
+      "durationSeconds": 3.17,
+      "peak": 0.3725,
+      "channels": 1
+    },
+    {
+      "file": "guide-1gk7cl0.mp3",
+      "durationSeconds": 5.7,
+      "peak": 0.4404,
+      "channels": 1
+    },
+    {
+      "file": "show-me-two-feet-1ct094g.mp3",
+      "durationSeconds": 1.707,
+      "peak": 0.3506,
+      "channels": 1
+    },
+    {
+      "file": "i-have-two-feet-8nmy88.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.374,
+      "channels": 1
+    },
+    {
+      "file": "i-have-two-feet-8nmy88-slow.mp3",
+      "durationSeconds": 2.009,
+      "peak": 0.3307,
+      "channels": 1
+    },
+    {
+      "file": "guide-1k5zmuz.mp3",
+      "durationSeconds": 3.611,
+      "peak": 0.395,
+      "channels": 1
+    },
+    {
+      "file": "guide-8b4s44.mp3",
+      "durationSeconds": 5.921,
+      "peak": 0.4329,
+      "channels": 1
+    },
+    {
+      "file": "eyes-open-wide-1l1q21w.mp3",
+      "durationSeconds": 2.055,
+      "peak": 0.3089,
+      "channels": 1
+    },
+    {
+      "file": "guide-16vvfgn.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.3903,
+      "channels": 1
+    },
+    {
+      "file": "guide-1iysckd.mp3",
+      "durationSeconds": 5.224,
+      "peak": 0.4306,
+      "channels": 1
+    },
+    {
+      "file": "mouth-make-a-wish-1rxrs3s.mp3",
+      "durationSeconds": 1.788,
+      "peak": 0.3352,
+      "channels": 1
+    },
+    {
+      "file": "guide-2lo9u8.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.3468,
+      "channels": 1
+    },
+    {
+      "file": "guide-1108egk.mp3",
+      "durationSeconds": 5.306,
+      "peak": 0.4792,
+      "channels": 1
+    },
+    {
+      "file": "hands-clap-together-1k0kph5.mp3",
+      "durationSeconds": 1.707,
+      "peak": 0.3494,
+      "channels": 1
+    },
+    {
+      "file": "guide-m19un0.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3617,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ey3cuh.mp3",
+      "durationSeconds": 3.518,
+      "peak": 0.3604,
+      "channels": 1
+    },
+    {
+      "file": "feet-lets-dance-157acac.mp3",
+      "durationSeconds": 2.055,
+      "peak": 0.3724,
+      "channels": 1
+    },
+    {
+      "file": "guide-1kw5xsa.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3175,
+      "channels": 1
+    },
+    {
+      "file": "guide-17orfze.mp3",
+      "durationSeconds": 5.178,
+      "peak": 0.4101,
+      "channels": 1
+    },
+    {
+      "file": "this-is-my-mommy-1pwujsm.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3089,
+      "channels": 1
+    },
+    {
+      "file": "mommy-2vxwm6.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.3342,
+      "channels": 1
+    },
+    {
+      "file": "mommy-2vxwm6-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3101,
+      "channels": 1
+    },
+    {
+      "file": "guide-rbkpmd.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.352,
+      "channels": 1
+    },
+    {
+      "file": "guide-lpsule.mp3",
+      "durationSeconds": 4.957,
+      "peak": 0.3048,
+      "channels": 1
+    },
+    {
+      "file": "here-comes-daddy-14eioms.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.3165,
+      "channels": 1
+    },
+    {
+      "file": "daddy-2pmm49.mp3",
+      "durationSeconds": 1.022,
+      "peak": 0.254,
+      "channels": 1
+    },
+    {
+      "file": "daddy-2pmm49-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.2548,
+      "channels": 1
+    },
+    {
+      "file": "guide-cvur02.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3019,
+      "channels": 1
+    },
+    {
+      "file": "guide-e0wdep.mp3",
+      "durationSeconds": 4.737,
+      "peak": 0.3801,
+      "channels": 1
+    },
+    {
+      "file": "meet-my-mommy-1af7aj7.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.3992,
+      "channels": 1
+    },
+    {
+      "file": "this-is-my-mommy-1pwujsm-slow.mp3",
+      "durationSeconds": 1.95,
+      "peak": 0.3595,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ks4f56.mp3",
+      "durationSeconds": 3.866,
+      "peak": 0.3887,
+      "channels": 1
+    },
+    {
+      "file": "guide-7jxvyq.mp3",
+      "durationSeconds": 5.654,
+      "peak": 0.343,
+      "channels": 1
+    },
+    {
+      "file": "shh-a-little-baby-otf7gj.mp3",
+      "durationSeconds": 1.974,
+      "peak": 0.3075,
+      "channels": 1
+    },
+    {
+      "file": "baby-yizcil.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.2887,
+      "channels": 1
+    },
+    {
+      "file": "baby-yizcil-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.2319,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ajsw5u.mp3",
+      "durationSeconds": 3.17,
+      "peak": 0.3712,
+      "channels": 1
+    },
+    {
+      "file": "guide-13u0qfm.mp3",
+      "durationSeconds": 5.224,
+      "peak": 0.4177,
+      "channels": 1
+    },
+    {
+      "file": "grandma-has-a-story-1wm2jgv.mp3",
+      "durationSeconds": 1.742,
+      "peak": 0.3075,
+      "channels": 1
+    },
+    {
+      "file": "grandma-1eio6if.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.372,
+      "channels": 1
+    },
+    {
+      "file": "grandma-1eio6if-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.4901,
+      "channels": 1
+    },
+    {
+      "file": "guide-jnpm5u.mp3",
+      "durationSeconds": 3.611,
+      "peak": 0.3976,
+      "channels": 1
+    },
+    {
+      "file": "guide-weffsa.mp3",
+      "durationSeconds": 4.911,
+      "peak": 0.2782,
+      "channels": 1
+    },
+    {
+      "file": "grandpa-has-a-surprise-176trw8.mp3",
+      "durationSeconds": 1.788,
+      "peak": 0.382,
+      "channels": 1
+    },
+    {
+      "file": "grandpa-1eio66i.mp3",
+      "durationSeconds": 0.894,
+      "peak": 0.322,
+      "channels": 1
+    },
+    {
+      "file": "grandpa-1eio66i-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3262,
+      "channels": 1
+    },
+    {
+      "file": "guide-1nim7yo.mp3",
+      "durationSeconds": 3.959,
+      "peak": 0.3621,
+      "channels": 1
+    },
+    {
+      "file": "guide-1bef77i.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.3643,
+      "channels": 1
+    },
+    {
+      "file": "baby-loves-bubbles-y8td03.mp3",
+      "durationSeconds": 1.707,
+      "peak": 0.2833,
+      "channels": 1
+    },
+    {
+      "file": "guide-1pvdrfi.mp3",
+      "durationSeconds": 3.135,
+      "peak": 0.3788,
+      "channels": 1
+    },
+    {
+      "file": "guide-18mxvdc.mp3",
+      "durationSeconds": 5.224,
+      "peak": 0.3396,
+      "channels": 1
+    },
+    {
+      "file": "daddy-join-our-picnic-wm294d.mp3",
+      "durationSeconds": 2.287,
+      "peak": 0.357,
+      "channels": 1
+    },
+    {
+      "file": "guide-1lfev1f.mp3",
+      "durationSeconds": 3.565,
+      "peak": 0.3629,
+      "channels": 1
+    },
+    {
+      "file": "guide-ud42u8.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.3386,
+      "channels": 1
+    },
+    {
+      "file": "we-are-a-family-1k42xva.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.329,
+      "channels": 1
+    },
+    {
+      "file": "family-m9tjqr.mp3",
+      "durationSeconds": 1.068,
+      "peak": 0.3314,
+      "channels": 1
+    },
+    {
+      "file": "family-m9tjqr-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3411,
+      "channels": 1
+    },
+    {
+      "file": "guide-1v8ochb.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3188,
+      "channels": 1
+    },
+    {
+      "file": "guide-18n64oj.mp3",
+      "durationSeconds": 3.262,
+      "peak": 0.3438,
+      "channels": 1
+    },
+    {
+      "file": "mommy-photo-time-na0akn.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3152,
+      "channels": 1
+    },
+    {
+      "file": "guide-1xh9whf.mp3",
+      "durationSeconds": 3.866,
+      "peak": 0.3857,
+      "channels": 1
+    },
+    {
+      "file": "guide-igpcmc.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3305,
+      "channels": 1
+    },
+    {
+      "file": "who-is-this-1i160i1.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3554,
+      "channels": 1
+    },
+    {
+      "file": "this-is-my-grandpa-3w3r8i.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3161,
+      "channels": 1
+    },
+    {
+      "file": "this-is-my-grandpa-3w3r8i-slow.mp3",
+      "durationSeconds": 2.067,
+      "peak": 0.299,
+      "channels": 1
+    },
+    {
+      "file": "guide-1g6o3.mp3",
+      "durationSeconds": 3.17,
+      "peak": 0.3433,
+      "channels": 1
+    },
+    {
+      "file": "guide-xz6m15.mp3",
+      "durationSeconds": 4.911,
+      "peak": 0.3813,
+      "channels": 1
+    },
+    {
+      "file": "family-smile-together-jpgan3.mp3",
+      "durationSeconds": 2.334,
+      "peak": 0.3796,
+      "channels": 1
+    },
+    {
+      "file": "guide-uqmvsp.mp3",
+      "durationSeconds": 3.262,
+      "peak": 0.2992,
+      "channels": 1
+    },
+    {
+      "file": "guide-uc5fa4.mp3",
+      "durationSeconds": 4.307,
+      "peak": 0.3509,
+      "channels": 1
+    },
+    {
+      "file": "i-love-my-family-1d42zzy.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3942,
+      "channels": 1
+    },
+    {
+      "file": "i-love-my-family-1d42zzy-slow.mp3",
+      "durationSeconds": 2.183,
+      "peak": 0.3946,
+      "channels": 1
+    },
+    {
+      "file": "guide-1verh6x.mp3",
+      "durationSeconds": 4.389,
+      "peak": 0.3512,
+      "channels": 1
+    },
+    {
+      "file": "guide-1bejymr.mp3",
+      "durationSeconds": 5.7,
+      "peak": 0.3623,
+      "channels": 1
+    },
+    {
+      "file": "look-a-ball-dpkg0w.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.3972,
+      "channels": 1
+    },
+    {
+      "file": "ball-yizcqu.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.2977,
+      "channels": 1
+    },
+    {
+      "file": "ball-yizcqu-slow.mp3",
+      "durationSeconds": 1.242,
+      "peak": 0.3287,
+      "channels": 1
+    },
+    {
+      "file": "guide-ahppnr.mp3",
+      "durationSeconds": 3.785,
+      "peak": 0.4169,
+      "channels": 1
+    },
+    {
+      "file": "guide-1tgxg36.mp3",
+      "durationSeconds": 5.828,
+      "peak": 0.3684,
+      "channels": 1
+    },
+    {
+      "file": "a-teddy-bear-nof16g.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.273,
+      "channels": 1
+    },
+    {
+      "file": "teddy-bear-1a0edeh.mp3",
+      "durationSeconds": 1.207,
+      "peak": 0.2959,
+      "channels": 1
+    },
+    {
+      "file": "teddy-bear-1a0edeh-slow.mp3",
+      "durationSeconds": 1.416,
+      "peak": 0.3477,
+      "channels": 1
+    },
+    {
+      "file": "guide-1on6ulx.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3655,
+      "channels": 1
+    },
+    {
+      "file": "guide-2wa2mu.mp3",
+      "durationSeconds": 5.782,
+      "peak": 0.336,
+      "channels": 1
+    },
+    {
+      "file": "here-is-a-doll-2utwb3.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3256,
+      "channels": 1
+    },
+    {
+      "file": "doll-yirytq.mp3",
+      "durationSeconds": 1.207,
+      "peak": 0.3268,
+      "channels": 1
+    },
+    {
+      "file": "doll-yirytq-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.323,
+      "channels": 1
+    },
+    {
+      "file": "guide-1nw28sh.mp3",
+      "durationSeconds": 4.307,
+      "peak": 0.3572,
+      "channels": 1
+    },
+    {
+      "file": "guide-iksmbe.mp3",
+      "durationSeconds": 5.782,
+      "peak": 0.3214,
+      "channels": 1
+    },
+    {
+      "file": "is-it-your-ball-17o5v74.mp3",
+      "durationSeconds": 1.207,
+      "peak": 0.2982,
+      "channels": 1
+    },
+    {
+      "file": "its-my-ball-17bk9a4.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.4243,
+      "channels": 1
+    },
+    {
+      "file": "its-my-ball-17bk9a4-slow.mp3",
+      "durationSeconds": 1.649,
+      "peak": 0.3943,
+      "channels": 1
+    },
+    {
+      "file": "guide-1nizkz5.mp3",
+      "durationSeconds": 4.481,
+      "peak": 0.3394,
+      "channels": 1
+    },
+    {
+      "file": "guide-1tembsk.mp3",
+      "durationSeconds": 6.002,
+      "peak": 0.3897,
+      "channels": 1
+    },
+    {
+      "file": "we-need-blocks-1kgtg5j.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3411,
+      "channels": 1
+    },
+    {
+      "file": "blocks-owrl0f.mp3",
+      "durationSeconds": 0.987,
+      "peak": 0.4227,
+      "channels": 1
+    },
+    {
+      "file": "blocks-owrl0f-slow.mp3",
+      "durationSeconds": 1.591,
+      "peak": 0.3652,
+      "channels": 1
+    },
+    {
+      "file": "guide-19wzx4u.mp3",
+      "durationSeconds": 4.18,
+      "peak": 0.3001,
+      "channels": 1
+    },
+    {
+      "file": "guide-wost2k.mp3",
+      "durationSeconds": 5.399,
+      "peak": 0.419,
+      "channels": 1
+    },
+    {
+      "file": "here-comes-a-car-14cca61.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.2867,
+      "channels": 1
+    },
+    {
+      "file": "car-375ktx.mp3",
+      "durationSeconds": 0.848,
+      "peak": 0.2893,
+      "channels": 1
+    },
+    {
+      "file": "car-375ktx-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.255,
+      "channels": 1
+    },
+    {
+      "file": "guide-zbdbzu.mp3",
+      "durationSeconds": 4.876,
+      "peak": 0.4188,
+      "channels": 1
+    },
+    {
+      "file": "guide-1lvnnfv.mp3",
+      "durationSeconds": 4.911,
+      "peak": 0.3236,
+      "channels": 1
+    },
+    {
+      "file": "look-at-the-train-1am2wb2.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.3575,
+      "channels": 1
+    },
+    {
+      "file": "train-30ir1h.mp3",
+      "durationSeconds": 0.894,
+      "peak": 0.3662,
+      "channels": 1
+    },
+    {
+      "file": "train-30ir1h-slow.mp3",
+      "durationSeconds": 1.242,
+      "peak": 0.4,
+      "channels": 1
+    },
+    {
+      "file": "guide-1vtn992.mp3",
+      "durationSeconds": 4.957,
+      "peak": 0.3705,
+      "channels": 1
+    },
+    {
+      "file": "guide-w6nya0.mp3",
+      "durationSeconds": 4.04,
+      "peak": 0.3651,
+      "channels": 1
+    },
+    {
+      "file": "is-it-your-train-kf5mfn.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.2711,
+      "channels": 1
+    },
+    {
+      "file": "its-my-train-8k8j33.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3168,
+      "channels": 1
+    },
+    {
+      "file": "its-my-train-8k8j33-slow.mp3",
+      "durationSeconds": 1.776,
+      "peak": 0.3272,
+      "channels": 1
+    },
+    {
+      "file": "guide-7p7xfw.mp3",
+      "durationSeconds": 4.563,
+      "peak": 0.3528,
+      "channels": 1
+    },
+    {
+      "file": "guide-1v2n64g.mp3",
+      "durationSeconds": 5.526,
+      "peak": 0.3512,
+      "channels": 1
+    },
+    {
+      "file": "the-doll-is-ready-zfagva.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.2561,
+      "channels": 1
+    },
+    {
+      "file": "guide-1rdnuc0.mp3",
+      "durationSeconds": 3.518,
+      "peak": 0.326,
+      "channels": 1
+    },
+    {
+      "file": "guide-qa1ivh.mp3",
+      "durationSeconds": 5.085,
+      "peak": 0.4581,
+      "channels": 1
+    },
+    {
+      "file": "the-teddy-bear-is-happy-1q8ez62.mp3",
+      "durationSeconds": 1.788,
+      "peak": 0.2659,
+      "channels": 1
+    },
+    {
+      "file": "guide-cisosn.mp3",
+      "durationSeconds": 3.657,
+      "peak": 0.3873,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ud3pk7.mp3",
+      "durationSeconds": 5.654,
+      "peak": 0.4224,
+      "channels": 1
+    },
+    {
+      "file": "the-ball-can-bounce-bi70cj.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3689,
+      "channels": 1
+    },
+    {
+      "file": "guide-1p70ytc.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.3833,
+      "channels": 1
+    },
+    {
+      "file": "guide-1cxa40h.mp3",
+      "durationSeconds": 5.875,
+      "peak": 0.3572,
+      "channels": 1
+    },
+    {
+      "file": "the-car-is-ready-1qggkd9.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.2309,
+      "channels": 1
+    },
+    {
+      "file": "guide-1lxz2ku.mp3",
+      "durationSeconds": 4.087,
+      "peak": 0.3559,
+      "channels": 1
+    },
+    {
+      "file": "guide-121jm3m.mp3",
+      "durationSeconds": 5.956,
+      "peak": 0.4001,
+      "channels": 1
+    },
+    {
+      "file": "do-you-like-your-toys-je34au.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.2591,
+      "channels": 1
+    },
+    {
+      "file": "i-like-my-toys-15tlqf6.mp3",
+      "durationSeconds": 1.881,
+      "peak": 0.2901,
+      "channels": 1
+    },
+    {
+      "file": "i-like-my-toys-15tlqf6-slow.mp3",
+      "durationSeconds": 2.009,
+      "peak": 0.4157,
+      "channels": 1
+    },
+    {
+      "file": "guide-1te4lel.mp3",
+      "durationSeconds": 6.792,
+      "peak": 0.374,
+      "channels": 1
+    },
+    {
+      "file": "guide-12dc6nh.mp3",
+      "durationSeconds": 3.611,
+      "peak": 0.381,
+      "channels": 1
+    },
+    {
+      "file": "look-a-dress-qge2ds.mp3",
+      "durationSeconds": 1.927,
+      "peak": 0.2959,
+      "channels": 1
+    },
+    {
+      "file": "dress-2pwrzq.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.3391,
+      "channels": 1
+    },
+    {
+      "file": "dress-2pwrzq-slow.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3606,
+      "channels": 1
+    },
+    {
+      "file": "guide-6u3m9x.mp3",
+      "durationSeconds": 4.04,
+      "peak": 0.367,
+      "channels": 1
+    },
+    {
+      "file": "guide-1cer4yt.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.4122,
+      "channels": 1
+    },
+    {
+      "file": "here-are-my-shoes-1dqeifz.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3124,
+      "channels": 1
+    },
+    {
+      "file": "shoes-38pc2v.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.3246,
+      "channels": 1
+    },
+    {
+      "file": "shoes-38pc2v-slow.mp3",
+      "durationSeconds": 1.416,
+      "peak": 0.3646,
+      "channels": 1
+    },
+    {
+      "file": "guide-40yi4z.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.3529,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ahiopu.mp3",
+      "durationSeconds": 3.309,
+      "peak": 0.3392,
+      "channels": 1
+    },
+    {
+      "file": "a-pretty-hat-10rb6nb.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3237,
+      "channels": 1
+    },
+    {
+      "file": "hat-375lvc.mp3",
+      "durationSeconds": 0.894,
+      "peak": 0.2551,
+      "channels": 1
+    },
+    {
+      "file": "hat-375lvc-slow.mp3",
+      "durationSeconds": 1.242,
+      "peak": 0.3497,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ud8pui.mp3",
+      "durationSeconds": 3.611,
+      "peak": 0.3469,
+      "channels": 1
+    },
+    {
+      "file": "guide-1p1boqi.mp3",
+      "durationSeconds": 4.087,
+      "peak": 0.3501,
+      "channels": 1
+    },
+    {
+      "file": "show-me-your-dress-1scj1jg.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3201,
+      "channels": 1
+    },
+    {
+      "file": "my-dress-dciaf6.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3447,
+      "channels": 1
+    },
+    {
+      "file": "my-dress-dciaf6-slow.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.4005,
+      "channels": 1
+    },
+    {
+      "file": "guide-1hm317v.mp3",
+      "durationSeconds": 4.133,
+      "peak": 0.3268,
+      "channels": 1
+    },
+    {
+      "file": "guide-fzyziv.mp3",
+      "durationSeconds": 3.216,
+      "peak": 0.3556,
+      "channels": 1
+    },
+    {
+      "file": "here-is-a-shirt-nppjzk.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3732,
+      "channels": 1
+    },
+    {
+      "file": "shirt-38pjpt.mp3",
+      "durationSeconds": 0.987,
+      "peak": 0.2868,
+      "channels": 1
+    },
+    {
+      "file": "shirt-38pjpt-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.292,
+      "channels": 1
+    },
+    {
+      "file": "guide-v0s7ki.mp3",
+      "durationSeconds": 4.389,
+      "peak": 0.3404,
+      "channels": 1
+    },
+    {
+      "file": "guide-vciwpi.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3493,
+      "channels": 1
+    },
+    {
+      "file": "look-at-the-skirt-1apohjt.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.2914,
+      "channels": 1
+    },
+    {
+      "file": "skirt-38q4z6.mp3",
+      "durationSeconds": 1.207,
+      "peak": 0.3065,
+      "channels": 1
+    },
+    {
+      "file": "skirt-38q4z6-slow.mp3",
+      "durationSeconds": 1.242,
+      "peak": 0.3121,
+      "channels": 1
+    },
+    {
+      "file": "guide-dg9dhd.mp3",
+      "durationSeconds": 5.399,
+      "peak": 0.3875,
+      "channels": 1
+    },
+    {
+      "file": "guide-14u3v2i.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.3224,
+      "channels": 1
+    },
+    {
+      "file": "we-need-a-coat-1iogxk5.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3288,
+      "channels": 1
+    },
+    {
+      "file": "coat-yj05y4.mp3",
+      "durationSeconds": 0.848,
+      "peak": 0.2752,
+      "channels": 1
+    },
+    {
+      "file": "coat-yj05y4-slow.mp3",
+      "durationSeconds": 1.184,
+      "peak": 0.324,
+      "channels": 1
+    },
+    {
+      "file": "guide-dg3q1j.mp3",
+      "durationSeconds": 4.087,
+      "peak": 0.2931,
+      "channels": 1
+    },
+    {
+      "file": "guide-1c1ges5.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.3269,
+      "channels": 1
+    },
+    {
+      "file": "show-me-your-coat-1wobgpy.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3331,
+      "channels": 1
+    },
+    {
+      "file": "my-coat-o2ua5k.mp3",
+      "durationSeconds": 1.254,
+      "peak": 0.3159,
+      "channels": 1
+    },
+    {
+      "file": "my-coat-o2ua5k-slow.mp3",
+      "durationSeconds": 1.591,
+      "peak": 0.3485,
+      "channels": 1
+    },
+    {
+      "file": "guide-15xl6st.mp3",
+      "durationSeconds": 5.399,
+      "peak": 0.3978,
+      "channels": 1
+    },
+    {
+      "file": "guide-jiwa1o.mp3",
+      "durationSeconds": 3.785,
+      "peak": 0.3216,
+      "channels": 1
+    },
+    {
+      "file": "a-dress-for-the-party-yv152z.mp3",
+      "durationSeconds": 1.707,
+      "peak": 0.3083,
+      "channels": 1
+    },
+    {
+      "file": "guide-1vgtbka.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3161,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ker4gn.mp3",
+      "durationSeconds": 3.565,
+      "peak": 0.506,
+      "channels": 1
+    },
+    {
+      "file": "my-dancing-shoes-oq082j.mp3",
+      "durationSeconds": 1.788,
+      "peak": 0.4175,
+      "channels": 1
+    },
+    {
+      "file": "guide-sftzsn.mp3",
+      "durationSeconds": 4.307,
+      "peak": 0.4143,
+      "channels": 1
+    },
+    {
+      "file": "guide-1gj3czz.mp3",
+      "durationSeconds": 3.17,
+      "peak": 0.3471,
+      "channels": 1
+    },
+    {
+      "file": "thank-you-little-hat-1aizjn3.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3252,
+      "channels": 1
+    },
+    {
+      "file": "guide-138s0vx.mp3",
+      "durationSeconds": 4.656,
+      "peak": 0.4328,
+      "channels": 1
+    },
+    {
+      "file": "guide-1nkffuf.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.3638,
+      "channels": 1
+    },
+    {
+      "file": "guide-mlmsyt.mp3",
+      "durationSeconds": 4.876,
+      "peak": 0.5334,
+      "channels": 1
+    },
+    {
+      "file": "guide-6yxiu5.mp3",
+      "durationSeconds": 3.657,
+      "peak": 0.3413,
+      "channels": 1
+    },
+    {
+      "file": "do-you-like-your-dress-xits4.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.2936,
+      "channels": 1
+    },
+    {
+      "file": "i-like-my-dress-uumj40.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.331,
+      "channels": 1
+    },
+    {
+      "file": "i-like-my-dress-uumj40-slow.mp3",
+      "durationSeconds": 2.241,
+      "peak": 0.3089,
+      "channels": 1
+    },
+    {
+      "file": "guide-1udckf5.mp3",
+      "durationSeconds": 4.389,
+      "peak": 0.3312,
+      "channels": 1
+    },
+    {
+      "file": "guide-fkgt9j.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3492,
+      "channels": 1
+    },
+    {
+      "file": "a-sleepy-cat-grtguc.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.2635,
+      "channels": 1
+    },
+    {
+      "file": "cat-375ktv.mp3",
+      "durationSeconds": 0.987,
+      "peak": 0.3138,
+      "channels": 1
+    },
+    {
+      "file": "cat-375ktv-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.3398,
+      "channels": 1
+    },
+    {
+      "file": "guide-bulitn.mp3",
+      "durationSeconds": 4.133,
+      "peak": 0.4321,
+      "channels": 1
+    },
+    {
+      "file": "guide-1g8gtts.mp3",
+      "durationSeconds": 3.309,
+      "peak": 0.3542,
+      "channels": 1
+    },
+    {
+      "file": "the-dog-wants-to-play-1ltkbio.mp3",
+      "durationSeconds": 1.66,
+      "peak": 0.3434,
+      "channels": 1
+    },
+    {
+      "file": "dog-375c15.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.2862,
+      "channels": 1
+    },
+    {
+      "file": "dog-375c15-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3726,
+      "channels": 1
+    },
+    {
+      "file": "guide-114x8xb.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3071,
+      "channels": 1
+    },
+    {
+      "file": "guide-nbhfqr.mp3",
+      "durationSeconds": 3.344,
+      "peak": 0.3136,
+      "channels": 1
+    },
+    {
+      "file": "here-comes-a-rabbit-1wehsx3.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3103,
+      "channels": 1
+    },
+    {
+      "file": "rabbit-z7gycr.mp3",
+      "durationSeconds": 1.068,
+      "peak": 0.2678,
+      "channels": 1
+    },
+    {
+      "file": "rabbit-z7gycr-slow.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3553,
+      "channels": 1
+    },
+    {
+      "file": "guide-1yu1v73.mp3",
+      "durationSeconds": 5.526,
+      "peak": 0.3366,
+      "channels": 1
+    },
+    {
+      "file": "guide-1veqawj.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.3506,
+      "channels": 1
+    },
+    {
+      "file": "where-is-the-cat-ukn1ml.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3189,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-cat-1d7iuh4.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.2685,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-cat-1d7iuh4-slow.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.3371,
+      "channels": 1
+    },
+    {
+      "file": "guide-yp6yyz.mp3",
+      "durationSeconds": 4.911,
+      "peak": 0.3099,
+      "channels": 1
+    },
+    {
+      "file": "guide-4u335j.mp3",
+      "durationSeconds": 3.042,
+      "peak": 0.3205,
+      "channels": 1
+    },
+    {
+      "file": "look-a-little-bird-1nqr9iq.mp3",
+      "durationSeconds": 2.241,
+      "peak": 0.3367,
+      "channels": 1
+    },
+    {
+      "file": "bird-yizjmg.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.243,
+      "channels": 1
+    },
+    {
+      "file": "bird-yizjmg-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3125,
+      "channels": 1
+    },
+    {
+      "file": "guide-eo7cqi.mp3",
+      "durationSeconds": 5.05,
+      "peak": 0.4042,
+      "channels": 1
+    },
+    {
+      "file": "guide-vs8bqj.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3153,
+      "channels": 1
+    },
+    {
+      "file": "a-duck-in-the-pond-1yuq5iu.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.2747,
+      "channels": 1
+    },
+    {
+      "file": "duck-yis7jw.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.3296,
+      "channels": 1
+    },
+    {
+      "file": "duck-yis7jw-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.3746,
+      "channels": 1
+    },
+    {
+      "file": "guide-ms3t14.mp3",
+      "durationSeconds": 6.002,
+      "peak": 0.3677,
+      "channels": 1
+    },
+    {
+      "file": "guide-4lv905.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3937,
+      "channels": 1
+    },
+    {
+      "file": "a-fish-is-swimming-pcns7b.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3798,
+      "channels": 1
+    },
+    {
+      "file": "fish-yiwgvl.mp3",
+      "durationSeconds": 1.022,
+      "peak": 0.3503,
+      "channels": 1
+    },
+    {
+      "file": "fish-yiwgvl-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.301,
+      "channels": 1
+    },
+    {
+      "file": "guide-cp7rjq.mp3",
+      "durationSeconds": 5.004,
+      "peak": 0.351,
+      "channels": 1
+    },
+    {
+      "file": "guide-193ez3z.mp3",
+      "durationSeconds": 4.133,
+      "peak": 0.3255,
+      "channels": 1
+    },
+    {
+      "file": "can-you-see-the-fish-7tkv5g.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3503,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-fish-1p7q562.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.357,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-fish-1p7q562-slow.mp3",
+      "durationSeconds": 2.009,
+      "peak": 0.333,
+      "channels": 1
+    },
+    {
+      "file": "guide-smvoo0.mp3",
+      "durationSeconds": 6.13,
+      "peak": 0.421,
+      "channels": 1
+    },
+    {
+      "file": "guide-jlvcyg.mp3",
+      "durationSeconds": 3.344,
+      "peak": 0.4349,
+      "channels": 1
+    },
+    {
+      "file": "the-cat-likes-a-gentle-brush-1pkekjg.mp3",
+      "durationSeconds": 2.148,
+      "peak": 0.3573,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ilneh9.mp3",
+      "durationSeconds": 5.747,
+      "peak": 0.419,
+      "channels": 1
+    },
+    {
+      "file": "guide-p9chxc.mp3",
+      "durationSeconds": 3.216,
+      "peak": 0.3216,
+      "channels": 1
+    },
+    {
+      "file": "a-splashy-little-dog-1bkb3vs.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.277,
+      "channels": 1
+    },
+    {
+      "file": "guide-177ngmd.mp3",
+      "durationSeconds": 5.224,
+      "peak": 0.3944,
+      "channels": 1
+    },
+    {
+      "file": "guide-1p4tb9b.mp3",
+      "durationSeconds": 2.961,
+      "peak": 0.3439,
+      "channels": 1
+    },
+    {
+      "file": "a-cozy-bed-for-the-rabbit-18yzrno.mp3",
+      "durationSeconds": 2.241,
+      "peak": 0.3081,
+      "channels": 1
+    },
+    {
+      "file": "guide-jkmpuc.mp3",
+      "durationSeconds": 5.224,
+      "peak": 0.3281,
+      "channels": 1
+    },
+    {
+      "file": "guide-dqivpp.mp3",
+      "durationSeconds": 3.17,
+      "peak": 0.3151,
+      "channels": 1
+    },
+    {
+      "file": "the-duck-wants-to-dance-1cd8rnw.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.334,
+      "channels": 1
+    },
+    {
+      "file": "guide-bgu77h.mp3",
+      "durationSeconds": 5.434,
+      "peak": 0.3743,
+      "channels": 1
+    },
+    {
+      "file": "guide-1tvv4le.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3006,
+      "channels": 1
+    },
+    {
+      "file": "do-you-like-animals-g0jq7n.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3557,
+      "channels": 1
+    },
+    {
+      "file": "i-like-animals-mnihv6.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.2328,
+      "channels": 1
+    },
+    {
+      "file": "i-like-animals-mnihv6-slow.mp3",
+      "durationSeconds": 2.067,
+      "peak": 0.5193,
+      "channels": 1
+    },
+    {
+      "file": "guide-1hs61ik.mp3",
+      "durationSeconds": 4.737,
+      "peak": 0.3409,
+      "channels": 1
+    },
+    {
+      "file": "guide-qk5cdn.mp3",
+      "durationSeconds": 3.437,
+      "peak": 0.3517,
+      "channels": 1
+    },
+    {
+      "file": "guide-11q937n.mp3",
+      "durationSeconds": 3.135,
+      "peak": 0.3917,
+      "channels": 1
+    },
+    {
+      "file": "guide-4zaors.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.4059,
+      "channels": 1
+    },
+    {
+      "file": "bus-driver-15ha9j3.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.2832,
+      "channels": 1
+    },
+    {
+      "file": "bus-driver-15ha9j3-slow.mp3",
+      "durationSeconds": 1.533,
+      "peak": 0.3348,
+      "channels": 1
+    },
+    {
+      "file": "guide-7mpf5f.mp3",
+      "durationSeconds": 2.868,
+      "peak": 0.3674,
+      "channels": 1
+    },
+    {
+      "file": "guide-18serjp.mp3",
+      "durationSeconds": 3.959,
+      "peak": 0.3922,
+      "channels": 1
+    },
+    {
+      "file": "firefighter-z05vdq.mp3",
+      "durationSeconds": 1.254,
+      "peak": 0.2402,
+      "channels": 1
+    },
+    {
+      "file": "firefighter-z05vdq-slow.mp3",
+      "durationSeconds": 1.649,
+      "peak": 0.2904,
+      "channels": 1
+    },
+    {
+      "file": "guide-j1d7ni.mp3",
+      "durationSeconds": 2.995,
+      "peak": 0.351,
+      "channels": 1
+    },
+    {
+      "file": "guide-1cfk6cp.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3754,
+      "channels": 1
+    },
+    {
+      "file": "police-officer-16kme5n.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.3,
+      "channels": 1
+    },
+    {
+      "file": "police-officer-16kme5n-slow.mp3",
+      "durationSeconds": 1.892,
+      "peak": 0.2476,
+      "channels": 1
+    },
+    {
+      "file": "guide-3gj1kj.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.3937,
+      "channels": 1
+    },
+    {
+      "file": "guide-1u4x8zq.mp3",
+      "durationSeconds": 4.005,
+      "peak": 0.2932,
+      "channels": 1
+    },
+    {
+      "file": "guide-u5h22t.mp3",
+      "durationSeconds": 3.216,
+      "peak": 0.3605,
+      "channels": 1
+    },
+    {
+      "file": "guide-cvrsp4.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3663,
+      "channels": 1
+    },
+    {
+      "file": "guide-19jvnip.mp3",
+      "durationSeconds": 4.087,
+      "peak": 0.4,
+      "channels": 1
+    },
+    {
+      "file": "guide-xq2jjs.mp3",
+      "durationSeconds": 4.307,
+      "peak": 0.286,
+      "channels": 1
+    },
+    {
+      "file": "doctor-inpdz8.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.354,
+      "channels": 1
+    },
+    {
+      "file": "doctor-inpdz8-slow.mp3",
+      "durationSeconds": 1.416,
+      "peak": 0.3178,
+      "channels": 1
+    },
+    {
+      "file": "guide-1i3cg6g.mp3",
+      "durationSeconds": 4.214,
+      "peak": 0.3986,
+      "channels": 1
+    },
+    {
+      "file": "guide-lg1pkp.mp3",
+      "durationSeconds": 3.309,
+      "peak": 0.3059,
+      "channels": 1
+    },
+    {
+      "file": "nurse-2zual6.mp3",
+      "durationSeconds": 1.161,
+      "peak": 0.3096,
+      "channels": 1
+    },
+    {
+      "file": "nurse-2zual6-slow.mp3",
+      "durationSeconds": 1.416,
+      "peak": 0.3287,
+      "channels": 1
+    },
+    {
+      "file": "guide-1fwojkp.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.3402,
+      "channels": 1
+    },
+    {
+      "file": "guide-hnb217.mp3",
+      "durationSeconds": 3.913,
+      "peak": 0.3171,
+      "channels": 1
+    },
+    {
+      "file": "guide-d4uohu.mp3",
+      "durationSeconds": 3.17,
+      "peak": 0.3206,
+      "channels": 1
+    },
+    {
+      "file": "guide-1cqpamr.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3257,
+      "channels": 1
+    },
+    {
+      "file": "dentist-17pb6mo.mp3",
+      "durationSeconds": 1.161,
+      "peak": 0.3029,
+      "channels": 1
+    },
+    {
+      "file": "dentist-17pb6mo-slow.mp3",
+      "durationSeconds": 1.533,
+      "peak": 0.4172,
+      "channels": 1
+    },
+    {
+      "file": "guide-1rf7rre.mp3",
+      "durationSeconds": 3.344,
+      "peak": 0.3599,
+      "channels": 1
+    },
+    {
+      "file": "guide-1j10jkx.mp3",
+      "durationSeconds": 3.831,
+      "peak": 0.3428,
+      "channels": 1
+    },
+    {
+      "file": "what-do-you-see-1ynq6z8.mp3",
+      "durationSeconds": 1.254,
+      "peak": 0.2765,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-doctor-ymz1nj.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3049,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-doctor-ymz1nj-slow.mp3",
+      "durationSeconds": 2.067,
+      "peak": 0.3434,
+      "channels": 1
+    },
+    {
+      "file": "guide-15d3tac.mp3",
+      "durationSeconds": 3.344,
+      "peak": 0.4094,
+      "channels": 1
+    },
+    {
+      "file": "guide-19vk7cj.mp3",
+      "durationSeconds": 4.389,
+      "peak": 0.4125,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-nurse-v23hb5.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3441,
+      "channels": 1
+    },
+    {
+      "file": "i-see-a-nurse-v23hb5-slow.mp3",
+      "durationSeconds": 2.067,
+      "peak": 0.3591,
+      "channels": 1
+    },
+    {
+      "file": "guide-pgf097.mp3",
+      "durationSeconds": 2.961,
+      "peak": 0.3465,
+      "channels": 1
+    },
+    {
+      "file": "guide-a2o1z9.mp3",
+      "durationSeconds": 3.738,
+      "peak": 0.4089,
+      "channels": 1
+    },
+    {
+      "file": "guide-j69mm1.mp3",
+      "durationSeconds": 3.344,
+      "peak": 0.3634,
+      "channels": 1
+    },
+    {
+      "file": "guide-1qt00fg.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.2956,
+      "channels": 1
+    },
+    {
+      "file": "guide-1xml1yc.mp3",
+      "durationSeconds": 3.483,
+      "peak": 0.2694,
+      "channels": 1
+    },
+    {
+      "file": "guide-13tmxum.mp3",
+      "durationSeconds": 3.518,
+      "peak": 0.3267,
+      "channels": 1
+    },
+    {
+      "file": "guide-ucihsz.mp3",
+      "durationSeconds": 3.216,
+      "peak": 0.2788,
+      "channels": 1
+    },
+    {
+      "file": "guide-fuz665.mp3",
+      "durationSeconds": 3.39,
+      "peak": 0.4139,
+      "channels": 1
+    },
+    {
+      "file": "guide-xbdep5.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.2937,
+      "channels": 1
+    },
+    {
+      "file": "hello-little-adventurer-1i9rtp3.mp3",
+      "durationSeconds": 2.055,
+      "peak": 0.3821,
+      "channels": 1
+    },
+    {
+      "file": "you-brought-the-magic-back-1b8o95w.mp3",
+      "durationSeconds": 1.788,
+      "peak": 0.3051,
+      "channels": 1
+    },
+    {
+      "file": "lets-try-together-13k9gkm.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3137,
+      "channels": 1
+    },
+    {
+      "file": "hello-im-pip-j8kbu.mp3",
+      "durationSeconds": 1.834,
+      "peak": 0.2755,
+      "channels": 1
+    },
+    {
+      "file": "lets-help-the-forest-asqj3u.mp3",
+      "durationSeconds": 1.66,
+      "peak": 0.246,
+      "channels": 1
+    },
+    {
+      "file": "find-the-apple-17w2hld.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3679,
+      "channels": 1
+    },
+    {
+      "file": "apple-2tfcjx.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.2645,
+      "channels": 1
+    },
+    {
+      "file": "apple-2tfcjx-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.2772,
+      "channels": 1
+    },
+    {
+      "file": "find-the-banana-q9tdei.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3203,
+      "channels": 1
+    },
+    {
+      "file": "banana-our4qu.mp3",
+      "durationSeconds": 0.894,
+      "peak": 0.3842,
+      "channels": 1
+    },
+    {
+      "file": "banana-our4qu-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.3439,
+      "channels": 1
+    },
+    {
+      "file": "find-the-pear-5miam7.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3281,
+      "channels": 1
+    },
+    {
+      "file": "pear-yj7203.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.272,
+      "channels": 1
+    },
+    {
+      "file": "pear-yj7203-slow.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.2791,
+      "channels": 1
+    },
+    {
+      "file": "what-do-you-like-1mr8z4c.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.2707,
+      "channels": 1
+    },
+    {
+      "file": "i-like-apples-bn52cc.mp3",
+      "durationSeconds": 1.614,
+      "peak": 0.3191,
+      "channels": 1
+    },
+    {
+      "file": "i-like-apples-bn52cc-slow.mp3",
+      "durationSeconds": 1.892,
+      "peak": 0.2992,
+      "channels": 1
+    },
+    {
+      "file": "can-you-open-the-door-1ki8n0x.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3446,
+      "channels": 1
+    },
+    {
+      "file": "open-the-door-1hs8kke.mp3",
+      "durationSeconds": 1.3,
+      "peak": 0.312,
+      "channels": 1
+    },
+    {
+      "file": "open-the-door-1hs8kke-slow.mp3",
+      "durationSeconds": 1.416,
+      "peak": 0.3274,
+      "channels": 1
+    },
+    {
+      "file": "you-did-it-here-is-your-star-ds1h9z.mp3",
+      "durationSeconds": 2.554,
+      "peak": 0.4026,
+      "channels": 1
+    },
+    {
+      "file": "jump-yj5sfb.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.2945,
+      "channels": 1
+    },
+    {
+      "file": "jump-yj5sfb-slow.mp3",
+      "durationSeconds": 1.057,
+      "peak": 0.3252,
+      "channels": 1
+    },
+    {
+      "file": "go-right-1edvirx.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.3334,
+      "channels": 1
+    },
+    {
+      "file": "go-right-1edvirx-slow.mp3",
+      "durationSeconds": 1.416,
+      "peak": 0.3363,
+      "channels": 1
+    },
+    {
+      "file": "say-fire-to-light-the-lantern-169fktg.mp3",
+      "durationSeconds": 2.334,
+      "peak": 0.3503,
+      "channels": 1
+    },
+    {
+      "file": "fire-yiwgpp.mp3",
+      "durationSeconds": 1.068,
+      "peak": 0.2962,
+      "channels": 1
+    },
+    {
+      "file": "fire-yiwgpp-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.2392,
+      "channels": 1
+    },
+    {
+      "file": "say-ice-to-make-a-snowflake-1hs5yk9.mp3",
+      "durationSeconds": 2.055,
+      "peak": 0.3669,
+      "channels": 1
+    },
+    {
+      "file": "ice-375mqy.mp3",
+      "durationSeconds": 0.801,
+      "peak": 0.2943,
+      "channels": 1
+    },
+    {
+      "file": "ice-375mqy-slow.mp3",
+      "durationSeconds": 1.184,
+      "peak": 0.2854,
+      "channels": 1
+    },
+    {
+      "file": "say-shield-to-protect-us-1q1tl3b.mp3",
+      "durationSeconds": 2.101,
+      "peak": 0.2978,
+      "channels": 1
+    },
+    {
+      "file": "shield-zybgii.mp3",
+      "durationSeconds": 0.848,
+      "peak": 0.3286,
+      "channels": 1
+    },
+    {
+      "file": "shield-zybgii-slow.mp3",
+      "durationSeconds": 1.184,
+      "peak": 0.3263,
+      "channels": 1
+    },
+    {
+      "file": "find-the-red-crystal-1idpuug.mp3",
+      "durationSeconds": 1.66,
+      "peak": 0.304,
+      "channels": 1
+    },
+    {
+      "file": "red-375xfa.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.286,
+      "channels": 1
+    },
+    {
+      "file": "red-375xfa-slow.mp3",
+      "durationSeconds": 1.358,
+      "peak": 0.2939,
+      "channels": 1
+    },
+    {
+      "file": "use-your-fire-magic-p3dij2.mp3",
+      "durationSeconds": 1.707,
+      "peak": 0.392,
+      "channels": 1
+    },
+    {
+      "file": "use-your-ice-magic-6gm5h5.mp3",
+      "durationSeconds": 1.707,
+      "peak": 0.4182,
+      "channels": 1
+    },
+    {
+      "file": "protect-our-little-friend-pk33y0.mp3",
+      "durationSeconds": 1.742,
+      "peak": 0.2666,
+      "channels": 1
+    },
+    {
+      "file": "your-turn-10u34x5.mp3",
+      "durationSeconds": 1.022,
+      "peak": 0.278,
+      "channels": 1
+    },
+    {
+      "file": "nice-jump-1th3y1y.mp3",
+      "durationSeconds": 1.207,
+      "peak": 0.2905,
+      "channels": 1
+    },
+    {
+      "file": "hello-again-my-friend-zpa9pd.mp3",
+      "durationSeconds": 1.66,
+      "peak": 0.3593,
+      "channels": 1
+    },
+    {
+      "file": "hello-again-1wqq5nr.mp3",
+      "durationSeconds": 1.115,
+      "peak": 0.279,
+      "channels": 1
+    },
+    {
+      "file": "hello-again-1wqq5nr-slow.mp3",
+      "durationSeconds": 1.718,
+      "peak": 0.3089,
+      "channels": 1
+    },
+    {
+      "file": "lets-move-our-body-d66vmq.mp3",
+      "durationSeconds": 1.567,
+      "peak": 0.2951,
+      "channels": 1
+    },
+    {
+      "file": "find-the-eyes-5mxwgj.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3246,
+      "channels": 1
+    },
+    {
+      "file": "find-the-nose-5mq4ha.mp3",
+      "durationSeconds": 1.521,
+      "peak": 0.3264,
+      "channels": 1
+    },
+    {
+      "file": "touch-your-nose-and-say-it-gdzebf.mp3",
+      "durationSeconds": 1.927,
+      "peak": 0.3673,
+      "channels": 1
+    },
+    {
+      "file": "find-the-hands-17q44o9.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3187,
+      "channels": 1
+    },
+    {
+      "file": "whole-body-jump-1jruyum.mp3",
+      "durationSeconds": 2.148,
+      "peak": 0.3236,
+      "channels": 1
+    },
+    {
+      "file": "the-body-castle-is-closed-open-the-door-10dh2vn.mp3",
+      "durationSeconds": 3.495,
+      "peak": 0.3662,
+      "channels": 1
+    },
+    {
+      "file": "find-the-mouth-17tr836.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.3495,
+      "channels": 1
+    },
+    {
+      "file": "lets-jump-together-tmde7v.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3368,
+      "channels": 1
+    },
+    {
+      "file": "show-your-hands-and-say-it-1eebeze.mp3",
+      "durationSeconds": 2.02,
+      "peak": 0.3048,
+      "channels": 1
+    },
+    {
+      "file": "you-know-your-body-thank-you-i9h8sh.mp3",
+      "durationSeconds": 2.38,
+      "peak": 0.3994,
+      "channels": 1
+    },
+    {
+      "file": "hi-i-have-a-family-photo-pxc5e4.mp3",
+      "durationSeconds": 2.508,
+      "peak": 0.3305,
+      "channels": 1
+    },
+    {
+      "file": "come-and-meet-my-family-ctgmup.mp3",
+      "durationSeconds": 1.742,
+      "peak": 0.3401,
+      "channels": 1
+    },
+    {
+      "file": "find-the-mommy-17treki.mp3",
+      "durationSeconds": 1.347,
+      "peak": 0.3775,
+      "channels": 1
+    },
+    {
+      "file": "find-the-daddy-17yktr9.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3362,
+      "channels": 1
+    },
+    {
+      "file": "point-to-mommy-and-say-it-da6vhw.mp3",
+      "durationSeconds": 1.881,
+      "peak": 0.3471,
+      "channels": 1
+    },
+    {
+      "file": "find-the-grandma-13eg17v.mp3",
+      "durationSeconds": 1.428,
+      "peak": 0.3143,
+      "channels": 1
+    },
+    {
+      "file": "the-family-party-is-inside-open-the-door-1kj3zbt.mp3",
+      "durationSeconds": 3.228,
+      "peak": 0.5041,
+      "channels": 1
+    },
+    {
+      "file": "welcome-here-is-your-star-1brploa.mp3",
+      "durationSeconds": 2.694,
+      "peak": 0.3272,
+      "channels": 1
+    },
+    {
+      "file": "find-the-baby-5mt2rl.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3301,
+      "channels": 1
+    },
+    {
+      "file": "say-it-together-i-love-my-family-fker2y.mp3",
+      "durationSeconds": 3.228,
+      "peak": 0.3809,
+      "channels": 1
+    },
+    {
+      "file": "family-photo-jump-cbjel9.mp3",
+      "durationSeconds": 2.415,
+      "peak": 0.3915,
+      "channels": 1
+    },
+    {
+      "file": "thank-you-for-meeting-my-family-fdg1xa.mp3",
+      "durationSeconds": 2.02,
+      "peak": 0.2984,
+      "channels": 1
+    },
+    {
+      "file": "listen-to-the-wind-find-the-ears-7ege83.mp3",
+      "durationSeconds": 2.775,
+      "peak": 0.3666,
+      "channels": 1
+    },
+    {
+      "file": "march-little-feet-go-right-1ay7m4m.mp3",
+      "durationSeconds": 2.461,
+      "peak": 0.4242,
+      "channels": 1
+    },
+    {
+      "file": "stomp-your-feet-and-say-it-1gf8wa6.mp3",
+      "durationSeconds": 1.788,
+      "peak": 0.328,
+      "channels": 1
+    },
+    {
+      "file": "simon-says-find-the-mouth-xcoigs.mp3",
+      "durationSeconds": 2.728,
+      "peak": 0.3329,
+      "channels": 1
+    },
+    {
+      "file": "simon-says-everybody-jump-17b5sqs.mp3",
+      "durationSeconds": 2.961,
+      "peak": 0.3209,
+      "channels": 1
+    },
+    {
+      "file": "careful-on-the-ice-find-the-baby-5f8rr0.mp3",
+      "durationSeconds": 2.775,
+      "peak": 0.34,
+      "channels": 1
+    },
+    {
+      "file": "walk-with-mommy-go-right-but1np.mp3",
+      "durationSeconds": 2.287,
+      "peak": 0.3456,
+      "channels": 1
+    },
+    {
+      "file": "daddy-says-jump-c4vkzn.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.3482,
+      "channels": 1
+    },
+    {
+      "file": "find-the-grandpa-13eg1hy.mp3",
+      "durationSeconds": 1.474,
+      "peak": 0.3463,
+      "channels": 1
+    },
+    {
+      "file": "guide-17rw7o.mp3",
+      "durationSeconds": 6.095,
+      "peak": 0.3913,
+      "channels": 1
+    },
+    {
+      "file": "guide-1bd5uu8.mp3",
+      "durationSeconds": 6.002,
+      "peak": 0.4945,
+      "channels": 1
+    },
+    {
+      "file": "guide-rvsju8.mp3",
+      "durationSeconds": 6.049,
+      "peak": 0.3791,
+      "channels": 1
+    },
+    {
+      "file": "guide-7girkz.mp3",
+      "durationSeconds": 6.873,
+      "peak": 0.2884,
+      "channels": 1
+    },
+    {
+      "file": "guide-1dld7gs.mp3",
+      "durationSeconds": 6.269,
+      "peak": 0.3562,
+      "channels": 1
+    },
+    {
+      "file": "grandpa-photo-time-6sghlf.mp3",
+      "durationSeconds": 2.194,
+      "peak": 0.333,
+      "channels": 1
+    },
+    {
+      "file": "guide-5oczs3.mp3",
+      "durationSeconds": 4.656,
+      "peak": 0.408,
+      "channels": 1
+    },
+    {
+      "file": "guide-j3a3bh.mp3",
+      "durationSeconds": 4.04,
+      "peak": 0.3551,
+      "channels": 1
+    },
+    {
+      "file": "guide-r9tbi.mp3",
+      "durationSeconds": 6.525,
+      "peak": 0.3813,
+      "channels": 1
+    },
+    {
+      "file": "guide-q78qg2.mp3",
+      "durationSeconds": 6.397,
+      "peak": 0.322,
+      "channels": 1
+    },
+    {
+      "file": "guide-63fed7.mp3",
+      "durationSeconds": 7.314,
+      "peak": 0.4379,
+      "channels": 1
+    },
+    {
+      "file": "guide-1h4fo6g.mp3",
+      "durationSeconds": 6.269,
+      "peak": 0.4173,
+      "channels": 1
+    },
+    {
+      "file": "guide-1yis6ng.mp3",
+      "durationSeconds": 6.966,
+      "peak": 0.3419,
+      "channels": 1
+    },
+    {
+      "file": "guide-1tl0ki9.mp3",
+      "durationSeconds": 7.268,
+      "peak": 0.4028,
+      "channels": 1
+    },
+    {
+      "file": "guide-677gxy.mp3",
+      "durationSeconds": 7.523,
+      "peak": 0.3874,
+      "channels": 1
+    },
+    {
+      "file": "guide-1spqez.mp3",
+      "durationSeconds": 6.177,
+      "peak": 0.3572,
+      "channels": 1
+    },
+    {
+      "file": "guide-1ps0rml.mp3",
+      "durationSeconds": 6.525,
+      "peak": 0.3733,
+      "channels": 1
+    },
+    {
+      "file": "is-it-your-coat-17o6yga.mp3",
+      "durationSeconds": 1.382,
+      "peak": 0.2625,
+      "channels": 1
+    },
+    {
+      "file": "guide-14blr1l.mp3",
+      "durationSeconds": 6.304,
+      "peak": 0.443,
+      "channels": 1
+    },
+    {
+      "file": "guide-wanrd3.mp3",
+      "durationSeconds": 6.699,
+      "peak": 0.4118,
+      "channels": 1
+    },
+    {
+      "file": "guide-v3e82r.mp3",
+      "durationSeconds": 6.699,
+      "peak": 0.3571,
+      "channels": 1
+    },
+    {
+      "file": "guide-1bincsi.mp3",
+      "durationSeconds": 6.618,
+      "peak": 0.4288,
+      "channels": 1
+    },
+    {
+      "file": "guide-s8fbqw.mp3",
+      "durationSeconds": 6.351,
+      "peak": 0.3991,
+      "channels": 1
+    },
+    {
+      "file": "guide-13xme1t.mp3",
+      "durationSeconds": 6.177,
+      "peak": 0.3453,
+      "channels": 1
+    },
+    {
+      "file": "guide-1m3cili.mp3",
+      "durationSeconds": 6.177,
+      "peak": 0.3803,
+      "channels": 1
+    },
+    {
+      "file": "guide-14nn5km.mp3",
+      "durationSeconds": 6.525,
+      "peak": 0.326,
+      "channels": 1
+    },
+    {
+      "file": "guide-iy7hkb.mp3",
+      "durationSeconds": 5.526,
+      "peak": 0.3624,
+      "channels": 1
+    },
+    {
+      "file": "guide-b67adu.mp3",
+      "durationSeconds": 5.747,
+      "peak": 0.3723,
+      "channels": 1
+    },
+    {
+      "file": "guide-7iz74.mp3",
+      "durationSeconds": 6.966,
+      "peak": 0.4324,
+      "channels": 1
+    },
+    {
+      "file": "guide-c02j5b.mp3",
+      "durationSeconds": 6.049,
+      "peak": 0.3411,
+      "channels": 1
+    },
+    {
+      "file": "guide-1h68ot1.mp3",
+      "durationSeconds": 5.956,
+      "peak": 0.3313,
+      "channels": 1
+    },
+    {
+      "file": "guide-1lg98r1.mp3",
+      "durationSeconds": 5.921,
+      "peak": 0.3509,
+      "channels": 1
+    },
+    {
+      "file": "guide-1itma8t.mp3",
+      "durationSeconds": 7.314,
+      "peak": 0.4372,
+      "channels": 1
+    },
+    {
+      "file": "guide-1f3tduz.mp3",
+      "durationSeconds": 6.049,
+      "peak": 0.3928,
+      "channels": 1
+    },
+    {
+      "file": "guide-zezxuw.mp3",
+      "durationSeconds": 6.095,
+      "peak": 0.4112,
+      "channels": 1
+    },
+    {
+      "file": "guide-1mwueg4.mp3",
+      "durationSeconds": 5.956,
+      "peak": 0.361,
+      "channels": 1
+    },
+    {
+      "file": "guide-etqclb.mp3",
+      "durationSeconds": 6.571,
+      "peak": 0.3271,
+      "channels": 1
+    },
+    {
+      "file": "guide-1kxbs67.mp3",
+      "durationSeconds": 5.956,
+      "peak": 0.3669,
+      "channels": 1
+    },
+    {
+      "file": "guide-1slbruh.mp3",
+      "durationSeconds": 9.358,
+      "peak": 0.4733,
+      "channels": 1
+    },
+    {
+      "file": "guide-1bf89ep.mp3",
+      "durationSeconds": 3.692,
+      "peak": 0.3466,
+      "channels": 1
+    },
+    {
+      "file": "guide-y6ckps.mp3",
+      "durationSeconds": 2.961,
+      "peak": 0.43,
+      "channels": 1
+    },
+    {
+      "file": "guide-bzcitw.mp3",
+      "durationSeconds": 3.866,
+      "peak": 0.3053,
+      "channels": 1
+    }
+  ]
+}

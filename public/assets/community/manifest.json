@@ -1,0 +1,731 @@
+{
+  "generatedWith": "built-in image_gen",
+  "date": "2026-10-04",
+  "prompts": "docs/community-art-final-records.json",
+  "normalization": "scripts/normalize-community-assets.py",
+  "artDirection": "Soft plush rabbit helpers; sunny street, peach toy clinic and blue-hour lakeside plaza; shared feet anchors and child-friendly props.",
+  "files": [
+    {
+      "path": "street.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/community-street.png"
+    },
+    {
+      "path": "clinic.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/community-clinic.png"
+    },
+    {
+      "path": "plaza.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/community-plaza.png"
+    },
+    {
+      "path": "bus-driver.png",
+      "role": "community helper",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        114,
+        40,
+        398,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-helpers.png",
+      "sourceCrop": [
+        121,
+        28,
+        407,
+        488
+      ]
+    },
+    {
+      "path": "face-bus-driver.png",
+      "role": "portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "bus-driver.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    },
+    {
+      "path": "firefighter.png",
+      "role": "community helper",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        108,
+        40,
+        403,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-helpers.png",
+      "sourceCrop": [
+        607,
+        38,
+        900,
+        491
+      ]
+    },
+    {
+      "path": "face-firefighter.png",
+      "role": "portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "firefighter.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    },
+    {
+      "path": "police-officer.png",
+      "role": "community helper",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        112,
+        40,
+        400,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-helpers.png",
+      "sourceCrop": [
+        1132,
+        43,
+        1413,
+        489
+      ]
+    },
+    {
+      "path": "face-police-officer.png",
+      "role": "portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "police-officer.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    },
+    {
+      "path": "doctor.png",
+      "role": "community helper",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        108,
+        40,
+        403,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-helpers.png",
+      "sourceCrop": [
+        116,
+        541,
+        406,
+        990
+      ]
+    },
+    {
+      "path": "face-doctor.png",
+      "role": "portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "doctor.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    },
+    {
+      "path": "nurse.png",
+      "role": "community helper",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        113,
+        40,
+        399,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-helpers.png",
+      "sourceCrop": [
+        619,
+        548,
+        897,
+        991
+      ]
+    },
+    {
+      "path": "face-nurse.png",
+      "role": "portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "nurse.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    },
+    {
+      "path": "dentist.png",
+      "role": "community helper",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        111,
+        40,
+        400,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-helpers.png",
+      "sourceCrop": [
+        1131,
+        543,
+        1415,
+        991
+      ]
+    },
+    {
+      "path": "face-dentist.png",
+      "role": "portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "dentist.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    },
+    {
+      "path": "bus-driver-wave.png",
+      "role": "community helper-wave",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        109,
+        40,
+        402,
+        499
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-waves.png",
+      "sourceCrop": [
+        124,
+        45,
+        403,
+        479
+      ]
+    },
+    {
+      "path": "firefighter-wave.png",
+      "role": "community helper-wave",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        104,
+        40,
+        408,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-waves.png",
+      "sourceCrop": [
+        602,
+        45,
+        891,
+        479
+      ]
+    },
+    {
+      "path": "police-officer-wave.png",
+      "role": "community helper-wave",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        103,
+        40,
+        408,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-waves.png",
+      "sourceCrop": [
+        1115,
+        47,
+        1403,
+        478
+      ]
+    },
+    {
+      "path": "doctor-wave.png",
+      "role": "community helper-wave",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        104,
+        40,
+        407,
+        499
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-waves.png",
+      "sourceCrop": [
+        123,
+        548,
+        395,
+        958
+      ]
+    },
+    {
+      "path": "nurse-wave.png",
+      "role": "community helper-wave",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        99,
+        40,
+        413,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-waves.png",
+      "sourceCrop": [
+        612,
+        546,
+        898,
+        961
+      ]
+    },
+    {
+      "path": "dentist-wave.png",
+      "role": "community helper-wave",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        101,
+        40,
+        410,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-waves.png",
+      "sourceCrop": [
+        1120,
+        544,
+        1401,
+        960
+      ]
+    },
+    {
+      "path": "bus.png",
+      "role": "moving story prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        20,
+        237,
+        492,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-props.png",
+      "sourceCrop": [
+        30,
+        118,
+        655,
+        469
+      ]
+    },
+    {
+      "path": "tooth.png",
+      "role": "moving story prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        34,
+        50,
+        478,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-props.png",
+      "sourceCrop": [
+        653,
+        91,
+        1019,
+        462
+      ]
+    },
+    {
+      "path": "brush.png",
+      "role": "moving story prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        69,
+        50,
+        443,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-props.png",
+      "sourceCrop": [
+        1105,
+        14,
+        1500,
+        488
+      ]
+    },
+    {
+      "path": "stethoscope.png",
+      "role": "moving story prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        55,
+        50,
+        457,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-props.png",
+      "sourceCrop": [
+        83,
+        510,
+        516,
+        994
+      ]
+    },
+    {
+      "path": "pinwheel.png",
+      "role": "moving story prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        26,
+        50,
+        485,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-props.png",
+      "sourceCrop": [
+        585,
+        536,
+        1011,
+        954
+      ]
+    },
+    {
+      "path": "flower.png",
+      "role": "moving story prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        102,
+        50,
+        409,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-props.png",
+      "sourceCrop": [
+        1119,
+        483,
+        1476,
+        1004
+      ]
+    },
+    {
+      "path": "blanket.png",
+      "role": "soft generated quilt",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        26,
+        213,
+        486,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/community-blanket.png",
+      "sourceCrop": [
+        22,
+        275,
+        1235,
+        1034
+      ]
+    },
+    {
+      "path": "face-tuantuan.png",
+      "role": "seated passenger portrait",
+      "size": [
+        256,
+        256
+      ],
+      "source": "public/assets/body/rabbit-idle.png",
+      "crop": [
+        96,
+        35,
+        416,
+        350
+      ]
+    }
+  ],
+  "approval": "Selected for in-game validation"
+}

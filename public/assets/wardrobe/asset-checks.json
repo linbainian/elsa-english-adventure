@@ -1,0 +1,491 @@
+{
+  "files": 17,
+  "errors": [],
+  "results": [
+    {
+      "path": "closet.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/wardrobe-closet.png"
+    },
+    {
+      "path": "garden.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/wardrobe-garden.png"
+    },
+    {
+      "path": "ball.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/wardrobe-ball.png"
+    },
+    {
+      "path": "outfit-casual.png",
+      "role": "wearable outfit",
+      "size": [
+        1024,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        404,
+        111,
+        631,
+        499
+      ],
+      "anchors": {
+        "neck": [
+          512,
+          115
+        ],
+        "feet": [
+          512,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-garments.png",
+      "sourceCrop": [
+        0,
+        0,
+        530,
+        499
+      ]
+    },
+    {
+      "path": "outfit-dress.png",
+      "role": "wearable outfit",
+      "size": [
+        1024,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        388,
+        114,
+        630,
+        499
+      ],
+      "anchors": {
+        "neck": [
+          512,
+          115
+        ],
+        "feet": [
+          512,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-garments.png",
+      "sourceCrop": [
+        530,
+        0,
+        1023,
+        499
+      ]
+    },
+    {
+      "path": "outfit-shirt.png",
+      "role": "wearable outfit",
+      "size": [
+        1024,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        401,
+        112,
+        622,
+        499
+      ],
+      "anchors": {
+        "neck": [
+          512,
+          115
+        ],
+        "feet": [
+          512,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-garments.png",
+      "sourceCrop": [
+        1023,
+        0,
+        1536,
+        499
+      ]
+    },
+    {
+      "path": "outfit-skirt.png",
+      "role": "wearable outfit",
+      "size": [
+        1024,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        406,
+        112,
+        629,
+        501
+      ],
+      "anchors": {
+        "neck": [
+          512,
+          115
+        ],
+        "feet": [
+          512,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-garments.png",
+      "sourceCrop": [
+        0,
+        499,
+        520,
+        1024
+      ]
+    },
+    {
+      "path": "outfit-coat.png",
+      "role": "wearable outfit",
+      "size": [
+        1024,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        386,
+        110,
+        642,
+        502
+      ],
+      "anchors": {
+        "neck": [
+          512,
+          115
+        ],
+        "feet": [
+          512,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-garments.png",
+      "sourceCrop": [
+        520,
+        499,
+        932,
+        1024
+      ]
+    },
+    {
+      "path": "outfit-ballgown.png",
+      "role": "wearable outfit",
+      "size": [
+        1024,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        307,
+        109,
+        722,
+        502
+      ],
+      "anchors": {
+        "neck": [
+          512,
+          115
+        ],
+        "feet": [
+          512,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-garments.png",
+      "sourceCrop": [
+        932,
+        499,
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "dress.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        35,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-props.png",
+      "sourceCrop": [
+        0,
+        0,
+        755,
+        526
+      ]
+    },
+    {
+      "path": "shirt.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        155,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-props.png",
+      "sourceCrop": [
+        755,
+        0,
+        1536,
+        466
+      ]
+    },
+    {
+      "path": "skirt.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        146,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-props.png",
+      "sourceCrop": [
+        0,
+        526,
+        755,
+        1024
+      ]
+    },
+    {
+      "path": "coat.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        39,
+        30,
+        473,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-props.png",
+      "sourceCrop": [
+        755,
+        466,
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "hat.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        253,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-accessories.png",
+      "sourceCrop": [
+        0,
+        0,
+        737,
+        500
+      ]
+    },
+    {
+      "path": "shoes.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        114,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-accessories.png",
+      "sourceCrop": [
+        737,
+        0,
+        1290,
+        495
+      ]
+    },
+    {
+      "path": "shoes-sparkle.png",
+      "role": "clothing prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        117,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-accessories.png",
+      "sourceCrop": [
+        0,
+        550,
+        676,
+        1200
+      ]
+    },
+    {
+      "path": "frame.png",
+      "role": "empty mirror frame",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        60,
+        30,
+        452,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/wardrobe-accessories.png",
+      "sourceCrop": [
+        676,
+        495,
+        1290,
+        1219
+      ]
+    }
+  ]
+}

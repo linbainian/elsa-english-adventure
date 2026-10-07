@@ -1,0 +1,1626 @@
+{
+  "date": "2026-10-04",
+  "errors": [],
+  "levels": [
+    {
+      "id": 1,
+      "title": "艾莎的新朋友",
+      "theme": "welcome",
+      "reference": [
+        "新手情景 · Greetings & Kindness"
+      ],
+      "steps": 13,
+      "distinctOutcomes": 13,
+      "worlds": [
+        "welcome-glade",
+        "welcome-palace",
+        "welcome-party"
+      ],
+      "longestCoachSeconds": 4.66,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 240,
+        "childResponse8Seconds": 292
+      },
+      "repetition": [
+        {
+          "target": "Hello!",
+          "outcomes": [
+            "welcome-wave",
+            "welcome-knock",
+            "welcome-owl-peek"
+          ]
+        },
+        {
+          "target": "My name is Leo.",
+          "outcomes": [
+            "welcome-name"
+          ]
+        },
+        {
+          "target": "Let's go!",
+          "outcomes": [
+            "welcome-depart"
+          ]
+        },
+        {
+          "target": "Thank you!",
+          "outcomes": [
+            "welcome-gift",
+            "welcome-lantern",
+            "welcome-snowflake"
+          ]
+        },
+        {
+          "target": "Please!",
+          "outcomes": [
+            "welcome-door",
+            "welcome-owl-fly"
+          ]
+        },
+        {
+          "target": "You're welcome!",
+          "outcomes": [
+            "welcome-bow",
+            "welcome-hug"
+          ]
+        },
+        {
+          "target": "Goodbye!",
+          "outcomes": [
+            "welcome-goodbye"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "w-hello",
+          "target": "Hello!",
+          "moment": "welcome-wave",
+          "focus": "hello",
+          "coachSeconds": 3.83,
+          "promptSeconds": 4.95,
+          "responseSeconds": 6.59,
+          "targetWords": 1,
+          "fixedSeconds": 12.636
+        },
+        {
+          "id": "w-name",
+          "target": "My name is Leo.",
+          "moment": "welcome-name",
+          "focus": "name",
+          "coachSeconds": 3.74,
+          "promptSeconds": 6.88,
+          "responseSeconds": 6.81,
+          "targetWords": 4,
+          "fixedSeconds": 14.795000000000002
+        },
+        {
+          "id": "w-go",
+          "target": "Let's go!",
+          "moment": "welcome-depart",
+          "focus": "go",
+          "coachSeconds": 3.56,
+          "promptSeconds": 5.04,
+          "responseSeconds": 6.68,
+          "targetWords": 2,
+          "fixedSeconds": 12.822
+        },
+        {
+          "id": "w-gift",
+          "target": "Thank you!",
+          "moment": "welcome-gift",
+          "focus": "thanks",
+          "coachSeconds": 3.31,
+          "promptSeconds": 5.99,
+          "responseSeconds": 7.16,
+          "targetWords": 2,
+          "fixedSeconds": 14.25
+        },
+        {
+          "id": "w-knock",
+          "target": "Hello!",
+          "moment": "welcome-knock",
+          "focus": "hello",
+          "coachSeconds": 4.18,
+          "promptSeconds": 5.29,
+          "responseSeconds": 6.59,
+          "targetWords": 1,
+          "fixedSeconds": 12.985
+        },
+        {
+          "id": "w-please",
+          "target": "Please!",
+          "moment": "welcome-door",
+          "focus": "please",
+          "coachSeconds": 3.48,
+          "promptSeconds": 6.22,
+          "responseSeconds": 6.77,
+          "targetWords": 1,
+          "fixedSeconds": 14.088000000000001
+        },
+        {
+          "id": "w-thanks",
+          "target": "Thank you!",
+          "moment": "welcome-lantern",
+          "focus": "thanks",
+          "coachSeconds": 3.74,
+          "promptSeconds": 6.6,
+          "responseSeconds": 6.68,
+          "targetWords": 2,
+          "fixedSeconds": 14.388
+        },
+        {
+          "id": "w-welcome",
+          "target": "You're welcome!",
+          "moment": "welcome-bow",
+          "focus": "welcome",
+          "coachSeconds": 3.91,
+          "promptSeconds": 7.02,
+          "responseSeconds": 6.68,
+          "targetWords": 2,
+          "fixedSeconds": 14.807
+        },
+        {
+          "id": "w-owl-hello",
+          "target": "Hello!",
+          "moment": "welcome-owl-peek",
+          "focus": "hello",
+          "coachSeconds": 4,
+          "promptSeconds": 5.12,
+          "responseSeconds": 6.94,
+          "targetWords": 1,
+          "fixedSeconds": 13.158000000000001
+        },
+        {
+          "id": "w-owl-please",
+          "target": "Please!",
+          "moment": "welcome-owl-fly",
+          "focus": "please",
+          "coachSeconds": 3.87,
+          "promptSeconds": 6.61,
+          "responseSeconds": 6.64,
+          "targetWords": 1,
+          "fixedSeconds": 14.343
+        },
+        {
+          "id": "w-owl-thanks",
+          "target": "Thank you!",
+          "moment": "welcome-snowflake",
+          "focus": "thanks",
+          "coachSeconds": 4.21,
+          "promptSeconds": 7.04,
+          "responseSeconds": 6.64,
+          "targetWords": 2,
+          "fixedSeconds": 14.772
+        },
+        {
+          "id": "w-hug",
+          "target": "You're welcome!",
+          "moment": "welcome-hug",
+          "focus": "welcome",
+          "coachSeconds": 4.66,
+          "promptSeconds": 8.13,
+          "responseSeconds": 6.89,
+          "targetWords": 2,
+          "fixedSeconds": 16.119
+        },
+        {
+          "id": "w-goodbye",
+          "target": "Goodbye!",
+          "moment": "welcome-goodbye",
+          "focus": "goodbye",
+          "coachSeconds": 4.18,
+          "promptSeconds": 5.48,
+          "responseSeconds": 8.21,
+          "targetWords": 1,
+          "fixedSeconds": 14.787
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "身体动一动",
+      "theme": "body",
+      "reference": [
+        "Big Fun 1 · Unit 2 · My Body"
+      ],
+      "steps": 13,
+      "distinctOutcomes": 13,
+      "worlds": [
+        "body-workshop",
+        "body-music",
+        "body-stage"
+      ],
+      "longestCoachSeconds": 5.92,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 257,
+        "childResponse8Seconds": 309
+      },
+      "repetition": [
+        {
+          "target": "Nose!",
+          "outcomes": [
+            "nose-wiggle"
+          ]
+        },
+        {
+          "target": "Eyes!",
+          "outcomes": [
+            "peekaboo",
+            "eyes-lights"
+          ]
+        },
+        {
+          "target": "Mouth!",
+          "outcomes": [
+            "body-bubbles",
+            "mouth-stars"
+          ]
+        },
+        {
+          "target": "I have a nose.",
+          "outcomes": [
+            "nose-mirror"
+          ]
+        },
+        {
+          "target": "Ears!",
+          "outcomes": [
+            "listen-bells"
+          ]
+        },
+        {
+          "target": "Hands!",
+          "outcomes": [
+            "clap-lights",
+            "hands-curtain"
+          ]
+        },
+        {
+          "target": "Feet!",
+          "outcomes": [
+            "footprints",
+            "body-dance"
+          ]
+        },
+        {
+          "target": "I have two hands.",
+          "outcomes": [
+            "hand-ribbons"
+          ]
+        },
+        {
+          "target": "I have two feet.",
+          "outcomes": [
+            "feet-count"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "b-nose",
+          "target": "Nose!",
+          "moment": "nose-wiggle",
+          "focus": "nose",
+          "coachSeconds": 5.26,
+          "promptSeconds": 8.35,
+          "responseSeconds": 5.62,
+          "targetWords": 1,
+          "fixedSeconds": 15.062999999999999
+        },
+        {
+          "id": "b-eyes",
+          "target": "Eyes!",
+          "moment": "peekaboo",
+          "focus": "eyes",
+          "coachSeconds": 4.18,
+          "promptSeconds": 7.11,
+          "responseSeconds": 5.62,
+          "targetWords": 1,
+          "fixedSeconds": 13.821
+        },
+        {
+          "id": "b-mouth",
+          "target": "Mouth!",
+          "moment": "body-bubbles",
+          "focus": "mouth",
+          "coachSeconds": 5.43,
+          "promptSeconds": 8.56,
+          "responseSeconds": 6.4,
+          "targetWords": 1,
+          "fixedSeconds": 16.061999999999998
+        },
+        {
+          "id": "b-nose-say",
+          "target": "I have a nose.",
+          "moment": "nose-mirror",
+          "focus": "nose",
+          "coachSeconds": 3.66,
+          "promptSeconds": 6.87,
+          "responseSeconds": 6.19,
+          "targetWords": 4,
+          "fixedSeconds": 14.158000000000001
+        },
+        {
+          "id": "b-ears",
+          "target": "Ears!",
+          "moment": "listen-bells",
+          "focus": "ears",
+          "coachSeconds": 4.83,
+          "promptSeconds": 8.02,
+          "responseSeconds": 6.88,
+          "targetWords": 1,
+          "fixedSeconds": 16.003999999999998
+        },
+        {
+          "id": "b-hands",
+          "target": "Hands!",
+          "moment": "clap-lights",
+          "focus": "hands",
+          "coachSeconds": 5.83,
+          "promptSeconds": 8.53,
+          "responseSeconds": 6.58,
+          "targetWords": 1,
+          "fixedSeconds": 16.213
+        },
+        {
+          "id": "b-feet",
+          "target": "Feet!",
+          "moment": "footprints",
+          "focus": "feet",
+          "coachSeconds": 5.31,
+          "promptSeconds": 8.06,
+          "responseSeconds": 6.4,
+          "targetWords": 1,
+          "fixedSeconds": 15.562
+        },
+        {
+          "id": "b-hands-say",
+          "target": "I have two hands.",
+          "moment": "hand-ribbons",
+          "focus": "hands",
+          "coachSeconds": 4.91,
+          "promptSeconds": 8.7,
+          "responseSeconds": 5.57,
+          "targetWords": 4,
+          "fixedSeconds": 15.366
+        },
+        {
+          "id": "b-feet-say",
+          "target": "I have two feet.",
+          "moment": "feet-count",
+          "focus": "feet",
+          "coachSeconds": 5.7,
+          "promptSeconds": 9.42,
+          "responseSeconds": 6.01,
+          "targetWords": 4,
+          "fixedSeconds": 16.527
+        },
+        {
+          "id": "b-review-eyes",
+          "target": "Eyes!",
+          "moment": "eyes-lights",
+          "focus": "eyes",
+          "coachSeconds": 5.92,
+          "promptSeconds": 9.33,
+          "responseSeconds": 6.14,
+          "targetWords": 1,
+          "fixedSeconds": 16.572000000000003
+        },
+        {
+          "id": "b-review-mouth",
+          "target": "Mouth!",
+          "moment": "mouth-stars",
+          "focus": "mouth",
+          "coachSeconds": 5.22,
+          "promptSeconds": 8.25,
+          "responseSeconds": 6.4,
+          "targetWords": 1,
+          "fixedSeconds": 15.759
+        },
+        {
+          "id": "b-review-hands",
+          "target": "Hands!",
+          "moment": "hands-curtain",
+          "focus": "hands",
+          "coachSeconds": 5.31,
+          "promptSeconds": 8.37,
+          "responseSeconds": 6.23,
+          "targetWords": 1,
+          "fixedSeconds": 15.702
+        },
+        {
+          "id": "b-finale",
+          "target": "Feet!",
+          "moment": "body-dance",
+          "focus": "feet",
+          "coachSeconds": 3.52,
+          "promptSeconds": 6.76,
+          "responseSeconds": 7.03,
+          "targetWords": 1,
+          "fixedSeconds": 14.888000000000002
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "我的家庭",
+      "theme": "family",
+      "reference": [
+        "Big Fun 1 · Unit 3 · My Family"
+      ],
+      "steps": 13,
+      "distinctOutcomes": 13,
+      "worlds": [
+        "family-home",
+        "family-garden",
+        "family-photo"
+      ],
+      "longestCoachSeconds": 5.65,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 247,
+        "childResponse8Seconds": 299
+      },
+      "repetition": [
+        {
+          "target": "Mommy!",
+          "outcomes": [
+            "family-welcome",
+            "family-photo-call"
+          ]
+        },
+        {
+          "target": "Daddy!",
+          "outcomes": [
+            "family-gift",
+            "family-picnic"
+          ]
+        },
+        {
+          "target": "This is my mommy.",
+          "outcomes": [
+            "family-introduce"
+          ]
+        },
+        {
+          "target": "Baby!",
+          "outcomes": [
+            "family-rock",
+            "family-bubbles"
+          ]
+        },
+        {
+          "target": "Grandma!",
+          "outcomes": [
+            "family-story"
+          ]
+        },
+        {
+          "target": "Grandpa!",
+          "outcomes": [
+            "family-balloon"
+          ]
+        },
+        {
+          "target": "Family!",
+          "outcomes": [
+            "family-together",
+            "family-photo"
+          ]
+        },
+        {
+          "target": "This is my grandpa.",
+          "outcomes": [
+            "family-grandpa-join"
+          ]
+        },
+        {
+          "target": "I love my family.",
+          "outcomes": [
+            "family-love"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "f-mommy",
+          "target": "Mommy!",
+          "moment": "family-welcome",
+          "focus": "mommy",
+          "coachSeconds": 5.18,
+          "promptSeconds": 7.86,
+          "responseSeconds": 5.79,
+          "targetWords": 1,
+          "fixedSeconds": 14.75
+        },
+        {
+          "id": "f-daddy",
+          "target": "Daddy!",
+          "moment": "family-gift",
+          "focus": "daddy",
+          "coachSeconds": 4.96,
+          "promptSeconds": 7.13,
+          "responseSeconds": 6.23,
+          "targetWords": 1,
+          "fixedSeconds": 14.459999999999999
+        },
+        {
+          "id": "f-thisis",
+          "target": "This is my mommy.",
+          "moment": "family-introduce",
+          "focus": "mommy",
+          "coachSeconds": 4.74,
+          "promptSeconds": 8.03,
+          "responseSeconds": 6.27,
+          "targetWords": 4,
+          "fixedSeconds": 15.399999999999999
+        },
+        {
+          "id": "f-baby",
+          "target": "Baby!",
+          "moment": "family-rock",
+          "focus": "baby",
+          "coachSeconds": 5.65,
+          "promptSeconds": 8.69,
+          "responseSeconds": 5.57,
+          "targetWords": 1,
+          "fixedSeconds": 15.355
+        },
+        {
+          "id": "f-grandma",
+          "target": "Grandma!",
+          "moment": "family-story",
+          "focus": "grandma",
+          "coachSeconds": 5.22,
+          "promptSeconds": 8.27,
+          "responseSeconds": 6.01,
+          "targetWords": 1,
+          "fixedSeconds": 15.376999999999999
+        },
+        {
+          "id": "f-grandpa",
+          "target": "Grandpa!",
+          "moment": "family-balloon",
+          "focus": "grandpa",
+          "coachSeconds": 4.91,
+          "promptSeconds": 8,
+          "responseSeconds": 6.36,
+          "targetWords": 1,
+          "fixedSeconds": 15.457999999999998
+        },
+        {
+          "id": "f-baby-bubbles",
+          "target": "Baby!",
+          "moment": "family-bubbles",
+          "focus": "baby",
+          "coachSeconds": 3.39,
+          "promptSeconds": 6.15,
+          "responseSeconds": 5.54,
+          "targetWords": 1,
+          "fixedSeconds": 12.789000000000001
+        },
+        {
+          "id": "f-daddy-picnic",
+          "target": "Daddy!",
+          "moment": "family-picnic",
+          "focus": "daddy",
+          "coachSeconds": 5.22,
+          "promptSeconds": 8.57,
+          "responseSeconds": 5.96,
+          "targetWords": 1,
+          "fixedSeconds": 15.633
+        },
+        {
+          "id": "f-family",
+          "target": "Family!",
+          "moment": "family-together",
+          "focus": "family",
+          "coachSeconds": 3.39,
+          "promptSeconds": 6.26,
+          "responseSeconds": 5.88,
+          "targetWords": 1,
+          "fixedSeconds": 13.24
+        },
+        {
+          "id": "f-photo-mommy",
+          "target": "Mommy!",
+          "moment": "family-photo-call",
+          "focus": "mommy",
+          "coachSeconds": 3.26,
+          "promptSeconds": 6.13,
+          "responseSeconds": 6.27,
+          "targetWords": 1,
+          "fixedSeconds": 13.495000000000001
+        },
+        {
+          "id": "f-photo-grandpa",
+          "target": "This is my grandpa.",
+          "moment": "family-grandpa-join",
+          "focus": "grandpa",
+          "coachSeconds": 3.48,
+          "promptSeconds": 7.07,
+          "responseSeconds": 5.57,
+          "targetWords": 4,
+          "fixedSeconds": 13.741
+        },
+        {
+          "id": "f-photo-family",
+          "target": "Family!",
+          "moment": "family-photo",
+          "focus": "family",
+          "coachSeconds": 4.91,
+          "promptSeconds": 8.54,
+          "responseSeconds": 6.46,
+          "targetWords": 1,
+          "fixedSeconds": 16.107
+        },
+        {
+          "id": "f-love",
+          "target": "I love my family.",
+          "moment": "family-love",
+          "focus": "family",
+          "coachSeconds": 4.31,
+          "promptSeconds": 6.49,
+          "responseSeconds": 7.59,
+          "targetWords": 4,
+          "fixedSeconds": 15.179000000000002
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "玩具城堡",
+      "theme": "toys",
+      "reference": [
+        "Big Fun 1 · Unit 4 · My Toys"
+      ],
+      "steps": 13,
+      "distinctOutcomes": 13,
+      "worlds": [
+        "toys-room",
+        "toys-station",
+        "toys-parade"
+      ],
+      "longestCoachSeconds": 6,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 274,
+        "childResponse8Seconds": 326
+      },
+      "repetition": [
+        {
+          "target": "Ball!",
+          "outcomes": [
+            "toy-ball-bounce",
+            "toy-ball-confetti"
+          ]
+        },
+        {
+          "target": "Teddy bear!",
+          "outcomes": [
+            "toy-teddy-hug",
+            "toy-teddy-cheer"
+          ]
+        },
+        {
+          "target": "Doll!",
+          "outcomes": [
+            "toy-doll-spin",
+            "toy-doll-conduct"
+          ]
+        },
+        {
+          "target": "It's my ball.",
+          "outcomes": [
+            "toy-ball-roll"
+          ]
+        },
+        {
+          "target": "Blocks!",
+          "outcomes": [
+            "toy-blocks-build"
+          ]
+        },
+        {
+          "target": "Car!",
+          "outcomes": [
+            "toy-car-drive",
+            "toy-car-carry"
+          ]
+        },
+        {
+          "target": "Train!",
+          "outcomes": [
+            "toy-train-start"
+          ]
+        },
+        {
+          "target": "It's my train.",
+          "outcomes": [
+            "toy-train-ride"
+          ]
+        },
+        {
+          "target": "I like my toys.",
+          "outcomes": [
+            "toy-parade"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "t-ball",
+          "target": "Ball!",
+          "moment": "toy-ball-bounce",
+          "focus": "ball",
+          "coachSeconds": 5.7,
+          "promptSeconds": 8.78,
+          "responseSeconds": 6.58,
+          "targetWords": 1,
+          "fixedSeconds": 16.461
+        },
+        {
+          "id": "t-teddy",
+          "target": "Teddy bear!",
+          "moment": "toy-teddy-hug",
+          "focus": "teddy",
+          "coachSeconds": 5.83,
+          "promptSeconds": 8.59,
+          "responseSeconds": 6.28,
+          "targetWords": 2,
+          "fixedSeconds": 15.974
+        },
+        {
+          "id": "t-doll",
+          "target": "Doll!",
+          "moment": "toy-doll-spin",
+          "focus": "doll",
+          "coachSeconds": 5.78,
+          "promptSeconds": 8.27,
+          "responseSeconds": 7.11,
+          "targetWords": 1,
+          "fixedSeconds": 16.474
+        },
+        {
+          "id": "t-my-ball",
+          "target": "It's my ball.",
+          "moment": "toy-ball-roll",
+          "focus": "ball",
+          "coachSeconds": 5.78,
+          "promptSeconds": 8.64,
+          "responseSeconds": 7.28,
+          "targetWords": 3,
+          "fixedSeconds": 17.019
+        },
+        {
+          "id": "t-blocks",
+          "target": "Blocks!",
+          "moment": "toy-blocks-build",
+          "focus": "blocks",
+          "coachSeconds": 6,
+          "promptSeconds": 9.07,
+          "responseSeconds": 6.98,
+          "targetWords": 1,
+          "fixedSeconds": 17.147
+        },
+        {
+          "id": "t-car",
+          "target": "Car!",
+          "moment": "toy-car-drive",
+          "focus": "car",
+          "coachSeconds": 5.4,
+          "promptSeconds": 7.84,
+          "responseSeconds": 7.68,
+          "targetWords": 1,
+          "fixedSeconds": 16.613999999999997
+        },
+        {
+          "id": "t-train",
+          "target": "Train!",
+          "moment": "toy-train-start",
+          "focus": "train",
+          "coachSeconds": 4.91,
+          "promptSeconds": 7.5,
+          "responseSeconds": 7.76,
+          "targetWords": 1,
+          "fixedSeconds": 16.357
+        },
+        {
+          "id": "t-my-train",
+          "target": "It's my train.",
+          "moment": "toy-train-ride",
+          "focus": "train",
+          "coachSeconds": 4.04,
+          "promptSeconds": 7.2,
+          "responseSeconds": 7.96,
+          "targetWords": 3,
+          "fixedSeconds": 16.261
+        },
+        {
+          "id": "t-doll-parade",
+          "target": "Doll!",
+          "moment": "toy-doll-conduct",
+          "focus": "doll",
+          "coachSeconds": 5.53,
+          "promptSeconds": 7.96,
+          "responseSeconds": 6.32,
+          "targetWords": 1,
+          "fixedSeconds": 15.383
+        },
+        {
+          "id": "t-teddy-parade",
+          "target": "Teddy bear!",
+          "moment": "toy-teddy-cheer",
+          "focus": "teddy",
+          "coachSeconds": 5.08,
+          "promptSeconds": 8.29,
+          "responseSeconds": 6.46,
+          "targetWords": 2,
+          "fixedSeconds": 15.846
+        },
+        {
+          "id": "t-ball-parade",
+          "target": "Ball!",
+          "moment": "toy-ball-confetti",
+          "focus": "ball",
+          "coachSeconds": 5.65,
+          "promptSeconds": 8.51,
+          "responseSeconds": 6.8,
+          "targetWords": 1,
+          "fixedSeconds": 16.415
+        },
+        {
+          "id": "t-car-parade",
+          "target": "Car!",
+          "moment": "toy-car-carry",
+          "focus": "car",
+          "coachSeconds": 5.88,
+          "promptSeconds": 8.31,
+          "responseSeconds": 6.89,
+          "targetWords": 1,
+          "fixedSeconds": 16.301
+        },
+        {
+          "id": "t-finale",
+          "target": "I like my toys.",
+          "moment": "toy-parade",
+          "focus": "toys",
+          "coachSeconds": 5.96,
+          "promptSeconds": 9.58,
+          "responseSeconds": 10.99,
+          "targetWords": 4,
+          "fixedSeconds": 21.671
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "艾莎的魔法衣橱",
+      "theme": "clothes",
+      "reference": [
+        "Big Fun 1 · Unit 6 · My Clothes"
+      ],
+      "steps": 13,
+      "distinctOutcomes": 13,
+      "worlds": [
+        "wardrobe-closet",
+        "wardrobe-garden",
+        "wardrobe-ball"
+      ],
+      "longestCoachSeconds": 4.09,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 252,
+        "childResponse8Seconds": 304
+      },
+      "repetition": [
+        {
+          "target": "Dress!",
+          "outcomes": [
+            "wardrobe-dress",
+            "wardrobe-ballgown"
+          ]
+        },
+        {
+          "target": "Shoes!",
+          "outcomes": [
+            "wardrobe-shoes",
+            "wardrobe-footsteps"
+          ]
+        },
+        {
+          "target": "Hat!",
+          "outcomes": [
+            "wardrobe-hat",
+            "wardrobe-hat-away"
+          ]
+        },
+        {
+          "target": "My dress.",
+          "outcomes": [
+            "wardrobe-mirror",
+            "wardrobe-portrait"
+          ]
+        },
+        {
+          "target": "Shirt!",
+          "outcomes": [
+            "wardrobe-shirt"
+          ]
+        },
+        {
+          "target": "Skirt!",
+          "outcomes": [
+            "wardrobe-skirt"
+          ]
+        },
+        {
+          "target": "Coat!",
+          "outcomes": [
+            "wardrobe-coat"
+          ]
+        },
+        {
+          "target": "My coat.",
+          "outcomes": [
+            "wardrobe-rainbow"
+          ]
+        },
+        {
+          "target": "I like my dress.",
+          "outcomes": [
+            "wardrobe-dance"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "c-dress",
+          "target": "Dress!",
+          "moment": "wardrobe-dress",
+          "focus": "dress",
+          "coachSeconds": 3.61,
+          "promptSeconds": 7.01,
+          "responseSeconds": 6.84,
+          "targetWords": 1,
+          "fixedSeconds": 14.952
+        },
+        {
+          "id": "c-shoes",
+          "target": "Shoes!",
+          "moment": "wardrobe-shoes",
+          "focus": "shoes",
+          "coachSeconds": 3.48,
+          "promptSeconds": 6.51,
+          "responseSeconds": 6.54,
+          "targetWords": 1,
+          "fixedSeconds": 14.151
+        },
+        {
+          "id": "c-hat",
+          "target": "Hat!",
+          "moment": "wardrobe-hat",
+          "focus": "hat",
+          "coachSeconds": 3.31,
+          "promptSeconds": 5.93,
+          "responseSeconds": 6.41,
+          "targetWords": 1,
+          "fixedSeconds": 13.443999999999999
+        },
+        {
+          "id": "c-my-dress",
+          "target": "My dress.",
+          "moment": "wardrobe-mirror",
+          "focus": "dress",
+          "coachSeconds": 4.09,
+          "promptSeconds": 7.44,
+          "responseSeconds": 6.93,
+          "targetWords": 2,
+          "fixedSeconds": 15.475
+        },
+        {
+          "id": "c-shirt",
+          "target": "Shirt!",
+          "moment": "wardrobe-shirt",
+          "focus": "shirt",
+          "coachSeconds": 3.22,
+          "promptSeconds": 6.13,
+          "responseSeconds": 7.19,
+          "targetWords": 1,
+          "fixedSeconds": 14.419
+        },
+        {
+          "id": "c-skirt",
+          "target": "Skirt!",
+          "moment": "wardrobe-skirt",
+          "focus": "skirt",
+          "coachSeconds": 3.48,
+          "promptSeconds": 6.07,
+          "responseSeconds": 8.2,
+          "targetWords": 1,
+          "fixedSeconds": 15.371
+        },
+        {
+          "id": "c-coat",
+          "target": "Coat!",
+          "moment": "wardrobe-coat",
+          "focus": "coat",
+          "coachSeconds": 4,
+          "promptSeconds": 6.66,
+          "responseSeconds": 6.89,
+          "targetWords": 1,
+          "fixedSeconds": 14.65
+        },
+        {
+          "id": "c-my-coat",
+          "target": "My coat.",
+          "moment": "wardrobe-rainbow",
+          "focus": "coat",
+          "coachSeconds": 3.74,
+          "promptSeconds": 6.8,
+          "responseSeconds": 8.2,
+          "targetWords": 2,
+          "fixedSeconds": 16.102
+        },
+        {
+          "id": "c-party-dress",
+          "target": "Dress!",
+          "moment": "wardrobe-ballgown",
+          "focus": "dress",
+          "coachSeconds": 3.79,
+          "promptSeconds": 6.97,
+          "responseSeconds": 6.49,
+          "targetWords": 1,
+          "fixedSeconds": 14.558
+        },
+        {
+          "id": "c-party-shoes",
+          "target": "Shoes!",
+          "moment": "wardrobe-footsteps",
+          "focus": "shoes",
+          "coachSeconds": 3.56,
+          "promptSeconds": 6.77,
+          "responseSeconds": 7.91,
+          "targetWords": 1,
+          "fixedSeconds": 15.776
+        },
+        {
+          "id": "c-hat-away",
+          "target": "Hat!",
+          "moment": "wardrobe-hat-away",
+          "focus": "hat",
+          "coachSeconds": 3.17,
+          "promptSeconds": 5.98,
+          "responseSeconds": 7.46,
+          "targetWords": 1,
+          "fixedSeconds": 14.535
+        },
+        {
+          "id": "c-photo",
+          "target": "My dress.",
+          "moment": "wardrobe-portrait",
+          "focus": "dress",
+          "coachSeconds": 3.39,
+          "promptSeconds": 6.74,
+          "responseSeconds": 7.68,
+          "targetWords": 2,
+          "fixedSeconds": 15.521
+        },
+        {
+          "id": "c-finale",
+          "target": "I like my dress.",
+          "moment": "wardrobe-dance",
+          "focus": "clothes",
+          "coachSeconds": 3.66,
+          "promptSeconds": 7.51,
+          "responseSeconds": 8.69,
+          "targetWords": 4,
+          "fixedSeconds": 17.301000000000002
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "动物救助站",
+      "theme": "animals",
+      "reference": [
+        "Big Fun 1 · Unit 7 · Animals"
+      ],
+      "steps": 13,
+      "distinctOutcomes": 13,
+      "worlds": [
+        "animals-shelter",
+        "animals-pond",
+        "animals-camp"
+      ],
+      "longestCoachSeconds": 4.13,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 263,
+        "childResponse8Seconds": 315
+      },
+      "repetition": [
+        {
+          "target": "Cat!",
+          "outcomes": [
+            "animal-cat-wake",
+            "animal-cat-groom"
+          ]
+        },
+        {
+          "target": "Dog!",
+          "outcomes": [
+            "animal-dog-fetch",
+            "animal-dog-shake"
+          ]
+        },
+        {
+          "target": "Rabbit!",
+          "outcomes": [
+            "animal-rabbit-hop",
+            "animal-rabbit-rest"
+          ]
+        },
+        {
+          "target": "I see a cat.",
+          "outcomes": [
+            "animal-cat-peek"
+          ]
+        },
+        {
+          "target": "Bird!",
+          "outcomes": [
+            "animal-bird-fly"
+          ]
+        },
+        {
+          "target": "Duck!",
+          "outcomes": [
+            "animal-duck-paddle",
+            "animal-duck-duet"
+          ]
+        },
+        {
+          "target": "Fish!",
+          "outcomes": [
+            "animal-fish-swim"
+          ]
+        },
+        {
+          "target": "I see a fish.",
+          "outcomes": [
+            "animal-fish-window"
+          ]
+        },
+        {
+          "target": "I like animals.",
+          "outcomes": [
+            "animal-party"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "a-cat",
+          "target": "Cat!",
+          "moment": "animal-cat-wake",
+          "focus": "cat",
+          "coachSeconds": 3.48,
+          "promptSeconds": 5.96,
+          "responseSeconds": 7.03,
+          "targetWords": 1,
+          "fixedSeconds": 14.088999999999999
+        },
+        {
+          "id": "a-dog",
+          "target": "Dog!",
+          "moment": "animal-dog-fetch",
+          "focus": "dog",
+          "coachSeconds": 3.31,
+          "promptSeconds": 6.27,
+          "responseSeconds": 6.73,
+          "targetWords": 1,
+          "fixedSeconds": 14.100000000000001
+        },
+        {
+          "id": "a-rabbit",
+          "target": "Rabbit!",
+          "moment": "animal-rabbit-hop",
+          "focus": "rabbit",
+          "coachSeconds": 3.34,
+          "promptSeconds": 6.34,
+          "responseSeconds": 8.43,
+          "targetWords": 1,
+          "fixedSeconds": 15.865000000000002
+        },
+        {
+          "id": "a-see-cat",
+          "target": "I see a cat.",
+          "moment": "animal-cat-peek",
+          "focus": "cat",
+          "coachSeconds": 3.74,
+          "promptSeconds": 6.83,
+          "responseSeconds": 7.81,
+          "targetWords": 4,
+          "fixedSeconds": 15.737000000000002
+        },
+        {
+          "id": "a-bird",
+          "target": "Bird!",
+          "moment": "animal-bird-fly",
+          "focus": "bird",
+          "coachSeconds": 3.04,
+          "promptSeconds": 6.58,
+          "responseSeconds": 7.95,
+          "targetWords": 1,
+          "fixedSeconds": 15.633
+        },
+        {
+          "id": "a-duck",
+          "target": "Duck!",
+          "moment": "animal-duck-paddle",
+          "focus": "duck",
+          "coachSeconds": 3.83,
+          "promptSeconds": 6.75,
+          "responseSeconds": 8.9,
+          "targetWords": 1,
+          "fixedSeconds": 16.747
+        },
+        {
+          "id": "a-fish",
+          "target": "Fish!",
+          "moment": "animal-fish-swim",
+          "focus": "fish",
+          "coachSeconds": 3.48,
+          "promptSeconds": 6.41,
+          "responseSeconds": 7.9,
+          "targetWords": 1,
+          "fixedSeconds": 15.411999999999999
+        },
+        {
+          "id": "a-see-fish",
+          "target": "I see a fish.",
+          "moment": "animal-fish-window",
+          "focus": "fish",
+          "coachSeconds": 4.13,
+          "promptSeconds": 7.66,
+          "responseSeconds": 9.53,
+          "targetWords": 4,
+          "fixedSeconds": 18.293
+        },
+        {
+          "id": "a-cat-brush",
+          "target": "Cat!",
+          "moment": "animal-cat-groom",
+          "focus": "cat",
+          "coachSeconds": 3.34,
+          "promptSeconds": 6.85,
+          "responseSeconds": 8.65,
+          "targetWords": 1,
+          "fixedSeconds": 16.597
+        },
+        {
+          "id": "a-dog-dry",
+          "target": "Dog!",
+          "moment": "animal-dog-shake",
+          "focus": "dog",
+          "coachSeconds": 3.22,
+          "promptSeconds": 6.35,
+          "responseSeconds": 8.12,
+          "targetWords": 1,
+          "fixedSeconds": 15.574000000000002
+        },
+        {
+          "id": "a-rabbit-bed",
+          "target": "Rabbit!",
+          "moment": "animal-rabbit-rest",
+          "focus": "rabbit",
+          "coachSeconds": 2.96,
+          "promptSeconds": 6.68,
+          "responseSeconds": 8.12,
+          "targetWords": 1,
+          "fixedSeconds": 15.900000000000002
+        },
+        {
+          "id": "a-duck-dance",
+          "target": "Duck!",
+          "moment": "animal-duck-duet",
+          "focus": "duck",
+          "coachSeconds": 3.17,
+          "promptSeconds": 6.3,
+          "responseSeconds": 8.33,
+          "targetWords": 1,
+          "fixedSeconds": 15.738
+        },
+        {
+          "id": "a-finale",
+          "target": "I like animals.",
+          "moment": "animal-party",
+          "focus": "animals",
+          "coachSeconds": 3.69,
+          "promptSeconds": 7.37,
+          "responseSeconds": 8.94,
+          "targetWords": 3,
+          "fixedSeconds": 17.41
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "艾莎的魔法小镇",
+      "theme": "community",
+      "reference": [
+        "Big Fun 1 · Unit 8 · My World"
+      ],
+      "steps": 16,
+      "distinctOutcomes": 16,
+      "worlds": [
+        "community-street",
+        "community-clinic",
+        "community-plaza"
+      ],
+      "longestCoachSeconds": 4.39,
+      "maxTargetWords": 4,
+      "estimateSeconds": {
+        "childResponse4Seconds": 286,
+        "childResponse8Seconds": 350
+      },
+      "repetition": [
+        {
+          "target": "Hello!",
+          "outcomes": [
+            "community-hello"
+          ]
+        },
+        {
+          "target": "Bus driver!",
+          "outcomes": [
+            "community-bus-door",
+            "community-bus-ride"
+          ]
+        },
+        {
+          "target": "Firefighter!",
+          "outcomes": [
+            "community-pinwheel",
+            "community-flower-water"
+          ]
+        },
+        {
+          "target": "Police officer!",
+          "outcomes": [
+            "community-duck-crossing",
+            "community-star-path"
+          ]
+        },
+        {
+          "target": "Please!",
+          "outcomes": [
+            "community-ticket"
+          ]
+        },
+        {
+          "target": "Doctor!",
+          "outcomes": [
+            "community-heartbeat"
+          ]
+        },
+        {
+          "target": "Nurse!",
+          "outcomes": [
+            "community-blanket"
+          ]
+        },
+        {
+          "target": "Thank you!",
+          "outcomes": [
+            "community-care-thanks",
+            "community-thank-you"
+          ]
+        },
+        {
+          "target": "Dentist!",
+          "outcomes": [
+            "community-tooth-brush",
+            "community-smile-bubbles"
+          ]
+        },
+        {
+          "target": "I see a doctor.",
+          "outcomes": [
+            "community-doctor-introduce"
+          ]
+        },
+        {
+          "target": "I see a nurse.",
+          "outcomes": [
+            "community-nurse-lantern"
+          ]
+        }
+      ],
+      "turns": [
+        {
+          "id": "m-hello",
+          "target": "Hello!",
+          "moment": "community-hello",
+          "focus": "bus-driver",
+          "coachSeconds": 3.44,
+          "promptSeconds": 4.55,
+          "responseSeconds": 6.63,
+          "targetWords": 1,
+          "fixedSeconds": 12.286999999999999
+        },
+        {
+          "id": "m-bus",
+          "target": "Bus driver!",
+          "moment": "community-bus-door",
+          "focus": "bus-driver",
+          "coachSeconds": 3.83,
+          "promptSeconds": 5.36,
+          "responseSeconds": 7.07,
+          "targetWords": 2,
+          "fixedSeconds": 13.532
+        },
+        {
+          "id": "m-firefighter",
+          "target": "Firefighter!",
+          "moment": "community-pinwheel",
+          "focus": "firefighter",
+          "coachSeconds": 3.96,
+          "promptSeconds": 5.61,
+          "responseSeconds": 6.5,
+          "targetWords": 1,
+          "fixedSeconds": 13.203000000000001
+        },
+        {
+          "id": "m-police",
+          "target": "Police officer!",
+          "moment": "community-duck-crossing",
+          "focus": "police-officer",
+          "coachSeconds": 3.69,
+          "promptSeconds": 5.58,
+          "responseSeconds": 7.24,
+          "targetWords": 2,
+          "fixedSeconds": 13.922
+        },
+        {
+          "id": "m-please",
+          "target": "Please!",
+          "moment": "community-ticket",
+          "focus": "bus-driver",
+          "coachSeconds": 4,
+          "promptSeconds": 5.36,
+          "responseSeconds": 6.72,
+          "targetWords": 1,
+          "fixedSeconds": 13.179
+        },
+        {
+          "id": "m-bus-ride",
+          "target": "Bus driver!",
+          "moment": "community-bus-ride",
+          "focus": "bus-driver",
+          "coachSeconds": 3.69,
+          "promptSeconds": 5.22,
+          "responseSeconds": 8.09,
+          "targetWords": 2,
+          "fixedSeconds": 14.411999999999999
+        },
+        {
+          "id": "m-doctor",
+          "target": "Doctor!",
+          "moment": "community-heartbeat",
+          "focus": "doctor",
+          "coachSeconds": 4.31,
+          "promptSeconds": 5.72,
+          "responseSeconds": 7.71,
+          "targetWords": 1,
+          "fixedSeconds": 14.537000000000003
+        },
+        {
+          "id": "m-nurse",
+          "target": "Nurse!",
+          "moment": "community-blanket",
+          "focus": "nurse",
+          "coachSeconds": 3.31,
+          "promptSeconds": 4.72,
+          "responseSeconds": 6.98,
+          "targetWords": 1,
+          "fixedSeconds": 12.808
+        },
+        {
+          "id": "m-thank-nurse",
+          "target": "Thank you!",
+          "moment": "community-care-thanks",
+          "focus": "nurse",
+          "coachSeconds": 3.91,
+          "promptSeconds": 5.21,
+          "responseSeconds": 6.67,
+          "targetWords": 2,
+          "fixedSeconds": 12.983
+        },
+        {
+          "id": "m-dentist",
+          "target": "Dentist!",
+          "moment": "community-tooth-brush",
+          "focus": "dentist",
+          "coachSeconds": 3.69,
+          "promptSeconds": 5.22,
+          "responseSeconds": 6.84,
+          "targetWords": 1,
+          "fixedSeconds": 13.169
+        },
+        {
+          "id": "m-see-doctor",
+          "target": "I see a doctor.",
+          "moment": "community-doctor-introduce",
+          "focus": "doctor",
+          "coachSeconds": 3.83,
+          "promptSeconds": 7.15,
+          "responseSeconds": 6.84,
+          "targetWords": 4,
+          "fixedSeconds": 15.096
+        },
+        {
+          "id": "m-see-nurse",
+          "target": "I see a nurse.",
+          "moment": "community-nurse-lantern",
+          "focus": "nurse",
+          "coachSeconds": 4.39,
+          "promptSeconds": 7.71,
+          "responseSeconds": 6.46,
+          "targetWords": 4,
+          "fixedSeconds": 15.271
+        },
+        {
+          "id": "m-dentist-bubbles",
+          "target": "Dentist!",
+          "moment": "community-smile-bubbles",
+          "focus": "dentist",
+          "coachSeconds": 3.74,
+          "promptSeconds": 5.27,
+          "responseSeconds": 6.84,
+          "targetWords": 1,
+          "fixedSeconds": 13.215
+        },
+        {
+          "id": "m-police-stars",
+          "target": "Police officer!",
+          "moment": "community-star-path",
+          "focus": "police-officer",
+          "coachSeconds": 3.69,
+          "promptSeconds": 5.58,
+          "responseSeconds": 6.98,
+          "targetWords": 2,
+          "fixedSeconds": 13.667000000000002
+        },
+        {
+          "id": "m-firefighter-garden",
+          "target": "Firefighter!",
+          "moment": "community-flower-water",
+          "focus": "firefighter",
+          "coachSeconds": 3.52,
+          "promptSeconds": 5.17,
+          "responseSeconds": 6.72,
+          "targetWords": 1,
+          "fixedSeconds": 12.983
+        },
+        {
+          "id": "m-thanks",
+          "target": "Thank you!",
+          "moment": "community-thank-you",
+          "focus": "community",
+          "coachSeconds": 3.39,
+          "promptSeconds": 4.69,
+          "responseSeconds": 8.29,
+          "targetWords": 2,
+          "fixedSeconds": 14.082
+        }
+      ]
+    }
+  ],
+  "assumptions": "Measured local MP3 durations; authored response/hold times; 0.65s microphone handoff, 0.45s automatic continuation, 1.2s per act transition. Child response scenarios of 4s and 8s include speaking/settling. No retries, pauses or real child measurements. Reaction estimates mirror current director timing and should be rechecked after animation edits.",
+  "assessment": "Counts check structural coherence, never a numerical fun or learning score. Pedagogical and visual review is in docs/level-review.md."
+}

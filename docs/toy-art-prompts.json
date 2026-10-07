@@ -1,0 +1,62 @@
+{
+  "generatedWith": "built-in image_gen",
+  "date": "2026-10-04",
+  "artDirection": "Soft rounded 3D storybook toys; coral playroom, aqua clockwork station, sunny rainbow parade street. Native 1280x720 game frame; 1600x900 WebP backgrounds, 512x512 RGBA sprites with feet anchor [256,500].",
+  "styleReference": "public/assets/body/music.webp",
+  "records": [
+    {
+      "id": "playroom",
+      "role": "background",
+      "source": "exec-a1820725-5588-402f-aae8-0cecbf117918.png",
+      "reference": "public/assets/body/music.webp",
+      "raw": "docs/art-source/toys-playroom.png",
+      "output": "public/assets/toys/playroom.webp",
+      "prompt": "Use case: illustration-story. Production background for a preschool 2D voice game. Input image is STYLE reference only: keep the soft rounded storybook 3D rendering, warm light and polished toy-like surfaces, but design a COMPLETELY DIFFERENT space. Create ONE 16:9 wide background: a joyful giant surprise toy playroom inside a dollhouse castle, strawberry-pink walls, lemon-yellow curved ceiling beams, broad cream play mat floor, enormous open teal-and-coral toy chest in the distant upper center, a tower of pastel chunky geometric blocks on the far right, a small round window high left. Big friendly simple shapes and rich material detail; age three, inviting, fun. Eye-level camera gently looking across the room, no top-down perspective. Bottom 40% must be open unobstructed floor for separately animated characters and toy props; left quarter especially calm for a princess and voice cue. No characters, no ball/doll/bear/car/train in the foreground, no text, no letters, no numbers, no watermark, no UI. Strong coral/lemon palette, clearly unlike a mint music room, snowy forest or wooden living room. Finished widescreen illustration."
+    },
+    {
+      "id": "station",
+      "role": "background",
+      "source": "exec-a7fd43be-d125-4f4e-9360-433043946525.png",
+      "reference": "docs/art-source/toys-playroom.png",
+      "raw": "docs/art-source/toys-station.png",
+      "output": "public/assets/toys/station.webp",
+      "prompt": "Use case: illustration-story. Production environment for a preschool 2D voice adventure. Input is STYLE reference, not an edit target. Preserve its soft rounded high-quality 3D storybook surfaces and friendly lighting; create a completely different set. ONE wide 16:9 background: a whimsical clockwork TOY TRAIN STATION under an enormous rounded aqua dome, teal-blue and turquoise space, enormous golden cogs inset into upper walls, a large circular tunnel at far right with star-shaped lights, a long low rounded platform across the middle distance, glowing brass ceiling pendants, a view of a blue twilight toy city through round portholes. A workshop-like train depot, not a palace, no pointed arches, no crystal columns. Readable large forms, inviting never dark or scary, age three. Wide eye-level camera. Bottom 40 percent is open smooth teal station floor, no rails or trains on this foreground because the game will animate them. Leave the left quarter calm for princess and speech cue. No people, no animals, no character faces on buildings, no text, logos, numbers, UI or watermark. Rich aqua and amber contrast; visually very different from the coral playroom. Widescreen finished game background."
+    },
+    {
+      "id": "parade",
+      "role": "background",
+      "source": "exec-8a7ea8fb-91ec-41a6-b888-086e42ab5c5f.png",
+      "reference": "docs/art-source/toys-playroom.png",
+      "raw": "docs/art-source/toys-parade.png",
+      "output": "public/assets/toys/parade.webp",
+      "prompt": "Use case: illustration-story. ONE 16:9 production game background for preschool voice adventure. Use supplied image only as reference for soft rounded 3D storybook finish and material quality, not its room or architecture. New scene: RAINBOW TOY PARADE STREET outdoors in sunny late morning. Wide pedestrian avenue with smooth warm pale peach paving and a long curving coral parade route, little whimsical toy-shop houses made from rounded candy-colored building blocks at both far sides, bunting strings and ribbons high overhead, balloons tied to distant lamp posts, a rainbow arch in the upper distant center. Clear blue sky with puffy clouds. Peach, tangerine, lavender and sky-blue palette, distinctly sunny outdoors unlike the indoor toy chest room or aqua train depot. Low-eye-level wide camera; lower 40% of image must be open unoccupied paving, central right area free for large separately animated toy parade. A calm left quarter for princess and speech prompt. Delightful readable large shapes for three-year-olds, inviting soft shadows, no snow, no winter. No people, animals, toys in the foreground, characters, text, numbers, logos, labels, UI, watermark. Widescreen polished background."
+    },
+    {
+      "id": "sprites",
+      "role": "six-cell transparent toy atlas",
+      "source": "exec-4eb49290-c2a9-444a-a531-37823a89e702.png",
+      "reference": "docs/art-source/toys-playroom.png",
+      "raw": "docs/art-source/toys-sprites.png",
+      "outputs": [
+        "public/assets/toys/ball.png",
+        "public/assets/toys/teddy.png",
+        "public/assets/toys/doll.png",
+        "public/assets/toys/car.png",
+        "public/assets/toys/train.png",
+        "public/assets/toys/blocks.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production 2D game sprite ATLAS for a preschool English toy adventure. Input room is MATERIAL AND STYLE reference only. Create exactly SIX separate toy objects arranged in a precise 3-column by 2-row contact sheet, 1536x1024, each object entirely inside its own equal 512x512 cell with generous clear margins, no overlaps between cells. Real transparent background. Top row left: round glossy beach BALL with coral/mint/lemon panels, no face. Top row middle: adorable soft warm-caramel plush TEDDY BEAR with round ears and mint bow, front facing, sitting, arms slightly open. Top row right: friendly handmade DOLL with a blonde braid, lilac fabric dress, coral shoes, round embroidered face, front facing, full body. Bottom row left: chunky coral wind-up toy CAR with yellow wheel hubs and blue windows, gentle side/three-quarter view pointing RIGHT. Bottom row middle: short turquoise toy TRAIN locomotive with golden wheels, coral chimney and lemon cab roof, side/three-quarter view pointing RIGHT, no attached coaches. Bottom row right: a little balanced cluster of THREE rounded wooden BUILDING BLOCK cubes, coral, mint and lemon, unmarked faces. Shared rounded toy-like high-quality 3D storybook rendering, soft upper-left light, clean silhouette visible at small scale, all fully visible, no floor or scene, no cast background rectangles, no grids or drawn cell borders, no text, letters, logos, numbers, UI, watermarks. Keep toy bear distinctly different from the white rabbit. Each toy centered in its own cell, transparency preserved.",
+      "note": "Atlas accepted for silhouette and alpha. Car and train face left in source; runtime flipX gives right-facing travel."
+    },
+    {
+      "id": "wagon",
+      "role": "transparent train carriage prop",
+      "source": "exec-dce928ce-844f-4361-9f73-44b8dcf729c5.png",
+      "reference": "docs/art-source/toys-sprites.png",
+      "raw": "docs/art-source/toys-wagon.png",
+      "output": "public/assets/toys/wagon.png",
+      "prompt": "Use case: stylized-concept. ONE production transparent game sprite. Reference image is the approved toy atlas; use its TURQUOISE AND GOLD TOY TRAIN as the material, rounded shape, view and lighting reference. Create a single EMPTY OPEN TOP TOY TRAIN WAGON / little passenger carriage to couple behind that locomotive. Shallow mint-turquoise wooden tub with coral accent strip, honey-gold rounded wheel rims and dark centers, two visible chunky wheels, small brass coupling links at left and right. Gentle side/three-quarter camera, predominantly side view, same perspective and scale language as reference train; camera sees the front outer side panel and a little of the empty inside. Tub low enough for separately composited doll and teddy passengers to remain visible above it. Rounded edges, glossy painted wood, soft warm upper-left light, high-quality 3D storybook finish. Clearly a wheeled train wagon, not a bathtub alone, no roof, no locomotive, no passengers, no characters, no object inside. Single complete centered horizontal toy, full silhouette and all wheels visible, generous clear margins. Real transparent background, 1024x1024. No floor, no backdrop, no labels, text, logos, numbers, grid, watermark or UI."
+    }
+  ]
+}
+

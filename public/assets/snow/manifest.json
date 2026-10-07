@@ -1,0 +1,105 @@
+{
+  "artDirection": "Bright pastel winter kingdom, cyan / lavender / peach; round plush companions",
+  "referenceCanvas": [
+    1280,
+    720
+  ],
+  "promptSet": "docs/snow-art-direction.md",
+  "normalization": "scripts/normalize-snow-assets.py",
+  "qa": "asset-checks.json",
+  "assets": [
+    {
+      "files": [
+        "glade.webp",
+        "orchard.webp",
+        "palace.webp"
+      ],
+      "size": [
+        1600,
+        900
+      ],
+      "source": "Built-in imagegen",
+      "originals": [
+        "originals/glade.png",
+        "originals/orchard.png",
+        "originals/palace.png"
+      ],
+      "processing": "Deterministic resize, RGB WebP quality89",
+      "provenance": "Generated for this project"
+    },
+    {
+      "files": [
+        "buddy-idle.png",
+        "buddy-wave.png",
+        "troll.png",
+        "owl.png"
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "source": "Built-in imagegen, shared atlas",
+      "original": "originals/friends-atlas.png",
+      "processing": "Transparent atlas crop, premultiplied alpha resize, floor anchor500",
+      "provenance": "Generated for this project"
+    },
+    {
+      "files": [
+        "gate-closed.png",
+        "gate-open.png",
+        "basket.png",
+        "lantern.png",
+        "bridge.png",
+        "globe.png"
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "source": "Built-in imagegen, shared atlas",
+      "original": "originals/props-atlas.png",
+      "processing": "Object-specific crop, preserve full bridge, exclude neighbouring props",
+      "provenance": "Generated for this project"
+    },
+    {
+      "files": [
+        "apple.png",
+        "banana.png",
+        "pear.png"
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "source": "Built-in imagegen, fruit atlas",
+      "original": "originals/fruit-atlas.png",
+      "processing": "Three object crops, transparent resize, shared floor anchor",
+      "provenance": "Generated for this project"
+    },
+    {
+      "files": [
+        "princess-idle.png",
+        "princess-cheer.png",
+        "princess-cast.png"
+      ],
+      "size": [
+        1024,
+        512
+      ],
+      "source": "Wikipedia / PNGpix; Disney Elsa cutouts",
+      "originals": [
+        "originals/elsa-wiki.png",
+        "originals/elsa-cheer.webp",
+        "originals/elsa-cast.webp"
+      ],
+      "sourcePages": [
+        "https://en.wikipedia.org/wiki/File:Elsa_from_Disney%27s_Frozen.png",
+        "https://pngpix.com/png/elsa-frozen-character-pose-v7dpq12048ljxz0j.html",
+        "https://pngpix.com/png/elsa-creating-snowflake-frozen-7wiikgh56sj9sml4.html"
+      ],
+      "processing": "Uniform height480, torso anchor512, floor500; preserve cape",
+      "animation": "Three real poses, runtime mesh/cape/arm deformation and native blink",
+      "provenance": "Disney character, selected for user-authorized personal prototype. Not claimed as CC0."
+    }
+  ]
+}

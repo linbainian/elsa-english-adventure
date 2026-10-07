@@ -1,0 +1,597 @@
+{
+  "generatedWith": "built-in image_gen",
+  "date": "2026-10-04",
+  "prompts": "docs/animal-art-prompts.json",
+  "normalization": "scripts/normalize-animal-assets.py",
+  "artDirection": "Age 3 plush animated storybook; warm mint/lemon/coral shelter, clear turquoise pond cutaway, plum/amber moonlit outdoor camp. Original six baby animals; 512x512 transparent sprites with shared foot anchors. Elsa and clothed white snow bunny reuse existing art.",
+  "files": [
+    {
+      "path": "shelter.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/animals-shelter.png"
+    },
+    {
+      "path": "pond.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/animals-pond.png"
+    },
+    {
+      "path": "camp.webp",
+      "role": "background",
+      "size": [
+        1600,
+        900
+      ],
+      "source": "docs/art-source/animals-camp.png"
+    },
+    {
+      "path": "cat.png",
+      "role": "awake animal",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        66,
+        40,
+        445,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-idle.png",
+      "sourceCrop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "path": "dog.png",
+      "role": "awake animal",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        26,
+        57,
+        486,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-idle.png",
+      "sourceCrop": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "path": "rabbit.png",
+      "role": "awake animal",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        98,
+        40,
+        413,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-idle.png",
+      "sourceCrop": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "path": "bird.png",
+      "role": "awake animal",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        59,
+        40,
+        453,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-idle.png",
+      "sourceCrop": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "path": "duck.png",
+      "role": "awake animal",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        97,
+        40,
+        414,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-idle.png",
+      "sourceCrop": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    },
+    {
+      "path": "fish.png",
+      "role": "awake animal",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        26,
+        126,
+        486,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-idle.png",
+      "sourceCrop": [
+        1024,
+        512,
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "cat-sleep.png",
+      "role": "expressive animal pose",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        60,
+        150,
+        451,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-poses.png",
+      "sourceCrop": [
+        47,
+        95,
+        478,
+        481
+      ]
+    },
+    {
+      "path": "dog-play.png",
+      "role": "expressive animal pose",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        26,
+        87,
+        486,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-poses.png",
+      "sourceCrop": [
+        513,
+        44,
+        1010,
+        491
+      ]
+    },
+    {
+      "path": "rabbit-sleep.png",
+      "role": "expressive animal pose",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        46,
+        203,
+        466,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-poses.png",
+      "sourceCrop": [
+        1046,
+        119,
+        1522,
+        457
+      ]
+    },
+    {
+      "path": "bird-fly.png",
+      "role": "expressive animal pose",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        145,
+        489,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-poses.png",
+      "sourceCrop": [
+        27,
+        531,
+        562,
+        939
+      ]
+    },
+    {
+      "path": "duck-swim.png",
+      "role": "expressive animal pose",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        53,
+        135,
+        458,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-poses.png",
+      "sourceCrop": [
+        552,
+        557,
+        976,
+        940
+      ]
+    },
+    {
+      "path": "fish-swim.png",
+      "role": "expressive animal pose",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        26,
+        145,
+        486,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-poses.png",
+      "sourceCrop": [
+        991,
+        548,
+        1525,
+        962
+      ]
+    },
+    {
+      "path": "bed.png",
+      "role": "animal-care prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        233,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-props.png",
+      "sourceCrop": [
+        34,
+        117,
+        556,
+        417
+      ]
+    },
+    {
+      "path": "ball.png",
+      "role": "animal-care prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        23,
+        32,
+        489,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-props.png",
+      "sourceCrop": [
+        640,
+        109,
+        949,
+        419
+      ]
+    },
+    {
+      "path": "brush.png",
+      "role": "animal-care prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        113,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-props.png",
+      "sourceCrop": [
+        1094,
+        96,
+        1489,
+        424
+      ]
+    },
+    {
+      "path": "aquarium.png",
+      "role": "animal-care prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        123,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-props.png",
+      "sourceCrop": [
+        35,
+        514,
+        539,
+        921
+      ]
+    },
+    {
+      "path": "leaf.png",
+      "role": "animal-care prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        271,
+        490,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-props.png",
+      "sourceCrop": [
+        586,
+        663,
+        1028,
+        882
+      ]
+    },
+    {
+      "path": "tent.png",
+      "role": "animal-care prop",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "bounds": [
+        35,
+        32,
+        476,
+        500
+      ],
+      "anchors": {
+        "feet": [
+          256,
+          500
+        ]
+      },
+      "source": "docs/art-source/animals-props.png",
+      "sourceCrop": [
+        1036,
+        428,
+        1518,
+        939
+      ]
+    }
+  ],
+  "approval": "Selected after actual Phaser review of all three worlds, flight, swimming, care, sleep and final party.",
+  "preview": "docs/previews/animal-worlds.jpg",
+  "reviewChecks": "docs/previews/animal-preview-checks.json"
+}

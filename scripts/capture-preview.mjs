@@ -1,0 +1,15 @@
+import { chromium } from '@playwright/test';
+import fs from 'node:fs/promises';
+const browser = await chromium.launch({ executablePath: 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe', args: ['--autoplay-policy=no-user-gesture-required'] });
+const page = await browser.newPage({ viewport: { width: 1366, height: 768 } });
+const errors = [], missing = [];
+page.on('pageerror', error => errors.push(error.message));
+page.on('response', response => { if (response.status() >= 400) missing.push([response.status(), response.url()]); });
+await page.goto('http://127.0.0.1:5173');
+await page.locator('.start-button').waitFor();
+await page.waitForFunction(() => !document.querySelector('.start-button').disabled);
+await page.waitForTimeout(1500);
+await fs.mkdir('docs/previews', { recursive: true });
+await page.screenshot({ path: 'docs/previews/snow-intro.png', fullPage: true });
+console.log(JSON.stringify({ errors, missing, dimensions: await page.locator('#game-frame').boundingBox() }));
+await browser.close();

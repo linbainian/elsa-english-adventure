@@ -1,0 +1,117 @@
+{
+  "artDirection": "Active snowy adventure: see snow/manifest.json. Assets below retain the earlier forest prototype.",
+  "engine": "Phaser 4.2.1",
+  "referenceCanvas": [
+    1280,
+    720
+  ],
+  "promptSet": "docs/art-direction.md",
+  "assets": [
+    {
+      "file": "forest.webp",
+      "size": [
+        1672,
+        941
+      ],
+      "role": "background",
+      "source": "Built-in imagegen",
+      "original": "forest-background.png",
+      "sourceFile": "exec-4815f282-52f5-4ea2-9e47-7247e539ccc4.png",
+      "processing": "RGB WebP quality 88",
+      "provenance": "Generated for this project; original PNG retained",
+      "validated": "Inspected in game and at native scale"
+    },
+    {
+      "file": "hero.png",
+      "size": [
+        512,
+        512
+      ],
+      "role": "player",
+      "source": "Built-in imagegen; forest used as style reference",
+      "original": "character-atlas.png",
+      "sourceFile": "exec-3a47fb0e-64d7-4321-be0b-c2dce96335c6.png",
+      "processing": "Atlas top-left, alpha trim, bottom-center anchor",
+      "alpha": true,
+      "pivot": [
+        0.5,
+        1
+      ],
+      "provenance": "Generated for this project; original RGBA atlas retained",
+      "validated": "Contact sheet and in-game inspection"
+    },
+    {
+      "file": "fox.png",
+      "size": [
+        512,
+        512
+      ],
+      "role": "companion",
+      "source": "Built-in imagegen; shared character atlas",
+      "original": "character-atlas.png",
+      "processing": "Atlas top-right, alpha trim, bottom-center anchor",
+      "alpha": true,
+      "pivot": [
+        0.5,
+        1
+      ],
+      "provenance": "Generated for this project",
+      "validated": "Contact sheet and in-game inspection"
+    },
+    {
+      "file": "guardian.png",
+      "size": [
+        512,
+        512
+      ],
+      "role": "friendly boss",
+      "source": "Built-in imagegen; shared character atlas",
+      "original": "character-atlas.png",
+      "processing": "Atlas bottom-left, alpha trim, bottom-center anchor",
+      "alpha": true,
+      "pivot": [
+        0.5,
+        1
+      ],
+      "provenance": "Generated for this project",
+      "validated": "Contact sheet and in-game inspection"
+    },
+    {
+      "file": "owl.png",
+      "size": [
+        512,
+        512
+      ],
+      "role": "rescued friend",
+      "source": "Built-in imagegen; shared character atlas",
+      "original": "character-atlas.png",
+      "processing": "Atlas bottom-right, alpha trim, bottom-center anchor",
+      "alpha": true,
+      "pivot": [
+        0.5,
+        1
+      ],
+      "provenance": "Generated for this project",
+      "validated": "Contact sheet and in-game inspection"
+    },
+    {
+      "files": [
+        "apple.svg",
+        "banana.svg",
+        "pear.svg"
+      ],
+      "role": "interactive fruit",
+      "source": "Original project-native SVG",
+      "provenance": "Created for this project; no external asset pack",
+      "validated": "In-game inspection"
+    },
+    {
+      "file": "../favicon.svg",
+      "role": "brand icon",
+      "source": "Original project-native SVG",
+      "provenance": "Created for this project"
+    }
+  ],
+  "activeAssetSet": "snow/manifest.json",
+  "previousArtDirection": "Warm gouache storybook, pine green / turquoise / honey gold / orange"
+}

@@ -1,0 +1,33 @@
+const paths: Record<string, string> = {
+  compass: '<path d="m12 3 3 6 6 3-6 3-3 6-3-6-6-3 6-3z"/><circle cx="12" cy="12" r="2"/>',
+  volume: '<path d="m11 5-5 4H3v6h3l5 4z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/>',
+  mute: '<path d="m11 5-5 4H3v6h3l5 4zM16 9l5 6m0-6-5 6"/>',
+  mic: '<rect x="9" y="2" width="6" height="13" rx="3"/><path d="M5 10v2a7 7 0 0 0 14 0v-2m-7 9v3m-4 0h8"/>',
+  arrow: '<path d="M4 12h16m-6-6 6 6-6 6"/>',
+  chevron: '<path d="m9 5 7 7-7 7"/>',
+  star: '<path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-2.9-5.6 2.9 1.1-6.2L3 9.6l6.2-.9z"/>',
+  sparkles: '<path d="m12 2 2.6 7.4L22 12l-7.4 2.6L12 22l-2.6-7.4L2 12l7.4-2.6zM20 2v4m-2-2h4"/>',
+  leaf: '<path d="M20 3C10 2 2 5 4 13c2 8 13 7 16-10Z"/><path d="m4 21 11-11"/>',
+  flag: '<path d="M5 22V3c5-4 9 4 14 0v11c-5 4-9-4-14 0"/>',
+  door: '<path d="M5 21V8a7 7 0 0 1 14 0v13zM3 21h18M15 13h1"/>',
+  apple: '<path d="M12 7C3 2 1 12 5 18c2 4 5 4 7 2 3 2 6 2 8-2 4-7 1-15-8-11Zm0 0c-1-3 0-5 2-6m-1 4c3-4 7-3 7-3-1 4-4 4-7 3Z"/>',
+  fox: '<path d="m3 4 7 5h4l7-5-2 13-7 5-7-5Z"/><path d="m5 17 7-5 7 5M8 11h.01M16 11h.01M11 18h2"/>',
+  book: '<path d="M12 5v16m0-16C8 2 5 3 2 4v16c4-2 7-2 10 1 3-3 6-3 10-1V4c-3-1-6-2-10 1Z"/>',
+  keyboard: '<rect x="2" y="5" width="20" height="14" rx="3"/><path d="M6 9h.01M10 9h.01M14 9h.01M18 9h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M7 16h10"/>',
+  check: '<path d="m5 12 4 4L19 6"/>',
+  pause: '<path d="M8 4v16M16 4v16"/>',
+  play: '<path d="m7 3 14 9-14 9z"/>',
+  settings: '<path d="M4 7h16M4 17h16"/><circle cx="8" cy="7" r="3"/><circle cx="16" cy="17" r="3"/>',
+  fullscreen: '<path d="M8 3H3v5m13-5h5v5M3 16v5h5m8 0h5v-5"/>',
+  close: '<path d="m5 5 14 14M19 5 5 19"/>',
+  clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  fire: '<path d="M12 2c2 7 7 8 7 14a7 7 0 0 1-14 0c0-3 2-5 4-7 0 3 2 4 2 4 2-3 2-6 1-11Z"/>',
+  ice: '<path d="M12 2v20M3 7l18 10M3 17 21 7M8 4l4 4 4-4M8 20l4-4 4 4M3 11l5 1-1-5M21 13l-5-1 1 5M3 13l5-1-1 5M21 11l-5 1 1-5"/>',
+  shield: '<path d="m12 2 8 4v6c0 5-4 8-8 10-4-2-8-5-8-10V6z"/><path d="m8 12 3 3 5-6"/>',
+  jump: '<path d="M4 19h16M12 15V3m-5 5 5-5 5 5"/>',
+  heart: '<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/>',
+  help: '<circle cx="12" cy="12" r="9"/><path d="M9 8a3 3 0 0 1 6 1c0 2-3 2-3 4m0 4h.01"/>',
+};
+
+export const icon = (name: string, className = '') => `<svg class="icon ${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name] ?? paths.sparkles}</svg>`;
+export const escapeHtml = (text: string) => text.replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]!));

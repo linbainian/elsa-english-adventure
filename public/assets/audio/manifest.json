@@ -1,0 +1,1364 @@
+{
+  "hello im pip": {
+    "normal": "hello-im-pip-j8kbu.mp3"
+  },
+  "hello": {
+    "normal": "hello-2y0dev.mp3",
+    "slow": "hello-2y0dev-slow.mp3"
+  },
+  "whats your name": {
+    "normal": "whats-your-name-7mw13e.mp3"
+  },
+  "my name is leo": {
+    "normal": "my-name-is-leo-spvzhm.mp3",
+    "slow": "my-name-is-leo-spvzhm-slow.mp3"
+  },
+  "lets help the forest": {
+    "normal": "lets-help-the-forest-asqj3u.mp3"
+  },
+  "lets go": {
+    "normal": "lets-go-1hxvkz.mp3",
+    "slow": "lets-go-1hxvkz-slow.mp3"
+  },
+  "find the apple": {
+    "normal": "find-the-apple-17w2hld.mp3"
+  },
+  "apple": {
+    "normal": "apple-2tfcjx.mp3",
+    "slow": "apple-2tfcjx-slow.mp3"
+  },
+  "find the banana": {
+    "normal": "find-the-banana-q9tdei.mp3"
+  },
+  "banana": {
+    "normal": "banana-our4qu.mp3",
+    "slow": "banana-our4qu-slow.mp3"
+  },
+  "find the pear": {
+    "normal": "find-the-pear-5miam7.mp3"
+  },
+  "pear": {
+    "normal": "pear-yj7203.mp3",
+    "slow": "pear-yj7203-slow.mp3"
+  },
+  "what do you like": {
+    "normal": "what-do-you-like-1mr8z4c.mp3"
+  },
+  "i like apples": {
+    "normal": "i-like-apples-bn52cc.mp3",
+    "slow": "i-like-apples-bn52cc-slow.mp3"
+  },
+  "can you open the door": {
+    "normal": "can-you-open-the-door-1ki8n0x.mp3"
+  },
+  "open the door": {
+    "normal": "open-the-door-1hs8kke.mp3",
+    "slow": "open-the-door-1hs8kke-slow.mp3"
+  },
+  "you did it here is your star": {
+    "normal": "you-did-it-here-is-your-star-ds1h9z.mp3"
+  },
+  "thank you": {
+    "normal": "thank-you-1gkw5tq.mp3",
+    "slow": "thank-you-1gkw5tq-slow.mp3"
+  },
+  "jump": {
+    "normal": "jump-yj5sfb.mp3",
+    "slow": "jump-yj5sfb-slow.mp3"
+  },
+  "go right": {
+    "normal": "go-right-1edvirx.mp3",
+    "slow": "go-right-1edvirx-slow.mp3"
+  },
+  "say fire to light the lantern": {
+    "normal": "say-fire-to-light-the-lantern-169fktg.mp3"
+  },
+  "fire": {
+    "normal": "fire-yiwgpp.mp3",
+    "slow": "fire-yiwgpp-slow.mp3"
+  },
+  "say ice to make a snowflake": {
+    "normal": "say-ice-to-make-a-snowflake-1hs5yk9.mp3"
+  },
+  "ice": {
+    "normal": "ice-375mqy.mp3",
+    "slow": "ice-375mqy-slow.mp3"
+  },
+  "say shield to protect us": {
+    "normal": "say-shield-to-protect-us-1q1tl3b.mp3"
+  },
+  "shield": {
+    "normal": "shield-zybgii.mp3",
+    "slow": "shield-zybgii-slow.mp3"
+  },
+  "find the red crystal": {
+    "normal": "find-the-red-crystal-1idpuug.mp3"
+  },
+  "red": {
+    "normal": "red-375xfa.mp3",
+    "slow": "red-375xfa-slow.mp3"
+  },
+  "use your fire magic": {
+    "normal": "use-your-fire-magic-p3dij2.mp3"
+  },
+  "use your ice magic": {
+    "normal": "use-your-ice-magic-6gm5h5.mp3"
+  },
+  "protect our little friend": {
+    "normal": "protect-our-little-friend-pk33y0.mp3"
+  },
+  "thank you my friend": {
+    "normal": "thank-you-my-friend-r7fxtk.mp3"
+  },
+  "youre welcome": {
+    "normal": "youre-welcome-36uvyj.mp3",
+    "slow": "youre-welcome-36uvyj-slow.mp3"
+  },
+  "hello little adventurer": {
+    "normal": "hello-little-adventurer-1i9rtp3.mp3"
+  },
+  "you brought the magic back": {
+    "normal": "you-brought-the-magic-back-1b8o95w.mp3"
+  },
+  "your turn": {
+    "normal": "your-turn-10u34x5.mp3"
+  },
+  "lets try together": {
+    "normal": "lets-try-together-13k9gkm.mp3"
+  },
+  "good": {
+    "normal": "good-yix9l2.mp3"
+  },
+  "great job": {
+    "normal": "great-job-13zk7pj.mp3"
+  },
+  "well done": {
+    "normal": "well-done-49o2pj.mp3"
+  },
+  "you did it": {
+    "normal": "you-did-it-39gk4y.mp3"
+  },
+  "nice jump": {
+    "normal": "nice-jump-1th3y1y.mp3"
+  },
+  "amazing": {
+    "normal": "amazing-5s3gz6.mp3"
+  },
+  "cool": {
+    "normal": "cool-yj05ze.mp3"
+  },
+  "hello again my friend": {
+    "normal": "hello-again-my-friend-zpa9pd.mp3"
+  },
+  "hello again": {
+    "normal": "hello-again-1wqq5nr.mp3",
+    "slow": "hello-again-1wqq5nr-slow.mp3"
+  },
+  "lets move our body": {
+    "normal": "lets-move-our-body-d66vmq.mp3"
+  },
+  "find the eyes": {
+    "normal": "find-the-eyes-5mxwgj.mp3"
+  },
+  "eyes": {
+    "normal": "eyes-yiszf3.mp3",
+    "slow": "eyes-yiszf3-slow.mp3"
+  },
+  "find the nose": {
+    "normal": "find-the-nose-5mq4ha.mp3"
+  },
+  "nose": {
+    "normal": "nose-yj27si.mp3",
+    "slow": "nose-yj27si-slow.mp3"
+  },
+  "touch your nose and say it": {
+    "normal": "touch-your-nose-and-say-it-gdzebf.mp3"
+  },
+  "i have a nose": {
+    "normal": "i-have-a-nose-12ylhkw.mp3",
+    "slow": "i-have-a-nose-12ylhkw-slow.mp3"
+  },
+  "find the hands": {
+    "normal": "find-the-hands-17q44o9.mp3"
+  },
+  "hands": {
+    "normal": "hands-2y3ek5.mp3",
+    "slow": "hands-2y3ek5-slow.mp3"
+  },
+  "whole body jump": {
+    "normal": "whole-body-jump-1jruyum.mp3"
+  },
+  "the body castle is closed open the door": {
+    "normal": "the-body-castle-is-closed-open-the-door-10dh2vn.mp3"
+  },
+  "find the mouth": {
+    "normal": "find-the-mouth-17tr836.mp3"
+  },
+  "mouth": {
+    "normal": "mouth-2vy35a.mp3",
+    "slow": "mouth-2vy35a-slow.mp3"
+  },
+  "lets jump together": {
+    "normal": "lets-jump-together-tmde7v.mp3"
+  },
+  "show your hands and say it": {
+    "normal": "show-your-hands-and-say-it-1eebeze.mp3"
+  },
+  "i have two hands": {
+    "normal": "i-have-two-hands-1fcrvu.mp3",
+    "slow": "i-have-two-hands-1fcrvu-slow.mp3"
+  },
+  "you know your body thank you": {
+    "normal": "you-know-your-body-thank-you-i9h8sh.mp3"
+  },
+  "hi i have a family photo": {
+    "normal": "hi-i-have-a-family-photo-pxc5e4.mp3"
+  },
+  "come and meet my family": {
+    "normal": "come-and-meet-my-family-ctgmup.mp3"
+  },
+  "find the mommy": {
+    "normal": "find-the-mommy-17treki.mp3"
+  },
+  "mommy": {
+    "normal": "mommy-2vxwm6.mp3",
+    "slow": "mommy-2vxwm6-slow.mp3"
+  },
+  "find the daddy": {
+    "normal": "find-the-daddy-17yktr9.mp3"
+  },
+  "daddy": {
+    "normal": "daddy-2pmm49.mp3",
+    "slow": "daddy-2pmm49-slow.mp3"
+  },
+  "point to mommy and say it": {
+    "normal": "point-to-mommy-and-say-it-da6vhw.mp3"
+  },
+  "this is my mommy": {
+    "normal": "this-is-my-mommy-1pwujsm.mp3",
+    "slow": "this-is-my-mommy-1pwujsm-slow.mp3"
+  },
+  "find the grandma": {
+    "normal": "find-the-grandma-13eg17v.mp3"
+  },
+  "grandma": {
+    "normal": "grandma-1eio6if.mp3",
+    "slow": "grandma-1eio6if-slow.mp3"
+  },
+  "i love my family": {
+    "normal": "i-love-my-family-1d42zzy.mp3",
+    "slow": "i-love-my-family-1d42zzy-slow.mp3"
+  },
+  "the family party is inside open the door": {
+    "normal": "the-family-party-is-inside-open-the-door-1kj3zbt.mp3"
+  },
+  "welcome here is your star": {
+    "normal": "welcome-here-is-your-star-1brploa.mp3"
+  },
+  "find the baby": {
+    "normal": "find-the-baby-5mt2rl.mp3"
+  },
+  "baby": {
+    "normal": "baby-yizcil.mp3",
+    "slow": "baby-yizcil-slow.mp3"
+  },
+  "say it together i love my family": {
+    "normal": "say-it-together-i-love-my-family-fker2y.mp3"
+  },
+  "family photo jump": {
+    "normal": "family-photo-jump-cbjel9.mp3"
+  },
+  "thank you for meeting my family": {
+    "normal": "thank-you-for-meeting-my-family-fdg1xa.mp3"
+  },
+  "listen to the wind find the ears": {
+    "normal": "listen-to-the-wind-find-the-ears-7ege83.mp3"
+  },
+  "ears": {
+    "normal": "ears-yisfog.mp3",
+    "slow": "ears-yisfog-slow.mp3"
+  },
+  "march little feet go right": {
+    "normal": "march-little-feet-go-right-1ay7m4m.mp3"
+  },
+  "stomp your feet and say it": {
+    "normal": "stomp-your-feet-and-say-it-1gf8wa6.mp3"
+  },
+  "i have two feet": {
+    "normal": "i-have-two-feet-8nmy88.mp3",
+    "slow": "i-have-two-feet-8nmy88-slow.mp3"
+  },
+  "simon says find the mouth": {
+    "normal": "simon-says-find-the-mouth-xcoigs.mp3"
+  },
+  "simon says everybody jump": {
+    "normal": "simon-says-everybody-jump-17b5sqs.mp3"
+  },
+  "careful on the ice find the baby": {
+    "normal": "careful-on-the-ice-find-the-baby-5f8rr0.mp3"
+  },
+  "walk with mommy go right": {
+    "normal": "walk-with-mommy-go-right-but1np.mp3"
+  },
+  "daddy says jump": {
+    "normal": "daddy-says-jump-c4vkzn.mp3"
+  },
+  "find the grandpa": {
+    "normal": "find-the-grandpa-13eg1hy.mp3"
+  },
+  "grandpa": {
+    "normal": "grandpa-1eio66i.mp3",
+    "slow": "grandpa-1eio66i-slow.mp3"
+  },
+  "my nose is tickly": {
+    "normal": "my-nose-is-tickly-1a40hss.mp3"
+  },
+  "团团的鼻子痒痒的 摸摸自己的鼻子 跟艾莎说鼻子的英语吧": {
+    "normal": "guide-1ci83xx.mp3"
+  },
+  "where are my eyes": {
+    "normal": "where-are-my-eyes-15v2cf4.mp3"
+  },
+  "团团把眼睛闭起来啦 说一声眼睛的英语 叫它看看你": {
+    "normal": "guide-1yvr72a.mp3"
+  },
+  "my mouth makes bubbles": {
+    "normal": "my-mouth-makes-bubbles-10vfkp2.mp3"
+  },
+  "团团想吹泡泡 指指小嘴巴 跟着说 就能看到彩虹泡泡": {
+    "normal": "guide-10nr4fg.mp3"
+  },
+  "touch your nose": {
+    "normal": "touch-your-nose-1yqn0ue.mp3"
+  },
+  "看看团团 再摸摸自己的鼻子 跟着说一句 镜子会收到你的爱心": {
+    "normal": "guide-17rw7o.mp3"
+  },
+  "listen with your ears": {
+    "normal": "listen-with-your-ears-d30e1m.mp3"
+  },
+  "听 铃铛在叫你 摸摸小耳朵 跟着艾莎说": {
+    "normal": "guide-1v5wo68.mp3"
+  },
+  "clap your hands": {
+    "normal": "clap-your-hands-pikby2.mp3"
+  },
+  "音乐泡泡还没亮 举起两只小手 说一声 让团团帮你拍拍手": {
+    "normal": "guide-1pdhhne.mp3"
+  },
+  "stomp your feet": {
+    "normal": "stomp-your-feet-1f4oa0j.mp3"
+  },
+  "团团想画画 指指自己的小脚 说一声 小脚印就会排成队": {
+    "normal": "guide-147x9hn.mp3"
+  },
+  "feet": {
+    "normal": "feet-yiwczb.mp3",
+    "slow": "feet-yiwczb-slow.mp3"
+  },
+  "show me two hands": {
+    "normal": "show-me-two-hands-1c3t2oi.mp3"
+  },
+  "你有两只小手 伸出来 跟着说一句 帮团团放飞彩带": {
+    "normal": "guide-15ltwz2.mp3"
+  },
+  "show me two feet": {
+    "normal": "show-me-two-feet-1ct094g.mp3"
+  },
+  "我们到云朵上啦 看看自己的两只小脚 跟着说 让舞台亮起来": {
+    "normal": "guide-1gk7cl0.mp3"
+  },
+  "eyes open wide": {
+    "normal": "eyes-open-wide-1l1q21w.mp3"
+  },
+  "星星在睡觉 还记得眼睛的英语吗 跟着说 叫星星睁开眼睛": {
+    "normal": "guide-8b4s44.mp3"
+  },
+  "mouth make a wish": {
+    "normal": "mouth-make-a-wish-1rxrs3s.mp3"
+  },
+  "泡泡还想再来玩 说说嘴巴的英语 这次泡泡会变成星星": {
+    "normal": "guide-1iysckd.mp3"
+  },
+  "hands clap together": {
+    "normal": "hands-clap-together-1k0kph5.mp3"
+  },
+  "雪宝躲在彩带后面 说说小手的英语 再拍一拍 请它上台": {
+    "normal": "guide-1108egk.mp3"
+  },
+  "feet lets dance": {
+    "normal": "feet-lets-dance-157acac.mp3"
+  },
+  "最后一支云朵舞 说说小脚的英语 跟团团和雪宝一起轻轻动一动": {
+    "normal": "guide-1bd5uu8.mp3"
+  },
+  "团团想请家人参加派对 先说说妈妈的英语 请妈妈来抱抱": {
+    "normal": "guide-17orfze.mp3"
+  },
+  "here comes daddy": {
+    "normal": "here-comes-daddy-14eioms.mp3"
+  },
+  "爸爸抱着礼物来啦 说说爸爸的英语 看看礼物里藏了什么": {
+    "normal": "guide-lpsule.mp3"
+  },
+  "meet my mommy": {
+    "normal": "meet-my-mommy-1af7aj7.mp3"
+  },
+  "艾莎想认识妈妈 跟团团说一句 把妈妈介绍给她吧": {
+    "normal": "guide-e0wdep.mp3"
+  },
+  "shh a little baby": {
+    "normal": "shh-a-little-baby-otf7gj.mp3"
+  },
+  "小宝宝在打瞌睡 轻轻说说宝宝的英语 让它知道派对开始啦": {
+    "normal": "guide-7jxvyq.mp3"
+  },
+  "grandma has a story": {
+    "normal": "grandma-has-a-story-1wm2jgv.mp3"
+  },
+  "花园里有一本大故事书 说说奶奶的英语 请她翻开看看": {
+    "normal": "guide-13u0qfm.mp3"
+  },
+  "grandpa has a surprise": {
+    "normal": "grandpa-has-a-surprise-176trw8.mp3"
+  },
+  "爷爷藏了一串气球 说说爷爷的英语 请他把气球放飞吧": {
+    "normal": "guide-weffsa.mp3"
+  },
+  "baby loves bubbles": {
+    "normal": "baby-loves-bubbles-y8td03.mp3"
+  },
+  "宝宝看见花园 想玩泡泡 再说说宝宝的英语 这次陪它追泡泡": {
+    "normal": "guide-rvsju8.mp3"
+  },
+  "daddy join our picnic": {
+    "normal": "daddy-join-our-picnic-wm294d.mp3"
+  },
+  "野餐篮还没打开 说说爸爸的英语 请爸爸帮大家准备野餐": {
+    "normal": "guide-18mxvdc.mp3"
+  },
+  "we are a family": {
+    "normal": "we-are-a-family-1k42xva.mp3"
+  },
+  "妈妈 爸爸 爷爷 奶奶和宝宝都来啦 说说一家人的英语 请大家站在一起": {
+    "normal": "guide-7girkz.mp3"
+  },
+  "family": {
+    "normal": "family-m9tjqr.mp3",
+    "slow": "family-m9tjqr-slow.mp3"
+  },
+  "mommy photo time": {
+    "normal": "mommy-photo-time-na0akn.mp3"
+  },
+  "星光照相馆准备好了 还记得妈妈的英语吗 请妈妈站到团团身边": {
+    "normal": "guide-1dld7gs.mp3"
+  },
+  "grandpa photo time": {
+    "normal": "grandpa-photo-time-6sghlf.mp3"
+  },
+  "爷爷还在看星星 说说爷爷的英语 叫他来一起拍照": {
+    "normal": "guide-5oczs3.mp3"
+  },
+  "family smile together": {
+    "normal": "family-smile-together-jpgan3.mp3"
+  },
+  "大家站好啦 说说一家人的英语 用声音按下星星相机": {
+    "normal": "guide-xz6m15.mp3"
+  },
+  "全家福收好啦 跟团团说一句 把大大的爱送给家人": {
+    "normal": "guide-uc5fa4.mp3"
+  },
+  "团团揉揉鼻子 笑得耳朵都晃起来啦": {
+    "normal": "guide-1a1ekas.mp3"
+  },
+  "躲猫猫 团团睁开眼睛 发现了你": {
+    "normal": "guide-1lj1ija.mp3"
+  },
+  "噗噗噗 小嘴巴吹出好多彩虹泡泡": {
+    "normal": "guide-12lm56x.mp3"
+  },
+  "镜子里的小鼻子亮了 你和团团一起变出爱心": {
+    "normal": "guide-uc4j8m.mp3"
+  },
+  "叮叮当 团团竖起耳朵 找到了唱歌的铃铛": {
+    "normal": "guide-1uf7zbs.mp3"
+  },
+  "啪 啪 啪 每拍一下 都亮起一个音乐泡泡": {
+    "normal": "guide-zx7v.mp3"
+  },
+  "咚咚咚 小脚走过的地方 长出了彩色脚印": {
+    "normal": "guide-scfvc2.mp3"
+  },
+  "两只小手举起来 音乐房飘起彩带": {
+    "normal": "guide-1gz7by7.mp3"
+  },
+  "一只 两只 云朵上的脚印亮起来啦": {
+    "normal": "guide-1k5zmuz.mp3"
+  },
+  "小星星醒啦 它眨眨眼睛 为你照亮舞台": {
+    "normal": "guide-16vvfgn.mp3"
+  },
+  "泡泡变成小星星 云朵舞台闪闪发光": {
+    "normal": "guide-2lo9u8.mp3"
+  },
+  "彩带打开 雪宝出来啦 朋友们都准备好了": {
+    "normal": "guide-m19un0.mp3"
+  },
+  "小脚跳舞 小手挥挥 身体魔法派对开始啦": {
+    "normal": "guide-1kw5xsa.mp3"
+  },
+  "妈妈走过来 送给团团一个大大的拥抱": {
+    "normal": "guide-rbkpmd.mp3"
+  },
+  "爸爸的礼物打开啦 一颗爱心气球飞出来": {
+    "normal": "guide-cvur02.mp3"
+  },
+  "妈妈和艾莎挥挥手 相册里的第一张照片亮了": {
+    "normal": "guide-1ks4f56.mp3"
+  },
+  "宝宝伸伸小手 摇摇晃晃地笑起来": {
+    "normal": "guide-1ajsw5u.mp3"
+  },
+  "奶奶翻开故事书 花丛里飞出小小的蝴蝶": {
+    "normal": "guide-jnpm5u.mp3"
+  },
+  "爷爷笑了 花园里升起好多爱心气球": {
+    "normal": "guide-1nim7yo.mp3"
+  },
+  "宝宝伸手追泡泡 家人都开心地笑啦": {
+    "normal": "guide-1pvdrfi.mp3"
+  },
+  "爸爸打开野餐篮 小点心飞到家人身边": {
+    "normal": "guide-1lfev1f.mp3"
+  },
+  "一家人围到团团身边 爱心花朵开了": {
+    "normal": "guide-1v8ochb.mp3"
+  },
+  "妈妈站好啦 相框里点亮一颗温暖的小爱心": {
+    "normal": "guide-1xh9whf.mp3"
+  },
+  "爷爷赶来讲了个笑话 大家笑得耳朵都晃啦": {
+    "normal": "guide-j3a3bh.mp3"
+  },
+  "咔嚓 你拍下了一张亮晶晶的全家福": {
+    "normal": "guide-uqmvsp.mp3"
+  },
+  "一颗大爱心抱住全家 谢谢你带来这么温暖的派对": {
+    "normal": "guide-1verh6x.mp3"
+  },
+  "look a ball": {
+    "normal": "look-a-ball-dpkg0w.mp3"
+  },
+  "团团的玩具要去游行 小球还没醒呢 跟艾莎叫一声小球的英语吧": {
+    "normal": "guide-1bejymr.mp3"
+  },
+  "咚 咚 咚 小球醒过来 开心地跳了三下": {
+    "normal": "guide-ahppnr.mp3"
+  },
+  "ball": {
+    "normal": "ball-yizcqu.mp3",
+    "slow": "ball-yizcqu-slow.mp3"
+  },
+  "a teddy bear": {
+    "normal": "a-teddy-bear-nof16g.mp3"
+  },
+  "软软的小熊也想参加 跟着叫它的名字 它会给团团一个温暖的抱抱": {
+    "normal": "guide-1tgxg36.mp3"
+  },
+  "小熊靠过来抱抱团团 头顶冒出小爱心": {
+    "normal": "guide-1on6ulx.mp3"
+  },
+  "teddy bear": {
+    "normal": "teddy-bear-1a0edeh.mp3",
+    "slow": "teddy-bear-1a0edeh-slow.mp3"
+  },
+  "here is a doll": {
+    "normal": "here-is-a-doll-2utwb3.mp3"
+  },
+  "玩偶穿好了小裙子 叫一声玩偶的英语 邀请它跳一支小小的舞": {
+    "normal": "guide-2wa2mu.mp3"
+  },
+  "玩偶轻轻转圈 裙子旁边飞出亮晶晶的星星": {
+    "normal": "guide-1nw28sh.mp3"
+  },
+  "doll": {
+    "normal": "doll-yirytq.mp3",
+    "slow": "doll-yirytq-slow.mp3"
+  },
+  "is it your ball": {
+    "normal": "is-it-your-ball-17o5v74.mp3"
+  },
+  "小球想和你一起玩 跟艾莎说这是我的球 它就会滚来找团团": {
+    "normal": "guide-iksmbe.mp3"
+  },
+  "小球滚过来 又滚回去 你和团团一起玩传球啦": {
+    "normal": "guide-1nizkz5.mp3"
+  },
+  "its my ball": {
+    "normal": "its-my-ball-17bk9a4.mp3",
+    "slow": "its-my-ball-17bk9a4-slow.mp3"
+  },
+  "we need blocks": {
+    "normal": "we-need-blocks-1kgtg5j.mp3"
+  },
+  "火车轨道缺了一小段 叫一声积木的英语 帮玩具搭好出发的小桥": {
+    "normal": "guide-1tembsk.mp3"
+  },
+  "积木一块一块搭起来 小桥和轨道接好啦": {
+    "normal": "guide-19wzx4u.mp3"
+  },
+  "blocks": {
+    "normal": "blocks-owrl0f.mp3",
+    "slow": "blocks-owrl0f-slow.mp3"
+  },
+  "here comes a car": {
+    "normal": "here-comes-a-car-14cca61.mp3"
+  },
+  "小汽车想试试新路 跟着说小汽车的英语 让它开过去看看": {
+    "normal": "guide-wost2k.mp3"
+  },
+  "嘟嘟 小汽车开了一个来回 给你带回一串小星星": {
+    "normal": "guide-zbdbzu.mp3"
+  },
+  "car": {
+    "normal": "car-375ktx.mp3",
+    "slow": "car-375ktx-slow.mp3"
+  },
+  "look at the train": {
+    "normal": "look-at-the-train-1am2wb2.mp3"
+  },
+  "轨道准备好了 叫一声火车的英语 让小火车吐出软软的云朵": {
+    "normal": "guide-1lvnnfv.mp3"
+  },
+  "呜呜 烟囱冒出云朵 小火车准备来接玩具们": {
+    "normal": "guide-1vtn992.mp3"
+  },
+  "train": {
+    "normal": "train-30ir1h.mp3",
+    "slow": "train-30ir1h-slow.mp3"
+  },
+  "is it your train": {
+    "normal": "is-it-your-train-kf5mfn.mp3"
+  },
+  "大家在等你的小火车 跟艾莎说这是我的火车 就能带玩具去彩虹街": {
+    "normal": "guide-r9tbi.mp3"
+  },
+  "小球 小熊和玩偶坐上车厢 一起去彩虹街啦": {
+    "normal": "guide-7p7xfw.mp3"
+  },
+  "its my train": {
+    "normal": "its-my-train-8k8j33.mp3",
+    "slow": "its-my-train-8k8j33-slow.mp3"
+  },
+  "the doll is ready": {
+    "normal": "the-doll-is-ready-zfagva.mp3"
+  },
+  "彩虹街的游行要开始了 再叫一声玩偶的名字 请它挥起彩带": {
+    "normal": "guide-1v2n64g.mp3"
+  },
+  "玩偶挥起彩带 彩虹街亮起了小星星": {
+    "normal": "guide-1rdnuc0.mp3"
+  },
+  "the teddy bear is happy": {
+    "normal": "the-teddy-bear-is-happy-1q8ez62.mp3"
+  },
+  "小熊想给大家加油 再叫一声它的名字 看看它会怎么庆祝": {
+    "normal": "guide-qa1ivh.mp3"
+  },
+  "小熊摇摇小耳朵 给游行送来一大串爱心": {
+    "normal": "guide-cisosn.mp3"
+  },
+  "the ball can bounce": {
+    "normal": "the-ball-can-bounce-bi70cj.mp3"
+  },
+  "小球也想加入庆祝 跟着说球的英语 它这次会跳出彩色纸片": {
+    "normal": "guide-1ud3pk7.mp3"
+  },
+  "小球高高跳起来 彩色纸片像小雨一样落下来": {
+    "normal": "guide-1p70ytc.mp3"
+  },
+  "the car is ready": {
+    "normal": "the-car-is-ready-1qggkd9.mp3"
+  },
+  "小熊想坐汽车游行 再叫一声小汽车的英语 请它载着小熊出发": {
+    "normal": "guide-1cxa40h.mp3"
+  },
+  "小熊坐上小汽车 摇摇晃晃地向大家招手": {
+    "normal": "guide-1lxz2ku.mp3"
+  },
+  "do you like your toys": {
+    "normal": "do-you-like-your-toys-je34au.mp3"
+  },
+  "六个玩具都来啦 跟艾莎说我喜欢我的玩具 让大家一起走过彩虹街": {
+    "normal": "guide-121jm3m.mp3"
+  },
+  "球 玩偶 小熊 汽车 火车和积木 一起参加你的玩具大游行": {
+    "normal": "guide-1te4lel.mp3"
+  },
+  "i like my toys": {
+    "normal": "i-like-my-toys-15tlqf6.mp3",
+    "slow": "i-like-my-toys-15tlqf6-slow.mp3"
+  },
+  "look a dress": {
+    "normal": "look-a-dress-qge2ds.mp3"
+  },
+  "艾莎要去参加舞会啦 先叫一声连衣裙的英语 帮她换上粉粉的花花裙": {
+    "normal": "guide-q78qg2.mp3"
+  },
+  "花花连衣裙飞过来 艾莎换上了粉色的新裙子": {
+    "normal": "guide-6u3m9x.mp3"
+  },
+  "dress": {
+    "normal": "dress-2pwrzq.mp3",
+    "slow": "dress-2pwrzq-slow.mp3"
+  },
+  "here are my shoes": {
+    "normal": "here-are-my-shoes-1dqeifz.mp3"
+  },
+  "裙子穿好啦 还需要一双鞋 跟艾莎说鞋子的英语 让粉色小鞋飞到她的脚上": {
+    "normal": "guide-63fed7.mp3"
+  },
+  "两只小鞋飞到艾莎的脚上 她开心地踮了踮脚": {
+    "normal": "guide-40yi4z.mp3"
+  },
+  "shoes": {
+    "normal": "shoes-38pc2v.mp3",
+    "slow": "shoes-38pc2v-slow.mp3"
+  },
+  "a pretty hat": {
+    "normal": "a-pretty-hat-10rb6nb.mp3"
+  },
+  "花朵小帽子想跟艾莎出去玩 叫一声帽子的英语 看看它会飞到哪里": {
+    "normal": "guide-1h4fo6g.mp3"
+  },
+  "小帽子转了一圈 轻轻落在艾莎的头上": {
+    "normal": "guide-1ud8pui.mp3"
+  },
+  "hat": {
+    "normal": "hat-375lvc.mp3",
+    "slow": "hat-375lvc-slow.mp3"
+  },
+  "do you like your dress": {
+    "normal": "do-you-like-your-dress-xits4.mp3"
+  },
+  "衣服 鞋子和帽子都穿好啦 跟艾莎说我的连衣裙 请魔法镜子照一照新的搭配": {
+    "normal": "guide-1yis6ng.mp3"
+  },
+  "镜子里的艾莎也穿着你的搭配 向你轻轻点头 第一颗装扮星星亮啦": {
+    "normal": "guide-1tl0ki9.mp3"
+  },
+  "my dress": {
+    "normal": "my-dress-dciaf6.mp3",
+    "slow": "my-dress-dciaf6-slow.mp3"
+  },
+  "here is a shirt": {
+    "normal": "here-is-a-shirt-nppjzk.mp3"
+  },
+  "舞会还没开始 艾莎想先在花园玩 跟着说衬衫的英语 换上轻松的黄色小衬衫": {
+    "normal": "guide-677gxy.mp3"
+  },
+  "黄色小衬衫穿好啦 艾莎可以轻轻松松地逛花园": {
+    "normal": "guide-v0s7ki.mp3"
+  },
+  "shirt": {
+    "normal": "shirt-38pjpt.mp3",
+    "slow": "shirt-38pjpt-slow.mp3"
+  },
+  "look at the skirt": {
+    "normal": "look-at-the-skirt-1apohjt.mp3"
+  },
+  "衬衫下面配什么呢 跟着叫一声半身裙的英语 让紫色小裙子来搭配": {
+    "normal": "guide-1spqez.mp3"
+  },
+  "半身裙变成紫色的 艾莎轻轻转身 花瓣也跟着飞起来": {
+    "normal": "guide-dg9dhd.mp3"
+  },
+  "skirt": {
+    "normal": "skirt-38q4z6.mp3",
+    "slow": "skirt-38q4z6-slow.mp3"
+  },
+  "we need a coat": {
+    "normal": "we-need-a-coat-1iogxk5.mp3"
+  },
+  "花园飘来几滴小雨 别着急 叫一声外套的英语 帮艾莎穿上薄荷绿外套": {
+    "normal": "guide-1ps0rml.mp3"
+  },
+  "薄荷绿外套穿上啦 小雨点在衣服上跳来跳去": {
+    "normal": "guide-dg3q1j.mp3"
+  },
+  "coat": {
+    "normal": "coat-yj05y4.mp3",
+    "slow": "coat-yj05y4-slow.mp3"
+  },
+  "is it your coat": {
+    "normal": "is-it-your-coat-17o6yga.mp3"
+  },
+  "外套暖暖的 跟艾莎说我的外套 请小雨停下来 看看花园会出现什么": {
+    "normal": "guide-14blr1l.mp3"
+  },
+  "小雨停了 花园出现一道彩虹 第二颗装扮星星亮起来": {
+    "normal": "guide-15xl6st.mp3"
+  },
+  "my coat": {
+    "normal": "my-coat-o2ua5k.mp3",
+    "slow": "my-coat-o2ua5k-slow.mp3"
+  },
+  "a dress for the party": {
+    "normal": "a-dress-for-the-party-yv152z.mp3"
+  },
+  "舞会要开始啦 再叫一声连衣裙的英语 这次会变出一条亮晶晶的冰雪礼服": {
+    "normal": "guide-wanrd3.mp3"
+  },
+  "冰雪礼服闪闪发光 艾莎准备好去跳舞啦": {
+    "normal": "guide-1vgtbka.mp3"
+  },
+  "my dancing shoes": {
+    "normal": "my-dancing-shoes-oq082j.mp3"
+  },
+  "小鞋子也想跳舞 再说一次鞋子的英语 换上闪闪的舞鞋 让地上的小星星带路": {
+    "normal": "guide-v3e82r.mp3"
+  },
+  "舞鞋闪起来 艾莎跟着星星脚印轻轻走了三步": {
+    "normal": "guide-sftzsn.mp3"
+  },
+  "thank you little hat": {
+    "normal": "thank-you-little-hat-1aizjn3.mp3"
+  },
+  "跳舞的时候 小帽子想去衣架上休息 再叫一次帽子的英语 送它飞回小衣架": {
+    "normal": "guide-1bincsi.mp3"
+  },
+  "帽子飞回小衣架 轻轻摇了摇 好像在为艾莎加油": {
+    "normal": "guide-138s0vx.mp3"
+  },
+  "show me your dress": {
+    "normal": "show-me-your-dress-1scj1jg.mp3"
+  },
+  "你给艾莎打扮得真漂亮 跟她说我的连衣裙 让魔法相框留下这一套舞会搭配": {
+    "normal": "guide-s8fbqw.mp3"
+  },
+  "相框里留下了艾莎的新裙子和舞鞋 这是你帮她完成的装扮": {
+    "normal": "guide-mlmsyt.mp3"
+  },
+  "艾莎邀请你和团团一起跳舞 跟着说我喜欢我的连衣裙 让魔法舞会开始吧": {
+    "normal": "guide-13xme1t.mp3"
+  },
+  "艾莎和团团一起跳舞 六件衣服都亮起星光 谢谢你 小小魔法造型师": {
+    "normal": "guide-1m3cili.mp3"
+  },
+  "i like my dress": {
+    "normal": "i-like-my-dress-uumj40.mp3",
+    "slow": "i-like-my-dress-uumj40-slow.mp3"
+  },
+  "a sleepy cat": {
+    "normal": "a-sleepy-cat-grtguc.mp3"
+  },
+  "小猫在软软的窝里睡着啦 跟艾莎轻轻说小猫的英语 叫它起来伸个懒腰": {
+    "normal": "guide-14nn5km.mp3"
+  },
+  "小猫睁开眼睛 伸了个大大的懒腰 和你打招呼啦": {
+    "normal": "guide-bulitn.mp3"
+  },
+  "cat": {
+    "normal": "cat-375ktv.mp3",
+    "slow": "cat-375ktv-slow.mp3"
+  },
+  "the dog wants to play": {
+    "normal": "the-dog-wants-to-play-1ltkbio.mp3"
+  },
+  "小狗找到了一颗软软的球 跟着说小狗的英语 请它把球送给团团": {
+    "normal": "guide-iy7hkb.mp3"
+  },
+  "小狗叼着球跑过来 团团接到了小狗送来的礼物": {
+    "normal": "guide-114x8xb.mp3"
+  },
+  "dog": {
+    "normal": "dog-375c15.mp3",
+    "slow": "dog-375c15-slow.mp3"
+  },
+  "here comes a rabbit": {
+    "normal": "here-comes-a-rabbit-1wehsx3.mp3"
+  },
+  "棕色小兔子想认识你 跟艾莎叫一声兔子的英语 看看它会怎样过来": {
+    "normal": "guide-b67adu.mp3"
+  },
+  "小兔子一跳 两跳 跳到软垫上 长耳朵也跟着晃起来": {
+    "normal": "guide-1yu1v73.mp3"
+  },
+  "rabbit": {
+    "normal": "rabbit-z7gycr.mp3",
+    "slow": "rabbit-z7gycr-slow.mp3"
+  },
+  "where is the cat": {
+    "normal": "where-is-the-cat-ukn1ml.mp3"
+  },
+  "咦 小猫躲到小帐篷后面了 跟艾莎说我看见一只小猫 请它探出小脑袋": {
+    "normal": "guide-7iz74.mp3"
+  },
+  "躲猫猫 小猫从帐篷旁边探出来 送给你第一颗动物星光": {
+    "normal": "guide-yp6yyz.mp3"
+  },
+  "i see a cat": {
+    "normal": "i-see-a-cat-1d7iuh4.mp3",
+    "slow": "i-see-a-cat-1d7iuh4-slow.mp3"
+  },
+  "look a little bird": {
+    "normal": "look-a-little-bird-1nqr9iq.mp3"
+  },
+  "蓝色小鸟站在水塘边 说一声小鸟的英语 请它张开翅膀 飞给你看": {
+    "normal": "guide-c02j5b.mp3"
+  },
+  "小鸟张开蓝蓝的翅膀 飞过水塘 又轻轻落在树枝上": {
+    "normal": "guide-eo7cqi.mp3"
+  },
+  "bird": {
+    "normal": "bird-yizjmg.mp3",
+    "slow": "bird-yizjmg-slow.mp3"
+  },
+  "a duck in the pond": {
+    "normal": "a-duck-in-the-pond-1yuq5iu.mp3"
+  },
+  "小鸭子准备带叶子小船去兜风 跟着说鸭子的英语 请它轻轻划水": {
+    "normal": "guide-1h68ot1.mp3"
+  },
+  "小鸭子游起来啦 叶子小船跟在后面 水面出现一圈圈小波纹": {
+    "normal": "guide-ms3t14.mp3"
+  },
+  "duck": {
+    "normal": "duck-yis7jw.mp3",
+    "slow": "duck-yis7jw-slow.mp3"
+  },
+  "a fish is swimming": {
+    "normal": "a-fish-is-swimming-pcns7b.mp3"
+  },
+  "水里有一条橙色小鱼 说一声鱼的英语 邀请它穿过亮亮的泡泡圈": {
+    "normal": "guide-1lg98r1.mp3"
+  },
+  "小鱼摆摆尾巴 从泡泡圈里游过去 吐出了好多小泡泡": {
+    "normal": "guide-cp7rjq.mp3"
+  },
+  "fish": {
+    "normal": "fish-yiwgvl.mp3",
+    "slow": "fish-yiwgvl-slow.mp3"
+  },
+  "can you see the fish": {
+    "normal": "can-you-see-the-fish-7tkv5g.mp3"
+  },
+  "小鱼游到水下面啦 跟艾莎说我看见一条鱼 打开泡泡窗口 看看它的小尾巴": {
+    "normal": "guide-1itma8t.mp3"
+  },
+  "泡泡窗口亮起来 小鱼在清清的水里转了一圈 第二颗动物星光亮啦": {
+    "normal": "guide-smvoo0.mp3"
+  },
+  "i see a fish": {
+    "normal": "i-see-a-fish-1p7q562.mp3",
+    "slow": "i-see-a-fish-1p7q562-slow.mp3"
+  },
+  "the cat likes a gentle brush": {
+    "normal": "the-cat-likes-a-gentle-brush-1pkekjg.mp3"
+  },
+  "大家来到月光营地啦 再叫一声小猫的英语 用软软的小刷子帮它梳梳毛": {
+    "normal": "guide-1f3tduz.mp3"
+  },
+  "小刷子轻轻划过 小猫舒服地眯起眼睛 身边冒出了小爱心": {
+    "normal": "guide-1ilneh9.mp3"
+  },
+  "a splashy little dog": {
+    "normal": "a-splashy-little-dog-1bkb3vs.mp3"
+  },
+  "小狗刚刚玩过水 毛上有小水珠 再说一次小狗的英语 请它轻轻甩一甩": {
+    "normal": "guide-zezxuw.mp3"
+  },
+  "小狗摇摇身体 小水珠变成了闪闪的星星 现在干爽啦": {
+    "normal": "guide-177ngmd.mp3"
+  },
+  "a cozy bed for the rabbit": {
+    "normal": "a-cozy-bed-for-the-rabbit-18yzrno.mp3"
+  },
+  "小兔子玩得有点累啦 再叫一次兔子的英语 送它到软软的小窝里休息": {
+    "normal": "guide-1mwueg4.mp3"
+  },
+  "小兔子跳进小窝 缩成一个暖暖的小毛球 长耳朵也放松啦": {
+    "normal": "guide-jkmpuc.mp3"
+  },
+  "the duck wants to dance": {
+    "normal": "the-duck-wants-to-dance-1cd8rnw.mp3"
+  },
+  "小鸭子想给大家表演 再说一次鸭子的英语 请它摇摇摆摆 和小鸟一起跳舞": {
+    "normal": "guide-etqclb.mp3"
+  },
+  "小鸭子摆摆脚 小鸟绕着它飞 两个小伙伴跳起了有趣的双人舞": {
+    "normal": "guide-bgu77h.mp3"
+  },
+  "do you like animals": {
+    "normal": "do-you-like-animals-g0jq7n.mp3"
+  },
+  "六个小动物都成为你的朋友啦 跟艾莎说我喜欢动物 让月光派对亮起来": {
+    "normal": "guide-1kxbs67.mp3"
+  },
+  "小猫 小狗 兔子 小鸟 鸭子和水里的小鱼一起为你庆祝 谢谢你 小小动物好朋友": {
+    "normal": "guide-1slbruh.mp3"
+  },
+  "i like animals": {
+    "normal": "i-like-animals-mnihv6.mp3",
+    "slow": "i-like-animals-mnihv6-slow.mp3"
+  },
+  "雪宝向你挥手啦 跟艾莎说一声你好吧": {
+    "normal": "guide-cbe4ze.mp3"
+  },
+  "雪宝摇摇小手 雪花也跳起舞啦": {
+    "normal": "guide-ngxhbi.mp3"
+  },
+  "跟艾莎说自己的名字 leo 可以换成你的名字": {
+    "normal": "leo-1bekk2j.mp3"
+  },
+  "欢迎圈亮起来 雪宝很开心认识新朋友": {
+    "normal": "guide-1rtry37.mp3"
+  },
+  "邀请雪宝一起走 看看小雪球会滚向哪里": {
+    "normal": "guide-1uicfrn.mp3"
+  },
+  "小雪球排成一条路 雪宝跟着你出发啦": {
+    "normal": "guide-z8l0cq.mp3"
+  },
+  "this is for you": {
+    "normal": "this-is-for-you-1tb988x.mp3"
+  },
+  "雪宝送来小礼物 跟艾莎说一句谢谢吧": {
+    "normal": "guide-1hgjn79.mp3"
+  },
+  "礼物里飞出爱心气球 第一颗友情星光亮啦": {
+    "normal": "guide-fqvura.mp3"
+  },
+  "城堡门还关着 说声你好 让门知道你来啦": {
+    "normal": "guide-1fq36sk.mp3"
+  },
+  "门上的小星星亮了 好像在和你打招呼": {
+    "normal": "guide-11rmoqu.mp3"
+  },
+  "say please": {
+    "normal": "say-please-1ct5zgg.mp3"
+  },
+  "跟艾莎说一句请 看看大门会不会打开": {
+    "normal": "guide-3h5spp.mp3"
+  },
+  "大门轻轻打开啦 礼貌的话也是小魔法": {
+    "normal": "guide-1dlcf9k.mp3"
+  },
+  "please": {
+    "normal": "please-vgsvpn.mp3",
+    "slow": "please-vgsvpn-slow.mp3"
+  },
+  "here is a little light": {
+    "normal": "here-is-a-little-light-1axzx86.mp3"
+  },
+  "城堡送来一盏小灯 说声谢谢 点亮它吧": {
+    "normal": "guide-1e0bu3a.mp3"
+  },
+  "小灯暖暖地亮起 雪宝的影子摇了摇": {
+    "normal": "guide-1286j5k.mp3"
+  },
+  "雪宝在谢谢你 跟艾莎回答一句不客气": {
+    "normal": "guide-lrf8ip.mp3"
+  },
+  "雪宝鞠了个躬 第二颗友情星光亮啦": {
+    "normal": "guide-13mp39x.mp3"
+  },
+  "小猫头鹰藏起来啦 说声你好 请它探出头": {
+    "normal": "guide-10j4gtb.mp3"
+  },
+  "躲猫猫 小猫头鹰从小球后面探出来啦": {
+    "normal": "guide-1sioa5e.mp3"
+  },
+  "说一句请 邀请小猫头鹰飞来参加派对": {
+    "normal": "guide-x3bjxm.mp3"
+  },
+  "小猫头鹰绕了一圈 落到雪宝身边啦": {
+    "normal": "guide-z5w1u8.mp3"
+  },
+  "a snowflake for you": {
+    "normal": "a-snowflake-for-you-1v8b7x8.mp3"
+  },
+  "小猫头鹰送你雪花 跟艾莎说一句谢谢": {
+    "normal": "guide-ckyjsx.mp3"
+  },
+  "雪花变成亮亮的小星星 绕着朋友们飞": {
+    "normal": "guide-1rdfzru.mp3"
+  },
+  "朋友们在谢谢你 说声不客气 送出暖暖的抱抱": {
+    "normal": "guide-qy5nup.mp3"
+  },
+  "雪宝和猫头鹰靠在一起 大家都是好朋友啦": {
+    "normal": "guide-o5laom.mp3"
+  },
+  "goodbye": {
+    "normal": "goodbye-1g3ou6w.mp3",
+    "slow": "goodbye-1g3ou6w-slow.mp3"
+  },
+  "派对结束啦 跟艾莎说再见 留下朋友合影吧": {
+    "normal": "guide-r7ys4z.mp3"
+  },
+  "朋友们挥挥手 合影亮起来 我们下次再一起玩": {
+    "normal": "guide-1w5z9tv.mp3"
+  },
+  "说说一家人的英语 请家人们站在一起": {
+    "normal": "guide-ud42u8.mp3"
+  },
+  "叫一声妈妈的英语 请她站到团团身边": {
+    "normal": "guide-18n64oj.mp3"
+  },
+  "who is this": {
+    "normal": "who-is-this-1i160i1.mp3"
+  },
+  "跟艾莎说这是我的爷爷 请爷爷挥挥手": {
+    "normal": "guide-1bf89ep.mp3"
+  },
+  "爷爷摇摇小手 大家准备好拍照啦": {
+    "normal": "guide-y6ckps.mp3"
+  },
+  "this is my grandpa": {
+    "normal": "this-is-my-grandpa-3w3r8i.mp3",
+    "slow": "this-is-my-grandpa-3w3r8i-slow.mp3"
+  },
+  "叫一声连衣裙的英语 帮艾莎换上花花裙": {
+    "normal": "guide-12dc6nh.mp3"
+  },
+  "说说鞋子的英语 让小鞋飞到艾莎脚上": {
+    "normal": "guide-1cer4yt.mp3"
+  },
+  "叫一声帽子的英语 请小帽子飞过来": {
+    "normal": "guide-1ahiopu.mp3"
+  },
+  "跟艾莎说我的连衣裙 让镜子照照新搭配": {
+    "normal": "guide-1p1boqi.mp3"
+  },
+  "镜子里的艾莎点点头 第一颗装扮星光亮啦": {
+    "normal": "guide-1hm317v.mp3"
+  },
+  "叫一声衬衫的英语 换上黄色小衬衫": {
+    "normal": "guide-fzyziv.mp3"
+  },
+  "说说半身裙的英语 让紫色小裙子来搭配": {
+    "normal": "guide-vciwpi.mp3"
+  },
+  "下小雨啦 说说外套的英语 帮艾莎穿好": {
+    "normal": "guide-14u3v2i.mp3"
+  },
+  "show me your coat": {
+    "normal": "show-me-your-coat-1wobgpy.mp3"
+  },
+  "跟艾莎说我的外套 邀请彩虹出来吧": {
+    "normal": "guide-1c1ges5.mp3"
+  },
+  "舞会开始啦 再叫一次连衣裙 变出礼服": {
+    "normal": "guide-jiwa1o.mp3"
+  },
+  "再说一次鞋子的英语 请舞鞋走星星舞步": {
+    "normal": "guide-1ker4gn.mp3"
+  },
+  "再叫一次帽子的英语 送它飞回小衣架": {
+    "normal": "guide-1gj3czz.mp3"
+  },
+  "说说我的连衣裙 给新搭配拍张照片吧": {
+    "normal": "guide-1nkffuf.mp3"
+  },
+  "跟艾莎说我喜欢我的连衣裙 一起跳舞吧": {
+    "normal": "guide-6yxiu5.mp3"
+  },
+  "艾莎和团团跳起舞 谢谢你 小小魔法造型师": {
+    "normal": "guide-1udckf5.mp3"
+  },
+  "轻轻说小猫的英语 叫它起来伸个懒腰": {
+    "normal": "guide-fkgt9j.mp3"
+  },
+  "说说小狗的英语 请它把球送给团团": {
+    "normal": "guide-1g8gtts.mp3"
+  },
+  "叫一声兔子的英语 请它跳过来打招呼": {
+    "normal": "guide-nbhfqr.mp3"
+  },
+  "跟艾莎说我看见一只小猫 请它探出头": {
+    "normal": "guide-1veqawj.mp3"
+  },
+  "叫一声小鸟的英语 请它飞过水塘": {
+    "normal": "guide-4u335j.mp3"
+  },
+  "说说鸭子的英语 请它带叶子小船去兜风": {
+    "normal": "guide-vs8bqj.mp3"
+  },
+  "说说鱼的英语 请小鱼穿过泡泡圈": {
+    "normal": "guide-4lv905.mp3"
+  },
+  "跟艾莎说我看见一条鱼 打开泡泡窗口": {
+    "normal": "guide-193ez3z.mp3"
+  },
+  "再叫一次小猫 请软刷子给它梳梳毛": {
+    "normal": "guide-jlvcyg.mp3"
+  },
+  "再叫一次小狗 请它甩掉毛上的小水珠": {
+    "normal": "guide-p9chxc.mp3"
+  },
+  "再叫一次兔子 送它去软窝里休息": {
+    "normal": "guide-1p4tb9b.mp3"
+  },
+  "再叫一次鸭子 请它和小鸟一起跳舞": {
+    "normal": "guide-dqivpp.mp3"
+  },
+  "跟艾莎说我喜欢动物 邀请朋友参加派对": {
+    "normal": "guide-1tvv4le.mp3"
+  },
+  "六个动物一起为你欢呼 谢谢你 小小动物好朋友": {
+    "normal": "guide-1hs61ik.mp3"
+  },
+  "bus driver": {
+    "normal": "bus-driver-15ha9j3.mp3",
+    "slow": "bus-driver-15ha9j3-slow.mp3"
+  },
+  "叫一声巴士司机的英语 请他打开小车门": {
+    "normal": "guide-4zaors.mp3"
+  },
+  "小车门滑开了 团团可以上车啦": {
+    "normal": "guide-7mpf5f.mp3"
+  },
+  "firefighter": {
+    "normal": "firefighter-z05vdq.mp3",
+    "slow": "firefighter-z05vdq-slow.mp3"
+  },
+  "叫一声消防员的英语 请他用水转动风车": {
+    "normal": "guide-18serjp.mp3"
+  },
+  "水花推着风车转起来 转呀转": {
+    "normal": "guide-j1d7ni.mp3"
+  },
+  "police officer": {
+    "normal": "police-officer-16kme5n.mp3",
+    "slow": "police-officer-16kme5n-slow.mp3"
+  },
+  "小鸭子想过街 跟艾莎说警察的英语吧": {
+    "normal": "guide-1cfk6cp.mp3"
+  },
+  "警察陪着小鸭子 沿斑马线慢慢走过去啦": {
+    "normal": "guide-3gj1kj.mp3"
+  },
+  "再叫一次司机 请小巴士带团团去兜风": {
+    "normal": "guide-cvrsp4.mp3"
+  },
+  "小巴士载着团团出发 第一颗帮忙星光亮啦": {
+    "normal": "guide-19jvnip.mp3"
+  },
+  "doctor": {
+    "normal": "doctor-inpdz8.mp3",
+    "slow": "doctor-inpdz8-slow.mp3"
+  },
+  "来到玩偶诊所啦 叫一声医生 请他听听小熊": {
+    "normal": "guide-xq2jjs.mp3"
+  },
+  "咚咚 咚咚 小熊的心跳变成了爱心": {
+    "normal": "guide-1i3cg6g.mp3"
+  },
+  "nurse": {
+    "normal": "nurse-2zual6.mp3",
+    "slow": "nurse-2zual6-slow.mp3"
+  },
+  "叫一声护士的英语 给小熊盖上软毯子": {
+    "normal": "guide-lg1pkp.mp3"
+  },
+  "软毯子轻轻盖好 小熊暖暖地眯起眼睛": {
+    "normal": "guide-bzcitw.mp3"
+  },
+  "dentist": {
+    "normal": "dentist-17pb6mo.mp3",
+    "slow": "dentist-17pb6mo-slow.mp3"
+  },
+  "叫一声牙医的英语 请他刷刷这颗玩具牙齿": {
+    "normal": "guide-1cqpamr.mp3"
+  },
+  "小刷子轻轻刷 玩具牙齿笑得亮晶晶": {
+    "normal": "guide-1rf7rre.mp3"
+  },
+  "what do you see": {
+    "normal": "what-do-you-see-1ynq6z8.mp3"
+  },
+  "你看见谁啦 跟艾莎说 我看见一位医生": {
+    "normal": "guide-1j10jkx.mp3"
+  },
+  "医生挥挥手 送给你第二颗帮忙星光": {
+    "normal": "guide-15d3tac.mp3"
+  },
+  "i see a doctor": {
+    "normal": "i-see-a-doctor-ymz1nj.mp3",
+    "slow": "i-see-a-doctor-ymz1nj-slow.mp3"
+  },
+  "护士也来派对啦 跟艾莎说 我看见一位护士": {
+    "normal": "guide-19vk7cj.mp3"
+  },
+  "护士送来暖暖的小灯 大家围过来啦": {
+    "normal": "guide-pgf097.mp3"
+  },
+  "i see a nurse": {
+    "normal": "i-see-a-nurse-v23hb5.mp3",
+    "slow": "i-see-a-nurse-v23hb5-slow.mp3"
+  },
+  "再叫一次牙医 请他把笑脸变成小泡泡": {
+    "normal": "guide-a2o1z9.mp3"
+  },
+  "圆圆的笑脸泡泡飘起来 大家都笑啦": {
+    "normal": "guide-j69mm1.mp3"
+  },
+  "再叫一次警察 请他带团团走星星小路": {
+    "normal": "guide-1qt00fg.mp3"
+  },
+  "星星一颗颗亮起 团团走到了派对中间": {
+    "normal": "guide-1xml1yc.mp3"
+  },
+  "再叫一次消防员 请他给派对的大花浇水": {
+    "normal": "guide-13tmxum.mp3"
+  },
+  "大花喝到水 开出一朵橙色的笑脸": {
+    "normal": "guide-ucihsz.mp3"
+  },
+  "六位伙伴都帮了忙 跟艾莎说一句谢谢吧": {
+    "normal": "guide-fuz665.mp3"
+  },
+  "六位伙伴一起挥手 谢谢你 小小帮帮员": {
+    "normal": "guide-xbdep5.mp3"
+  },
+  "和小镇伙伴打个招呼 请司机挥挥手吧": {
+    "normal": "guide-qk5cdn.mp3"
+  },
+  "司机挥挥小手 欢迎你来魔法小镇": {
+    "normal": "guide-11q937n.mp3"
+  },
+  "想坐小巴士吗 说一句请 拿到星星车票": {
+    "normal": "guide-1u4x8zq.mp3"
+  },
+  "星星车票飞到团团手里 可以出发啦": {
+    "normal": "guide-u5h22t.mp3"
+  },
+  "软毯子轻轻盖好 小熊暖暖地抱着它": {
+    "normal": "guide-1fwojkp.mp3"
+  },
+  "小熊暖暖的啦 跟艾莎说谢谢 感谢护士": {
+    "normal": "guide-hnb217.mp3"
+  },
+  "护士送来一个小爱心 团团也开心地笑啦": {
+    "normal": "guide-d4uohu.mp3"
+  },
+  "跟艾莎说我有一个鼻子 请镜子照一照": {
+    "normal": "guide-5ot4xo.mp3"
+  },
+  "说说小脚的英语 和团团 雪宝一起跳舞": {
+    "normal": "guide-1ey3cuh.mp3"
+  },
+  "再叫一次宝宝的英语 陪它追彩虹泡泡": {
+    "normal": "guide-1bef77i.mp3"
+  },
+  "跟艾莎说这是我的爷爷 请他来一起拍照": {
+    "normal": "guide-igpcmc.mp3"
+  },
+  "爷爷来到团团身边 大家准备好拍照啦": {
+    "normal": "guide-1g6o3.mp3"
+  },
+  "说说这是我的火车 带玩具去彩虹街吧": {
+    "normal": "guide-w6nya0.mp3"
+  }
+}

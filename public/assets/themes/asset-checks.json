@@ -1,0 +1,452 @@
+[
+  {
+    "path": "body/workshop.webp",
+    "size": [
+      1600,
+      900
+    ],
+    "source": "Built-in image_gen",
+    "role": "background"
+  },
+  {
+    "path": "body/music.webp",
+    "size": [
+      1600,
+      900
+    ],
+    "source": "Built-in image_gen",
+    "role": "background"
+  },
+  {
+    "path": "body/stage.webp",
+    "size": [
+      1600,
+      900
+    ],
+    "source": "Built-in image_gen",
+    "role": "background"
+  },
+  {
+    "path": "family/living.webp",
+    "size": [
+      1600,
+      900
+    ],
+    "source": "Built-in image_gen",
+    "role": "background"
+  },
+  {
+    "path": "family/garden.webp",
+    "size": [
+      1600,
+      900
+    ],
+    "source": "Built-in image_gen",
+    "role": "background"
+  },
+  {
+    "path": "family/studio.webp",
+    "size": [
+      1600,
+      900
+    ],
+    "source": "Built-in image_gen",
+    "role": "background"
+  },
+  {
+    "path": "body/rabbit-idle.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      101,
+      33,
+      418,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / body-rabbit-poses"
+  },
+  {
+    "path": "body/rabbit-nose.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      106,
+      31,
+      382,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / body-rabbit-poses"
+  },
+  {
+    "path": "body/rabbit-clap.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      98,
+      33,
+      346,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / body-rabbit-poses"
+  },
+  {
+    "path": "body/rabbit-march.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      106,
+      40,
+      416,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / body-rabbit-poses"
+  },
+  {
+    "path": "body/rabbit-blow.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      124,
+      39,
+      381,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / body-rabbit-poses"
+  },
+  {
+    "path": "body/rabbit-sleep.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      106,
+      45,
+      400,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / body-rabbit-poses"
+  },
+  {
+    "path": "family/mommy.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      82,
+      30,
+      429,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / family-roster"
+  },
+  {
+    "path": "family/daddy.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      95,
+      30,
+      416,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / family-roster"
+  },
+  {
+    "path": "family/grandma.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      101,
+      30,
+      411,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / family-roster"
+  },
+  {
+    "path": "family/grandpa.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      88,
+      30,
+      423,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / family-roster"
+  },
+  {
+    "path": "family/baby.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      30,
+      30,
+      482,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / family-roster"
+  },
+  {
+    "path": "family/frame.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      56,
+      30,
+      456,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / family-roster"
+  },
+  {
+    "path": "themes/gift.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      27,
+      30,
+      484,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / theme-props"
+  },
+  {
+    "path": "themes/storybook.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      22,
+      140,
+      490,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / theme-props"
+  },
+  {
+    "path": "themes/balloon.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      90,
+      30,
+      421,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / theme-props"
+  },
+  {
+    "path": "themes/camera.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      22,
+      113,
+      490,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / theme-props"
+  },
+  {
+    "path": "themes/bell.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      38,
+      31,
+      475,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / theme-props"
+  },
+  {
+    "path": "themes/butterfly.png",
+    "size": [
+      512,
+      512
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "bounds": [
+      22,
+      113,
+      490,
+      500
+    ],
+    "anchor": [
+      256,
+      500
+    ],
+    "source": "Built-in image_gen / theme-props"
+  }
+]

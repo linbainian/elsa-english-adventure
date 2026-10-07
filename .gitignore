@@ -1,0 +1,38 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+*.log
+software/node/node_cache/
+
+# Each computer installs its own runtime. Never publish local credentials or binaries.
+/software/
+*.exe
+*.dll
+*.pdb
+*.pem
+*.key
+*.pfx
+*.p12
+*.zip
+.DS_Store
+Thumbs.db
+
+# Keep final screenshots/GIFs and source atlases, omit reproducible capture frames.
+/docs/previews/frames/
+/docs/previews/*-frames/
+/docs/art-source/**/*.html
+/docs/art-source/elsa-candidates/
+
+# Retain the seven actual source cutouts used by normalize-elsa-looks.py.
+/docs/elsa-source-candidates/*
+!/docs/elsa-source-candidates/spring-freeicons-curl.png
+!/docs/elsa-source-candidates/spring-wpb-original.png
+!/docs/elsa-source-candidates/holiday-t1-original.png
+!/docs/elsa-source-candidates/coronation-ovh-original.png
+!/docs/elsa-source-candidates/pngall-Elsa-PNG-Picture.png
+!/docs/elsa-source-candidates/pngall-Disney-Princess-Elsa-Transparent.png
+!/docs/elsa-source-candidates/pngall-Elsa-PNG-HD-Image.png

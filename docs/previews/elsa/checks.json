@@ -1,0 +1,91 @@
+{
+  "errors": [],
+  "missing": [],
+  "states": [
+    {
+      "id": "garden",
+      "phase": "celebrating",
+      "theme": "body",
+      "world": "body-workshop",
+      "moment": "nose-wiggle",
+      "travel": "false",
+      "turn": "success",
+      "elsaLook": "garden",
+      "elsaTexture": "elsa-garden",
+      "elsaFrameWidth": "1024"
+    },
+    {
+      "id": "spring",
+      "phase": "celebrating",
+      "theme": "family",
+      "world": "family-home",
+      "moment": "family-welcome",
+      "travel": "false",
+      "turn": "success",
+      "elsaLook": "spring",
+      "elsaTexture": "elsa-spring",
+      "elsaFrameWidth": "1024"
+    },
+    {
+      "id": "winter",
+      "phase": "celebrating",
+      "theme": "animals",
+      "world": "animals-shelter",
+      "moment": "animal-cat-wake",
+      "travel": "false",
+      "turn": "success",
+      "elsaLook": "winter",
+      "elsaTexture": "elsa-winter",
+      "elsaFrameWidth": "1024",
+      "animalFriends": "cat",
+      "animalCount": "1",
+      "fishHabitat": "",
+      "fishInWater": "true",
+      "animalTextures": "{\"cat\":\"theme-animals/cat\",\"dog\":\"theme-animals/dog\",\"rabbit\":\"theme-animals/rabbit\"}",
+      "animalFrameWidths": "[512,512,512]"
+    },
+    {
+      "id": "ice",
+      "phase": "celebrating",
+      "theme": "welcome",
+      "world": "welcome-glade",
+      "moment": "welcome-wave",
+      "travel": "false",
+      "turn": "success",
+      "elsaLook": "ice",
+      "elsaTexture": "elsa-ice-wave",
+      "elsaFrameWidth": "1024",
+      "welcomeGateOpen": "false",
+      "welcomePhoto": "false"
+    },
+    {
+      "id": "spirit",
+      "phase": "celebrating",
+      "theme": "welcome",
+      "world": "welcome-palace",
+      "moment": "welcome-knock",
+      "travel": "false",
+      "turn": "success",
+      "elsaLook": "spirit",
+      "elsaTexture": "elsa-spirit",
+      "elsaFrameWidth": "1024",
+      "welcomeGateOpen": "false",
+      "welcomePhoto": "false"
+    },
+    {
+      "id": "starlight",
+      "phase": "celebrating",
+      "theme": "welcome",
+      "world": "welcome-party",
+      "moment": "welcome-owl-peek",
+      "travel": "false",
+      "turn": "success",
+      "elsaLook": "starlight",
+      "elsaTexture": "elsa-starlight",
+      "elsaFrameWidth": "1024",
+      "welcomeGateOpen": "false",
+      "welcomePhoto": "false"
+    }
+  ],
+  "note": "Real Phaser rendering in the production build. Only child sound activity and recorded audio end events are simulated."
+}
